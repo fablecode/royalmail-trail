@@ -16,7 +16,7 @@
   <Properties>
     <DisplayName>royalmail.trail.UWP</DisplayName>
     <PublisherDisplayName>aa494616-f582-4d06-90cf-831bf268c9cd</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <Logo>Assets\Tiles\StoreLogo.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -33,18 +33,18 @@
       EntryPoint="royalmail.trail.UWP.App">
       <uap:VisualElements
         DisplayName="royalmail.trail.UWP"
-        Square150x150Logo="Assets\Square150x150Logo.png"
-        Square44x44Logo="Assets\Square44x44Logo.png"
+        Square150x150Logo="Assets\Tiles\Square150x150Logo.png"
+        Square44x44Logo="Assets\Tiles\Square44x44Logo.png"
         Description="royalmail.trail.UWP"
         BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png" Square71x71Logo="Assets\SmallTile.png">
+        <uap:DefaultTile Wide310x150Logo="Assets\Tiles\Wide310x150Logo.png" Square310x310Logo="Assets\Tiles\LargeTile.png" Square71x71Logo="Assets\Tiles\SmallTile.png">
           <uap:ShowNameOnTiles>
             <uap:ShowOn Tile="square150x150Logo" />
             <uap:ShowOn Tile="wide310x150Logo" />
             <uap:ShowOn Tile="square310x310Logo" />
           </uap:ShowNameOnTiles>
         </uap:DefaultTile>
-        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:SplashScreen Image="Assets\Tiles\SplashScreen.png" />
       </uap:VisualElements>
     </Application>
   </Applications>

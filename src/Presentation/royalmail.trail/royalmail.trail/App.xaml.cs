@@ -1,6 +1,5 @@
-﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
+using MainPage = royalmail.trail.Views.Main.MainPage;
 
 namespace royalmail.trail
 {

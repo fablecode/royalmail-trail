@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:markup="clr-namespace:royalmail.trail.Extensions.Markup;assembly=royalmail.trail"
+             x:Class="royalmail.trail.Views.Main.MainPage"
+             Title="Track you item">
+    <ContentPage.Content>
+        <StackLayout Margin="15,50,15,0">
+            <Image Source="{markup:ImageResource royalmail.trail.Assets.Images.royalmaillogo.png}" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <StackLayout VerticalOptions="Center">
+                <Label Text="ReferenceNumber" />
+                <Entry x:Name="ReferenceNumberEntry" Placeholder="e.g. XH45554533GB" />
+                <Button Text="Search"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
