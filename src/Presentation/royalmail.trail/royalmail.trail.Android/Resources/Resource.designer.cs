@@ -26,6 +26,1512 @@ namespace royalmail.trail.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Reactive.Bindings.Resource.Animation.abc_fade_in = global::royalmail.trail.Droid.Resource.Animation.abc_fade_in;
+			global::Reactive.Bindings.Resource.Animation.abc_fade_out = global::royalmail.trail.Droid.Resource.Animation.abc_fade_out;
+			global::Reactive.Bindings.Resource.Animation.abc_grow_fade_in_from_bottom = global::royalmail.trail.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Reactive.Bindings.Resource.Animation.abc_popup_enter = global::royalmail.trail.Droid.Resource.Animation.abc_popup_enter;
+			global::Reactive.Bindings.Resource.Animation.abc_popup_exit = global::royalmail.trail.Droid.Resource.Animation.abc_popup_exit;
+			global::Reactive.Bindings.Resource.Animation.abc_shrink_fade_out_from_bottom = global::royalmail.trail.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Reactive.Bindings.Resource.Animation.abc_slide_in_bottom = global::royalmail.trail.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Reactive.Bindings.Resource.Animation.abc_slide_in_top = global::royalmail.trail.Droid.Resource.Animation.abc_slide_in_top;
+			global::Reactive.Bindings.Resource.Animation.abc_slide_out_bottom = global::royalmail.trail.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Reactive.Bindings.Resource.Animation.abc_slide_out_top = global::royalmail.trail.Droid.Resource.Animation.abc_slide_out_top;
+			global::Reactive.Bindings.Resource.Attribute.actionBarDivider = global::royalmail.trail.Droid.Resource.Attribute.actionBarDivider;
+			global::Reactive.Bindings.Resource.Attribute.actionBarItemBackground = global::royalmail.trail.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Reactive.Bindings.Resource.Attribute.actionBarPopupTheme = global::royalmail.trail.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Reactive.Bindings.Resource.Attribute.actionBarSize = global::royalmail.trail.Droid.Resource.Attribute.actionBarSize;
+			global::Reactive.Bindings.Resource.Attribute.actionBarSplitStyle = global::royalmail.trail.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionBarStyle = global::royalmail.trail.Droid.Resource.Attribute.actionBarStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionBarTabBarStyle = global::royalmail.trail.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionBarTabStyle = global::royalmail.trail.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionBarTabTextStyle = global::royalmail.trail.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionBarTheme = global::royalmail.trail.Droid.Resource.Attribute.actionBarTheme;
+			global::Reactive.Bindings.Resource.Attribute.actionBarWidgetTheme = global::royalmail.trail.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Reactive.Bindings.Resource.Attribute.actionButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.actionButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionDropDownStyle = global::royalmail.trail.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionLayout = global::royalmail.trail.Droid.Resource.Attribute.actionLayout;
+			global::Reactive.Bindings.Resource.Attribute.actionMenuTextAppearance = global::royalmail.trail.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Reactive.Bindings.Resource.Attribute.actionMenuTextColor = global::royalmail.trail.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Reactive.Bindings.Resource.Attribute.actionModeBackground = global::royalmail.trail.Droid.Resource.Attribute.actionModeBackground;
+			global::Reactive.Bindings.Resource.Attribute.actionModeCloseButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionModeCloseDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionModeCopyDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionModeCutDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionModeFindDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionModePasteDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionModePopupWindowStyle = global::royalmail.trail.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionModeSelectAllDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionModeShareDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionModeSplitBackground = global::royalmail.trail.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Reactive.Bindings.Resource.Attribute.actionModeStyle = global::royalmail.trail.Droid.Resource.Attribute.actionModeStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionModeWebSearchDrawable = global::royalmail.trail.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Reactive.Bindings.Resource.Attribute.actionOverflowButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionOverflowMenuStyle = global::royalmail.trail.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Reactive.Bindings.Resource.Attribute.actionProviderClass = global::royalmail.trail.Droid.Resource.Attribute.actionProviderClass;
+			global::Reactive.Bindings.Resource.Attribute.actionViewClass = global::royalmail.trail.Droid.Resource.Attribute.actionViewClass;
+			global::Reactive.Bindings.Resource.Attribute.activityChooserViewStyle = global::royalmail.trail.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Reactive.Bindings.Resource.Attribute.alertDialogButtonGroupStyle = global::royalmail.trail.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Reactive.Bindings.Resource.Attribute.alertDialogCenterButtons = global::royalmail.trail.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Reactive.Bindings.Resource.Attribute.alertDialogStyle = global::royalmail.trail.Droid.Resource.Attribute.alertDialogStyle;
+			global::Reactive.Bindings.Resource.Attribute.alertDialogTheme = global::royalmail.trail.Droid.Resource.Attribute.alertDialogTheme;
+			global::Reactive.Bindings.Resource.Attribute.allowStacking = global::royalmail.trail.Droid.Resource.Attribute.allowStacking;
+			global::Reactive.Bindings.Resource.Attribute.alpha = global::royalmail.trail.Droid.Resource.Attribute.alpha;
+			global::Reactive.Bindings.Resource.Attribute.alphabeticModifiers = global::royalmail.trail.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Reactive.Bindings.Resource.Attribute.arrowHeadLength = global::royalmail.trail.Droid.Resource.Attribute.arrowHeadLength;
+			global::Reactive.Bindings.Resource.Attribute.arrowShaftLength = global::royalmail.trail.Droid.Resource.Attribute.arrowShaftLength;
+			global::Reactive.Bindings.Resource.Attribute.autoCompleteTextViewStyle = global::royalmail.trail.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Reactive.Bindings.Resource.Attribute.autoSizeMaxTextSize = global::royalmail.trail.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Reactive.Bindings.Resource.Attribute.autoSizeMinTextSize = global::royalmail.trail.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Reactive.Bindings.Resource.Attribute.autoSizePresetSizes = global::royalmail.trail.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Reactive.Bindings.Resource.Attribute.autoSizeStepGranularity = global::royalmail.trail.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Reactive.Bindings.Resource.Attribute.autoSizeTextType = global::royalmail.trail.Droid.Resource.Attribute.autoSizeTextType;
+			global::Reactive.Bindings.Resource.Attribute.background = global::royalmail.trail.Droid.Resource.Attribute.background;
+			global::Reactive.Bindings.Resource.Attribute.backgroundSplit = global::royalmail.trail.Droid.Resource.Attribute.backgroundSplit;
+			global::Reactive.Bindings.Resource.Attribute.backgroundStacked = global::royalmail.trail.Droid.Resource.Attribute.backgroundStacked;
+			global::Reactive.Bindings.Resource.Attribute.backgroundTint = global::royalmail.trail.Droid.Resource.Attribute.backgroundTint;
+			global::Reactive.Bindings.Resource.Attribute.backgroundTintMode = global::royalmail.trail.Droid.Resource.Attribute.backgroundTintMode;
+			global::Reactive.Bindings.Resource.Attribute.barLength = global::royalmail.trail.Droid.Resource.Attribute.barLength;
+			global::Reactive.Bindings.Resource.Attribute.borderlessButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.buttonBarButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.buttonBarNegativeButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.buttonBarNeutralButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.buttonBarPositiveButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.buttonBarStyle = global::royalmail.trail.Droid.Resource.Attribute.buttonBarStyle;
+			global::Reactive.Bindings.Resource.Attribute.buttonGravity = global::royalmail.trail.Droid.Resource.Attribute.buttonGravity;
+			global::Reactive.Bindings.Resource.Attribute.buttonPanelSideLayout = global::royalmail.trail.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Reactive.Bindings.Resource.Attribute.buttonStyle = global::royalmail.trail.Droid.Resource.Attribute.buttonStyle;
+			global::Reactive.Bindings.Resource.Attribute.buttonStyleSmall = global::royalmail.trail.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Reactive.Bindings.Resource.Attribute.buttonTint = global::royalmail.trail.Droid.Resource.Attribute.buttonTint;
+			global::Reactive.Bindings.Resource.Attribute.buttonTintMode = global::royalmail.trail.Droid.Resource.Attribute.buttonTintMode;
+			global::Reactive.Bindings.Resource.Attribute.checkboxStyle = global::royalmail.trail.Droid.Resource.Attribute.checkboxStyle;
+			global::Reactive.Bindings.Resource.Attribute.checkedTextViewStyle = global::royalmail.trail.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Reactive.Bindings.Resource.Attribute.closeIcon = global::royalmail.trail.Droid.Resource.Attribute.closeIcon;
+			global::Reactive.Bindings.Resource.Attribute.closeItemLayout = global::royalmail.trail.Droid.Resource.Attribute.closeItemLayout;
+			global::Reactive.Bindings.Resource.Attribute.collapseContentDescription = global::royalmail.trail.Droid.Resource.Attribute.collapseContentDescription;
+			global::Reactive.Bindings.Resource.Attribute.collapseIcon = global::royalmail.trail.Droid.Resource.Attribute.collapseIcon;
+			global::Reactive.Bindings.Resource.Attribute.color = global::royalmail.trail.Droid.Resource.Attribute.color;
+			global::Reactive.Bindings.Resource.Attribute.colorAccent = global::royalmail.trail.Droid.Resource.Attribute.colorAccent;
+			global::Reactive.Bindings.Resource.Attribute.colorBackgroundFloating = global::royalmail.trail.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Reactive.Bindings.Resource.Attribute.colorButtonNormal = global::royalmail.trail.Droid.Resource.Attribute.colorButtonNormal;
+			global::Reactive.Bindings.Resource.Attribute.colorControlActivated = global::royalmail.trail.Droid.Resource.Attribute.colorControlActivated;
+			global::Reactive.Bindings.Resource.Attribute.colorControlHighlight = global::royalmail.trail.Droid.Resource.Attribute.colorControlHighlight;
+			global::Reactive.Bindings.Resource.Attribute.colorControlNormal = global::royalmail.trail.Droid.Resource.Attribute.colorControlNormal;
+			global::Reactive.Bindings.Resource.Attribute.colorError = global::royalmail.trail.Droid.Resource.Attribute.colorError;
+			global::Reactive.Bindings.Resource.Attribute.colorPrimary = global::royalmail.trail.Droid.Resource.Attribute.colorPrimary;
+			global::Reactive.Bindings.Resource.Attribute.colorPrimaryDark = global::royalmail.trail.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Reactive.Bindings.Resource.Attribute.colorSwitchThumbNormal = global::royalmail.trail.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Reactive.Bindings.Resource.Attribute.commitIcon = global::royalmail.trail.Droid.Resource.Attribute.commitIcon;
+			global::Reactive.Bindings.Resource.Attribute.contentDescription = global::royalmail.trail.Droid.Resource.Attribute.contentDescription;
+			global::Reactive.Bindings.Resource.Attribute.contentInsetEnd = global::royalmail.trail.Droid.Resource.Attribute.contentInsetEnd;
+			global::Reactive.Bindings.Resource.Attribute.contentInsetEndWithActions = global::royalmail.trail.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Reactive.Bindings.Resource.Attribute.contentInsetLeft = global::royalmail.trail.Droid.Resource.Attribute.contentInsetLeft;
+			global::Reactive.Bindings.Resource.Attribute.contentInsetRight = global::royalmail.trail.Droid.Resource.Attribute.contentInsetRight;
+			global::Reactive.Bindings.Resource.Attribute.contentInsetStart = global::royalmail.trail.Droid.Resource.Attribute.contentInsetStart;
+			global::Reactive.Bindings.Resource.Attribute.contentInsetStartWithNavigation = global::royalmail.trail.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Reactive.Bindings.Resource.Attribute.controlBackground = global::royalmail.trail.Droid.Resource.Attribute.controlBackground;
+			global::Reactive.Bindings.Resource.Attribute.customNavigationLayout = global::royalmail.trail.Droid.Resource.Attribute.customNavigationLayout;
+			global::Reactive.Bindings.Resource.Attribute.defaultQueryHint = global::royalmail.trail.Droid.Resource.Attribute.defaultQueryHint;
+			global::Reactive.Bindings.Resource.Attribute.dialogPreferredPadding = global::royalmail.trail.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Reactive.Bindings.Resource.Attribute.dialogTheme = global::royalmail.trail.Droid.Resource.Attribute.dialogTheme;
+			global::Reactive.Bindings.Resource.Attribute.displayOptions = global::royalmail.trail.Droid.Resource.Attribute.displayOptions;
+			global::Reactive.Bindings.Resource.Attribute.divider = global::royalmail.trail.Droid.Resource.Attribute.divider;
+			global::Reactive.Bindings.Resource.Attribute.dividerHorizontal = global::royalmail.trail.Droid.Resource.Attribute.dividerHorizontal;
+			global::Reactive.Bindings.Resource.Attribute.dividerPadding = global::royalmail.trail.Droid.Resource.Attribute.dividerPadding;
+			global::Reactive.Bindings.Resource.Attribute.dividerVertical = global::royalmail.trail.Droid.Resource.Attribute.dividerVertical;
+			global::Reactive.Bindings.Resource.Attribute.drawableSize = global::royalmail.trail.Droid.Resource.Attribute.drawableSize;
+			global::Reactive.Bindings.Resource.Attribute.drawerArrowStyle = global::royalmail.trail.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Reactive.Bindings.Resource.Attribute.dropdownListPreferredItemHeight = global::royalmail.trail.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Reactive.Bindings.Resource.Attribute.dropDownListViewStyle = global::royalmail.trail.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Reactive.Bindings.Resource.Attribute.editTextBackground = global::royalmail.trail.Droid.Resource.Attribute.editTextBackground;
+			global::Reactive.Bindings.Resource.Attribute.editTextColor = global::royalmail.trail.Droid.Resource.Attribute.editTextColor;
+			global::Reactive.Bindings.Resource.Attribute.editTextStyle = global::royalmail.trail.Droid.Resource.Attribute.editTextStyle;
+			global::Reactive.Bindings.Resource.Attribute.elevation = global::royalmail.trail.Droid.Resource.Attribute.elevation;
+			global::Reactive.Bindings.Resource.Attribute.expandActivityOverflowButtonDrawable = global::royalmail.trail.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Reactive.Bindings.Resource.Attribute.font = global::royalmail.trail.Droid.Resource.Attribute.font;
+			global::Reactive.Bindings.Resource.Attribute.fontFamily = global::royalmail.trail.Droid.Resource.Attribute.fontFamily;
+			global::Reactive.Bindings.Resource.Attribute.fontProviderAuthority = global::royalmail.trail.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Reactive.Bindings.Resource.Attribute.fontProviderCerts = global::royalmail.trail.Droid.Resource.Attribute.fontProviderCerts;
+			global::Reactive.Bindings.Resource.Attribute.fontProviderFetchStrategy = global::royalmail.trail.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Reactive.Bindings.Resource.Attribute.fontProviderFetchTimeout = global::royalmail.trail.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Reactive.Bindings.Resource.Attribute.fontProviderPackage = global::royalmail.trail.Droid.Resource.Attribute.fontProviderPackage;
+			global::Reactive.Bindings.Resource.Attribute.fontProviderQuery = global::royalmail.trail.Droid.Resource.Attribute.fontProviderQuery;
+			global::Reactive.Bindings.Resource.Attribute.fontStyle = global::royalmail.trail.Droid.Resource.Attribute.fontStyle;
+			global::Reactive.Bindings.Resource.Attribute.fontWeight = global::royalmail.trail.Droid.Resource.Attribute.fontWeight;
+			global::Reactive.Bindings.Resource.Attribute.gapBetweenBars = global::royalmail.trail.Droid.Resource.Attribute.gapBetweenBars;
+			global::Reactive.Bindings.Resource.Attribute.goIcon = global::royalmail.trail.Droid.Resource.Attribute.goIcon;
+			global::Reactive.Bindings.Resource.Attribute.height = global::royalmail.trail.Droid.Resource.Attribute.height;
+			global::Reactive.Bindings.Resource.Attribute.hideOnContentScroll = global::royalmail.trail.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Reactive.Bindings.Resource.Attribute.homeAsUpIndicator = global::royalmail.trail.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Reactive.Bindings.Resource.Attribute.homeLayout = global::royalmail.trail.Droid.Resource.Attribute.homeLayout;
+			global::Reactive.Bindings.Resource.Attribute.icon = global::royalmail.trail.Droid.Resource.Attribute.icon;
+			global::Reactive.Bindings.Resource.Attribute.iconifiedByDefault = global::royalmail.trail.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Reactive.Bindings.Resource.Attribute.iconTint = global::royalmail.trail.Droid.Resource.Attribute.iconTint;
+			global::Reactive.Bindings.Resource.Attribute.iconTintMode = global::royalmail.trail.Droid.Resource.Attribute.iconTintMode;
+			global::Reactive.Bindings.Resource.Attribute.imageButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.imageButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.indeterminateProgressStyle = global::royalmail.trail.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Reactive.Bindings.Resource.Attribute.initialActivityCount = global::royalmail.trail.Droid.Resource.Attribute.initialActivityCount;
+			global::Reactive.Bindings.Resource.Attribute.isLightTheme = global::royalmail.trail.Droid.Resource.Attribute.isLightTheme;
+			global::Reactive.Bindings.Resource.Attribute.itemPadding = global::royalmail.trail.Droid.Resource.Attribute.itemPadding;
+			global::Reactive.Bindings.Resource.Attribute.layout = global::royalmail.trail.Droid.Resource.Attribute.layout;
+			global::Reactive.Bindings.Resource.Attribute.listChoiceBackgroundIndicator = global::royalmail.trail.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Reactive.Bindings.Resource.Attribute.listDividerAlertDialog = global::royalmail.trail.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Reactive.Bindings.Resource.Attribute.listItemLayout = global::royalmail.trail.Droid.Resource.Attribute.listItemLayout;
+			global::Reactive.Bindings.Resource.Attribute.listLayout = global::royalmail.trail.Droid.Resource.Attribute.listLayout;
+			global::Reactive.Bindings.Resource.Attribute.listMenuViewStyle = global::royalmail.trail.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Reactive.Bindings.Resource.Attribute.listPopupWindowStyle = global::royalmail.trail.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Reactive.Bindings.Resource.Attribute.listPreferredItemHeight = global::royalmail.trail.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Reactive.Bindings.Resource.Attribute.listPreferredItemHeightLarge = global::royalmail.trail.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Reactive.Bindings.Resource.Attribute.listPreferredItemHeightSmall = global::royalmail.trail.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Reactive.Bindings.Resource.Attribute.listPreferredItemPaddingLeft = global::royalmail.trail.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Reactive.Bindings.Resource.Attribute.listPreferredItemPaddingRight = global::royalmail.trail.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Reactive.Bindings.Resource.Attribute.logo = global::royalmail.trail.Droid.Resource.Attribute.logo;
+			global::Reactive.Bindings.Resource.Attribute.logoDescription = global::royalmail.trail.Droid.Resource.Attribute.logoDescription;
+			global::Reactive.Bindings.Resource.Attribute.maxButtonHeight = global::royalmail.trail.Droid.Resource.Attribute.maxButtonHeight;
+			global::Reactive.Bindings.Resource.Attribute.measureWithLargestChild = global::royalmail.trail.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Reactive.Bindings.Resource.Attribute.multiChoiceItemLayout = global::royalmail.trail.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Reactive.Bindings.Resource.Attribute.navigationContentDescription = global::royalmail.trail.Droid.Resource.Attribute.navigationContentDescription;
+			global::Reactive.Bindings.Resource.Attribute.navigationIcon = global::royalmail.trail.Droid.Resource.Attribute.navigationIcon;
+			global::Reactive.Bindings.Resource.Attribute.navigationMode = global::royalmail.trail.Droid.Resource.Attribute.navigationMode;
+			global::Reactive.Bindings.Resource.Attribute.numericModifiers = global::royalmail.trail.Droid.Resource.Attribute.numericModifiers;
+			global::Reactive.Bindings.Resource.Attribute.overlapAnchor = global::royalmail.trail.Droid.Resource.Attribute.overlapAnchor;
+			global::Reactive.Bindings.Resource.Attribute.paddingBottomNoButtons = global::royalmail.trail.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Reactive.Bindings.Resource.Attribute.paddingEnd = global::royalmail.trail.Droid.Resource.Attribute.paddingEnd;
+			global::Reactive.Bindings.Resource.Attribute.paddingStart = global::royalmail.trail.Droid.Resource.Attribute.paddingStart;
+			global::Reactive.Bindings.Resource.Attribute.paddingTopNoTitle = global::royalmail.trail.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Reactive.Bindings.Resource.Attribute.panelBackground = global::royalmail.trail.Droid.Resource.Attribute.panelBackground;
+			global::Reactive.Bindings.Resource.Attribute.panelMenuListTheme = global::royalmail.trail.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Reactive.Bindings.Resource.Attribute.panelMenuListWidth = global::royalmail.trail.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Reactive.Bindings.Resource.Attribute.popupMenuStyle = global::royalmail.trail.Droid.Resource.Attribute.popupMenuStyle;
+			global::Reactive.Bindings.Resource.Attribute.popupTheme = global::royalmail.trail.Droid.Resource.Attribute.popupTheme;
+			global::Reactive.Bindings.Resource.Attribute.popupWindowStyle = global::royalmail.trail.Droid.Resource.Attribute.popupWindowStyle;
+			global::Reactive.Bindings.Resource.Attribute.preserveIconSpacing = global::royalmail.trail.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Reactive.Bindings.Resource.Attribute.progressBarPadding = global::royalmail.trail.Droid.Resource.Attribute.progressBarPadding;
+			global::Reactive.Bindings.Resource.Attribute.progressBarStyle = global::royalmail.trail.Droid.Resource.Attribute.progressBarStyle;
+			global::Reactive.Bindings.Resource.Attribute.queryBackground = global::royalmail.trail.Droid.Resource.Attribute.queryBackground;
+			global::Reactive.Bindings.Resource.Attribute.queryHint = global::royalmail.trail.Droid.Resource.Attribute.queryHint;
+			global::Reactive.Bindings.Resource.Attribute.radioButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.radioButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.ratingBarStyle = global::royalmail.trail.Droid.Resource.Attribute.ratingBarStyle;
+			global::Reactive.Bindings.Resource.Attribute.ratingBarStyleIndicator = global::royalmail.trail.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Reactive.Bindings.Resource.Attribute.ratingBarStyleSmall = global::royalmail.trail.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Reactive.Bindings.Resource.Attribute.searchHintIcon = global::royalmail.trail.Droid.Resource.Attribute.searchHintIcon;
+			global::Reactive.Bindings.Resource.Attribute.searchIcon = global::royalmail.trail.Droid.Resource.Attribute.searchIcon;
+			global::Reactive.Bindings.Resource.Attribute.searchViewStyle = global::royalmail.trail.Droid.Resource.Attribute.searchViewStyle;
+			global::Reactive.Bindings.Resource.Attribute.seekBarStyle = global::royalmail.trail.Droid.Resource.Attribute.seekBarStyle;
+			global::Reactive.Bindings.Resource.Attribute.selectableItemBackground = global::royalmail.trail.Droid.Resource.Attribute.selectableItemBackground;
+			global::Reactive.Bindings.Resource.Attribute.selectableItemBackgroundBorderless = global::royalmail.trail.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Reactive.Bindings.Resource.Attribute.showAsAction = global::royalmail.trail.Droid.Resource.Attribute.showAsAction;
+			global::Reactive.Bindings.Resource.Attribute.showDividers = global::royalmail.trail.Droid.Resource.Attribute.showDividers;
+			global::Reactive.Bindings.Resource.Attribute.showText = global::royalmail.trail.Droid.Resource.Attribute.showText;
+			global::Reactive.Bindings.Resource.Attribute.showTitle = global::royalmail.trail.Droid.Resource.Attribute.showTitle;
+			global::Reactive.Bindings.Resource.Attribute.singleChoiceItemLayout = global::royalmail.trail.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Reactive.Bindings.Resource.Attribute.spinBars = global::royalmail.trail.Droid.Resource.Attribute.spinBars;
+			global::Reactive.Bindings.Resource.Attribute.spinnerDropDownItemStyle = global::royalmail.trail.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Reactive.Bindings.Resource.Attribute.spinnerStyle = global::royalmail.trail.Droid.Resource.Attribute.spinnerStyle;
+			global::Reactive.Bindings.Resource.Attribute.splitTrack = global::royalmail.trail.Droid.Resource.Attribute.splitTrack;
+			global::Reactive.Bindings.Resource.Attribute.srcCompat = global::royalmail.trail.Droid.Resource.Attribute.srcCompat;
+			global::Reactive.Bindings.Resource.Attribute.state_above_anchor = global::royalmail.trail.Droid.Resource.Attribute.state_above_anchor;
+			global::Reactive.Bindings.Resource.Attribute.subMenuArrow = global::royalmail.trail.Droid.Resource.Attribute.subMenuArrow;
+			global::Reactive.Bindings.Resource.Attribute.submitBackground = global::royalmail.trail.Droid.Resource.Attribute.submitBackground;
+			global::Reactive.Bindings.Resource.Attribute.subtitle = global::royalmail.trail.Droid.Resource.Attribute.subtitle;
+			global::Reactive.Bindings.Resource.Attribute.subtitleTextAppearance = global::royalmail.trail.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Reactive.Bindings.Resource.Attribute.subtitleTextColor = global::royalmail.trail.Droid.Resource.Attribute.subtitleTextColor;
+			global::Reactive.Bindings.Resource.Attribute.subtitleTextStyle = global::royalmail.trail.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Reactive.Bindings.Resource.Attribute.suggestionRowLayout = global::royalmail.trail.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Reactive.Bindings.Resource.Attribute.switchMinWidth = global::royalmail.trail.Droid.Resource.Attribute.switchMinWidth;
+			global::Reactive.Bindings.Resource.Attribute.switchPadding = global::royalmail.trail.Droid.Resource.Attribute.switchPadding;
+			global::Reactive.Bindings.Resource.Attribute.switchStyle = global::royalmail.trail.Droid.Resource.Attribute.switchStyle;
+			global::Reactive.Bindings.Resource.Attribute.switchTextAppearance = global::royalmail.trail.Droid.Resource.Attribute.switchTextAppearance;
+			global::Reactive.Bindings.Resource.Attribute.textAllCaps = global::royalmail.trail.Droid.Resource.Attribute.textAllCaps;
+			global::Reactive.Bindings.Resource.Attribute.textAppearanceLargePopupMenu = global::royalmail.trail.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Reactive.Bindings.Resource.Attribute.textAppearanceListItem = global::royalmail.trail.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Reactive.Bindings.Resource.Attribute.textAppearanceListItemSecondary = global::royalmail.trail.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Reactive.Bindings.Resource.Attribute.textAppearanceListItemSmall = global::royalmail.trail.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Reactive.Bindings.Resource.Attribute.textAppearancePopupMenuHeader = global::royalmail.trail.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Reactive.Bindings.Resource.Attribute.textAppearanceSearchResultSubtitle = global::royalmail.trail.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Reactive.Bindings.Resource.Attribute.textAppearanceSearchResultTitle = global::royalmail.trail.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Reactive.Bindings.Resource.Attribute.textAppearanceSmallPopupMenu = global::royalmail.trail.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Reactive.Bindings.Resource.Attribute.textColorAlertDialogListItem = global::royalmail.trail.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Reactive.Bindings.Resource.Attribute.textColorSearchUrl = global::royalmail.trail.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Reactive.Bindings.Resource.Attribute.theme = global::royalmail.trail.Droid.Resource.Attribute.theme;
+			global::Reactive.Bindings.Resource.Attribute.thickness = global::royalmail.trail.Droid.Resource.Attribute.thickness;
+			global::Reactive.Bindings.Resource.Attribute.thumbTextPadding = global::royalmail.trail.Droid.Resource.Attribute.thumbTextPadding;
+			global::Reactive.Bindings.Resource.Attribute.thumbTint = global::royalmail.trail.Droid.Resource.Attribute.thumbTint;
+			global::Reactive.Bindings.Resource.Attribute.thumbTintMode = global::royalmail.trail.Droid.Resource.Attribute.thumbTintMode;
+			global::Reactive.Bindings.Resource.Attribute.tickMark = global::royalmail.trail.Droid.Resource.Attribute.tickMark;
+			global::Reactive.Bindings.Resource.Attribute.tickMarkTint = global::royalmail.trail.Droid.Resource.Attribute.tickMarkTint;
+			global::Reactive.Bindings.Resource.Attribute.tickMarkTintMode = global::royalmail.trail.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Reactive.Bindings.Resource.Attribute.tint = global::royalmail.trail.Droid.Resource.Attribute.tint;
+			global::Reactive.Bindings.Resource.Attribute.tintMode = global::royalmail.trail.Droid.Resource.Attribute.tintMode;
+			global::Reactive.Bindings.Resource.Attribute.title = global::royalmail.trail.Droid.Resource.Attribute.title;
+			global::Reactive.Bindings.Resource.Attribute.titleMargin = global::royalmail.trail.Droid.Resource.Attribute.titleMargin;
+			global::Reactive.Bindings.Resource.Attribute.titleMarginBottom = global::royalmail.trail.Droid.Resource.Attribute.titleMarginBottom;
+			global::Reactive.Bindings.Resource.Attribute.titleMarginEnd = global::royalmail.trail.Droid.Resource.Attribute.titleMarginEnd;
+			global::Reactive.Bindings.Resource.Attribute.titleMargins = global::royalmail.trail.Droid.Resource.Attribute.titleMargins;
+			global::Reactive.Bindings.Resource.Attribute.titleMarginStart = global::royalmail.trail.Droid.Resource.Attribute.titleMarginStart;
+			global::Reactive.Bindings.Resource.Attribute.titleMarginTop = global::royalmail.trail.Droid.Resource.Attribute.titleMarginTop;
+			global::Reactive.Bindings.Resource.Attribute.titleTextAppearance = global::royalmail.trail.Droid.Resource.Attribute.titleTextAppearance;
+			global::Reactive.Bindings.Resource.Attribute.titleTextColor = global::royalmail.trail.Droid.Resource.Attribute.titleTextColor;
+			global::Reactive.Bindings.Resource.Attribute.titleTextStyle = global::royalmail.trail.Droid.Resource.Attribute.titleTextStyle;
+			global::Reactive.Bindings.Resource.Attribute.toolbarNavigationButtonStyle = global::royalmail.trail.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Reactive.Bindings.Resource.Attribute.toolbarStyle = global::royalmail.trail.Droid.Resource.Attribute.toolbarStyle;
+			global::Reactive.Bindings.Resource.Attribute.tooltipForegroundColor = global::royalmail.trail.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Reactive.Bindings.Resource.Attribute.tooltipFrameBackground = global::royalmail.trail.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Reactive.Bindings.Resource.Attribute.tooltipText = global::royalmail.trail.Droid.Resource.Attribute.tooltipText;
+			global::Reactive.Bindings.Resource.Attribute.track = global::royalmail.trail.Droid.Resource.Attribute.track;
+			global::Reactive.Bindings.Resource.Attribute.trackTint = global::royalmail.trail.Droid.Resource.Attribute.trackTint;
+			global::Reactive.Bindings.Resource.Attribute.trackTintMode = global::royalmail.trail.Droid.Resource.Attribute.trackTintMode;
+			global::Reactive.Bindings.Resource.Attribute.voiceIcon = global::royalmail.trail.Droid.Resource.Attribute.voiceIcon;
+			global::Reactive.Bindings.Resource.Attribute.windowActionBar = global::royalmail.trail.Droid.Resource.Attribute.windowActionBar;
+			global::Reactive.Bindings.Resource.Attribute.windowActionBarOverlay = global::royalmail.trail.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Reactive.Bindings.Resource.Attribute.windowActionModeOverlay = global::royalmail.trail.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Reactive.Bindings.Resource.Attribute.windowFixedHeightMajor = global::royalmail.trail.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Reactive.Bindings.Resource.Attribute.windowFixedHeightMinor = global::royalmail.trail.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Reactive.Bindings.Resource.Attribute.windowFixedWidthMajor = global::royalmail.trail.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Reactive.Bindings.Resource.Attribute.windowFixedWidthMinor = global::royalmail.trail.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Reactive.Bindings.Resource.Attribute.windowMinWidthMajor = global::royalmail.trail.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Reactive.Bindings.Resource.Attribute.windowMinWidthMinor = global::royalmail.trail.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Reactive.Bindings.Resource.Attribute.windowNoTitle = global::royalmail.trail.Droid.Resource.Attribute.windowNoTitle;
+			global::Reactive.Bindings.Resource.Boolean.abc_action_bar_embed_tabs = global::royalmail.trail.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Reactive.Bindings.Resource.Boolean.abc_allow_stacked_button_bar = global::royalmail.trail.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Reactive.Bindings.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::royalmail.trail.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Reactive.Bindings.Resource.Color.abc_background_cache_hint_selector_material_dark = global::royalmail.trail.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Reactive.Bindings.Resource.Color.abc_background_cache_hint_selector_material_light = global::royalmail.trail.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Reactive.Bindings.Resource.Color.abc_btn_colored_borderless_text_material = global::royalmail.trail.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Reactive.Bindings.Resource.Color.abc_btn_colored_text_material = global::royalmail.trail.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Reactive.Bindings.Resource.Color.abc_color_highlight_material = global::royalmail.trail.Droid.Resource.Color.abc_color_highlight_material;
+			global::Reactive.Bindings.Resource.Color.abc_hint_foreground_material_dark = global::royalmail.trail.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Reactive.Bindings.Resource.Color.abc_hint_foreground_material_light = global::royalmail.trail.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Reactive.Bindings.Resource.Color.abc_input_method_navigation_guard = global::royalmail.trail.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Reactive.Bindings.Resource.Color.abc_primary_text_disable_only_material_dark = global::royalmail.trail.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Reactive.Bindings.Resource.Color.abc_primary_text_disable_only_material_light = global::royalmail.trail.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Reactive.Bindings.Resource.Color.abc_primary_text_material_dark = global::royalmail.trail.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Reactive.Bindings.Resource.Color.abc_primary_text_material_light = global::royalmail.trail.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Reactive.Bindings.Resource.Color.abc_search_url_text = global::royalmail.trail.Droid.Resource.Color.abc_search_url_text;
+			global::Reactive.Bindings.Resource.Color.abc_search_url_text_normal = global::royalmail.trail.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Reactive.Bindings.Resource.Color.abc_search_url_text_pressed = global::royalmail.trail.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Reactive.Bindings.Resource.Color.abc_search_url_text_selected = global::royalmail.trail.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Reactive.Bindings.Resource.Color.abc_secondary_text_material_dark = global::royalmail.trail.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Reactive.Bindings.Resource.Color.abc_secondary_text_material_light = global::royalmail.trail.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Reactive.Bindings.Resource.Color.abc_tint_btn_checkable = global::royalmail.trail.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Reactive.Bindings.Resource.Color.abc_tint_default = global::royalmail.trail.Droid.Resource.Color.abc_tint_default;
+			global::Reactive.Bindings.Resource.Color.abc_tint_edittext = global::royalmail.trail.Droid.Resource.Color.abc_tint_edittext;
+			global::Reactive.Bindings.Resource.Color.abc_tint_seek_thumb = global::royalmail.trail.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Reactive.Bindings.Resource.Color.abc_tint_spinner = global::royalmail.trail.Droid.Resource.Color.abc_tint_spinner;
+			global::Reactive.Bindings.Resource.Color.abc_tint_switch_track = global::royalmail.trail.Droid.Resource.Color.abc_tint_switch_track;
+			global::Reactive.Bindings.Resource.Color.accent_material_dark = global::royalmail.trail.Droid.Resource.Color.accent_material_dark;
+			global::Reactive.Bindings.Resource.Color.accent_material_light = global::royalmail.trail.Droid.Resource.Color.accent_material_light;
+			global::Reactive.Bindings.Resource.Color.background_floating_material_dark = global::royalmail.trail.Droid.Resource.Color.background_floating_material_dark;
+			global::Reactive.Bindings.Resource.Color.background_floating_material_light = global::royalmail.trail.Droid.Resource.Color.background_floating_material_light;
+			global::Reactive.Bindings.Resource.Color.background_material_dark = global::royalmail.trail.Droid.Resource.Color.background_material_dark;
+			global::Reactive.Bindings.Resource.Color.background_material_light = global::royalmail.trail.Droid.Resource.Color.background_material_light;
+			global::Reactive.Bindings.Resource.Color.bright_foreground_disabled_material_dark = global::royalmail.trail.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Reactive.Bindings.Resource.Color.bright_foreground_disabled_material_light = global::royalmail.trail.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Reactive.Bindings.Resource.Color.bright_foreground_inverse_material_dark = global::royalmail.trail.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Reactive.Bindings.Resource.Color.bright_foreground_inverse_material_light = global::royalmail.trail.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Reactive.Bindings.Resource.Color.bright_foreground_material_dark = global::royalmail.trail.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Reactive.Bindings.Resource.Color.bright_foreground_material_light = global::royalmail.trail.Droid.Resource.Color.bright_foreground_material_light;
+			global::Reactive.Bindings.Resource.Color.button_material_dark = global::royalmail.trail.Droid.Resource.Color.button_material_dark;
+			global::Reactive.Bindings.Resource.Color.button_material_light = global::royalmail.trail.Droid.Resource.Color.button_material_light;
+			global::Reactive.Bindings.Resource.Color.dim_foreground_disabled_material_dark = global::royalmail.trail.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Reactive.Bindings.Resource.Color.dim_foreground_disabled_material_light = global::royalmail.trail.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Reactive.Bindings.Resource.Color.dim_foreground_material_dark = global::royalmail.trail.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Reactive.Bindings.Resource.Color.dim_foreground_material_light = global::royalmail.trail.Droid.Resource.Color.dim_foreground_material_light;
+			global::Reactive.Bindings.Resource.Color.foreground_material_dark = global::royalmail.trail.Droid.Resource.Color.foreground_material_dark;
+			global::Reactive.Bindings.Resource.Color.foreground_material_light = global::royalmail.trail.Droid.Resource.Color.foreground_material_light;
+			global::Reactive.Bindings.Resource.Color.highlighted_text_material_dark = global::royalmail.trail.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Reactive.Bindings.Resource.Color.highlighted_text_material_light = global::royalmail.trail.Droid.Resource.Color.highlighted_text_material_light;
+			global::Reactive.Bindings.Resource.Color.material_blue_grey_800 = global::royalmail.trail.Droid.Resource.Color.material_blue_grey_800;
+			global::Reactive.Bindings.Resource.Color.material_blue_grey_900 = global::royalmail.trail.Droid.Resource.Color.material_blue_grey_900;
+			global::Reactive.Bindings.Resource.Color.material_blue_grey_950 = global::royalmail.trail.Droid.Resource.Color.material_blue_grey_950;
+			global::Reactive.Bindings.Resource.Color.material_deep_teal_200 = global::royalmail.trail.Droid.Resource.Color.material_deep_teal_200;
+			global::Reactive.Bindings.Resource.Color.material_deep_teal_500 = global::royalmail.trail.Droid.Resource.Color.material_deep_teal_500;
+			global::Reactive.Bindings.Resource.Color.material_grey_100 = global::royalmail.trail.Droid.Resource.Color.material_grey_100;
+			global::Reactive.Bindings.Resource.Color.material_grey_300 = global::royalmail.trail.Droid.Resource.Color.material_grey_300;
+			global::Reactive.Bindings.Resource.Color.material_grey_50 = global::royalmail.trail.Droid.Resource.Color.material_grey_50;
+			global::Reactive.Bindings.Resource.Color.material_grey_600 = global::royalmail.trail.Droid.Resource.Color.material_grey_600;
+			global::Reactive.Bindings.Resource.Color.material_grey_800 = global::royalmail.trail.Droid.Resource.Color.material_grey_800;
+			global::Reactive.Bindings.Resource.Color.material_grey_850 = global::royalmail.trail.Droid.Resource.Color.material_grey_850;
+			global::Reactive.Bindings.Resource.Color.material_grey_900 = global::royalmail.trail.Droid.Resource.Color.material_grey_900;
+			global::Reactive.Bindings.Resource.Color.notification_action_color_filter = global::royalmail.trail.Droid.Resource.Color.notification_action_color_filter;
+			global::Reactive.Bindings.Resource.Color.notification_icon_bg_color = global::royalmail.trail.Droid.Resource.Color.notification_icon_bg_color;
+			global::Reactive.Bindings.Resource.Color.notification_material_background_media_default_color = global::royalmail.trail.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Reactive.Bindings.Resource.Color.primary_dark_material_dark = global::royalmail.trail.Droid.Resource.Color.primary_dark_material_dark;
+			global::Reactive.Bindings.Resource.Color.primary_dark_material_light = global::royalmail.trail.Droid.Resource.Color.primary_dark_material_light;
+			global::Reactive.Bindings.Resource.Color.primary_material_dark = global::royalmail.trail.Droid.Resource.Color.primary_material_dark;
+			global::Reactive.Bindings.Resource.Color.primary_material_light = global::royalmail.trail.Droid.Resource.Color.primary_material_light;
+			global::Reactive.Bindings.Resource.Color.primary_text_default_material_dark = global::royalmail.trail.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Reactive.Bindings.Resource.Color.primary_text_default_material_light = global::royalmail.trail.Droid.Resource.Color.primary_text_default_material_light;
+			global::Reactive.Bindings.Resource.Color.primary_text_disabled_material_dark = global::royalmail.trail.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Reactive.Bindings.Resource.Color.primary_text_disabled_material_light = global::royalmail.trail.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Reactive.Bindings.Resource.Color.ripple_material_dark = global::royalmail.trail.Droid.Resource.Color.ripple_material_dark;
+			global::Reactive.Bindings.Resource.Color.ripple_material_light = global::royalmail.trail.Droid.Resource.Color.ripple_material_light;
+			global::Reactive.Bindings.Resource.Color.secondary_text_default_material_dark = global::royalmail.trail.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Reactive.Bindings.Resource.Color.secondary_text_default_material_light = global::royalmail.trail.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Reactive.Bindings.Resource.Color.secondary_text_disabled_material_dark = global::royalmail.trail.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Reactive.Bindings.Resource.Color.secondary_text_disabled_material_light = global::royalmail.trail.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Reactive.Bindings.Resource.Color.switch_thumb_disabled_material_dark = global::royalmail.trail.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Reactive.Bindings.Resource.Color.switch_thumb_disabled_material_light = global::royalmail.trail.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Reactive.Bindings.Resource.Color.switch_thumb_material_dark = global::royalmail.trail.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Reactive.Bindings.Resource.Color.switch_thumb_material_light = global::royalmail.trail.Droid.Resource.Color.switch_thumb_material_light;
+			global::Reactive.Bindings.Resource.Color.switch_thumb_normal_material_dark = global::royalmail.trail.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Reactive.Bindings.Resource.Color.switch_thumb_normal_material_light = global::royalmail.trail.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Reactive.Bindings.Resource.Color.tooltip_background_dark = global::royalmail.trail.Droid.Resource.Color.tooltip_background_dark;
+			global::Reactive.Bindings.Resource.Color.tooltip_background_light = global::royalmail.trail.Droid.Resource.Color.tooltip_background_light;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_content_inset_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_default_height_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_default_padding_end_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_default_padding_start_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_elevation_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_stacked_max_height = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_button_min_height_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_button_min_width_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_action_button_min_width_overflow_material = global::royalmail.trail.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_alert_dialog_button_bar_height = global::royalmail.trail.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Reactive.Bindings.Resource.Dimension.abc_button_inset_horizontal_material = global::royalmail.trail.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_button_inset_vertical_material = global::royalmail.trail.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_button_padding_horizontal_material = global::royalmail.trail.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_button_padding_vertical_material = global::royalmail.trail.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::royalmail.trail.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Reactive.Bindings.Resource.Dimension.abc_config_prefDialogWidth = global::royalmail.trail.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Reactive.Bindings.Resource.Dimension.abc_control_corner_material = global::royalmail.trail.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_control_inset_material = global::royalmail.trail.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_control_padding_material = global::royalmail.trail.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_fixed_height_major = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_fixed_height_minor = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_fixed_width_major = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_fixed_width_minor = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_min_width_major = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_min_width_minor = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_padding_material = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_padding_top_material = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_dialog_title_divider_material = global::royalmail.trail.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_disabled_alpha_material_dark = global::royalmail.trail.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Reactive.Bindings.Resource.Dimension.abc_disabled_alpha_material_light = global::royalmail.trail.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Reactive.Bindings.Resource.Dimension.abc_dropdownitem_icon_width = global::royalmail.trail.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Reactive.Bindings.Resource.Dimension.abc_dropdownitem_text_padding_left = global::royalmail.trail.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Reactive.Bindings.Resource.Dimension.abc_dropdownitem_text_padding_right = global::royalmail.trail.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Reactive.Bindings.Resource.Dimension.abc_edit_text_inset_bottom_material = global::royalmail.trail.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::royalmail.trail.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_edit_text_inset_top_material = global::royalmail.trail.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_floating_window_z = global::royalmail.trail.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Reactive.Bindings.Resource.Dimension.abc_list_item_padding_horizontal_material = global::royalmail.trail.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_panel_menu_list_width = global::royalmail.trail.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Reactive.Bindings.Resource.Dimension.abc_progress_bar_height_material = global::royalmail.trail.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_search_view_preferred_height = global::royalmail.trail.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Reactive.Bindings.Resource.Dimension.abc_search_view_preferred_width = global::royalmail.trail.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Reactive.Bindings.Resource.Dimension.abc_seekbar_track_background_height_material = global::royalmail.trail.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_seekbar_track_progress_height_material = global::royalmail.trail.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_select_dialog_padding_start_material = global::royalmail.trail.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_switch_padding = global::royalmail.trail.Droid.Resource.Dimension.abc_switch_padding;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_body_1_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_body_2_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_button_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_caption_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_display_1_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_display_2_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_display_3_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_display_4_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_headline_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_large_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_medium_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_menu_header_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_menu_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_small_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_subhead_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_title_material = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Reactive.Bindings.Resource.Dimension.abc_text_size_title_material_toolbar = global::royalmail.trail.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Reactive.Bindings.Resource.Dimension.compat_button_inset_horizontal_material = global::royalmail.trail.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Reactive.Bindings.Resource.Dimension.compat_button_inset_vertical_material = global::royalmail.trail.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Reactive.Bindings.Resource.Dimension.compat_button_padding_horizontal_material = global::royalmail.trail.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Reactive.Bindings.Resource.Dimension.compat_button_padding_vertical_material = global::royalmail.trail.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Reactive.Bindings.Resource.Dimension.compat_control_corner_material = global::royalmail.trail.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Reactive.Bindings.Resource.Dimension.disabled_alpha_material_dark = global::royalmail.trail.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Reactive.Bindings.Resource.Dimension.disabled_alpha_material_light = global::royalmail.trail.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Reactive.Bindings.Resource.Dimension.highlight_alpha_material_colored = global::royalmail.trail.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Reactive.Bindings.Resource.Dimension.highlight_alpha_material_dark = global::royalmail.trail.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Reactive.Bindings.Resource.Dimension.highlight_alpha_material_light = global::royalmail.trail.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Reactive.Bindings.Resource.Dimension.hint_alpha_material_dark = global::royalmail.trail.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Reactive.Bindings.Resource.Dimension.hint_alpha_material_light = global::royalmail.trail.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Reactive.Bindings.Resource.Dimension.hint_pressed_alpha_material_dark = global::royalmail.trail.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Reactive.Bindings.Resource.Dimension.hint_pressed_alpha_material_light = global::royalmail.trail.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Reactive.Bindings.Resource.Dimension.notification_action_icon_size = global::royalmail.trail.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Reactive.Bindings.Resource.Dimension.notification_action_text_size = global::royalmail.trail.Droid.Resource.Dimension.notification_action_text_size;
+			global::Reactive.Bindings.Resource.Dimension.notification_big_circle_margin = global::royalmail.trail.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Reactive.Bindings.Resource.Dimension.notification_content_margin_start = global::royalmail.trail.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Reactive.Bindings.Resource.Dimension.notification_large_icon_height = global::royalmail.trail.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Reactive.Bindings.Resource.Dimension.notification_large_icon_width = global::royalmail.trail.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Reactive.Bindings.Resource.Dimension.notification_main_column_padding_top = global::royalmail.trail.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Reactive.Bindings.Resource.Dimension.notification_media_narrow_margin = global::royalmail.trail.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Reactive.Bindings.Resource.Dimension.notification_right_icon_size = global::royalmail.trail.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Reactive.Bindings.Resource.Dimension.notification_right_side_padding_top = global::royalmail.trail.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Reactive.Bindings.Resource.Dimension.notification_small_icon_background_padding = global::royalmail.trail.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Reactive.Bindings.Resource.Dimension.notification_small_icon_size_as_large = global::royalmail.trail.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Reactive.Bindings.Resource.Dimension.notification_subtext_size = global::royalmail.trail.Droid.Resource.Dimension.notification_subtext_size;
+			global::Reactive.Bindings.Resource.Dimension.notification_top_pad = global::royalmail.trail.Droid.Resource.Dimension.notification_top_pad;
+			global::Reactive.Bindings.Resource.Dimension.notification_top_pad_large_text = global::royalmail.trail.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_corner_radius = global::royalmail.trail.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_horizontal_padding = global::royalmail.trail.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_margin = global::royalmail.trail.Droid.Resource.Dimension.tooltip_margin;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::royalmail.trail.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_precise_anchor_threshold = global::royalmail.trail.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_vertical_padding = global::royalmail.trail.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_y_offset_non_touch = global::royalmail.trail.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Reactive.Bindings.Resource.Dimension.tooltip_y_offset_touch = global::royalmail.trail.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Reactive.Bindings.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_action_bar_item_background_material = global::royalmail.trail.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_borderless_material = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_check_material = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_colored_material = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_default_mtrl_shape = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_radio_material = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Reactive.Bindings.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::royalmail.trail.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Reactive.Bindings.Resource.Drawable.abc_cab_background_internal_bg = global::royalmail.trail.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Reactive.Bindings.Resource.Drawable.abc_cab_background_top_material = global::royalmail.trail.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_control_background_material = global::royalmail.trail.Droid.Resource.Drawable.abc_control_background_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_dialog_material_background = global::royalmail.trail.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Reactive.Bindings.Resource.Drawable.abc_edit_text_material = global::royalmail.trail.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_ab_back_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_clear_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_go_search_api_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_menu_overflow_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_search_api_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_star_black_16dp = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_star_black_36dp = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_star_black_48dp = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_star_half_black_16dp = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_star_half_black_36dp = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_star_half_black_48dp = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Reactive.Bindings.Resource.Drawable.abc_ic_voice_search_api_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_item_background_holo_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_item_background_holo_light = global::royalmail.trail.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_divider_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_focused_holo = global::royalmail.trail.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_longpressed_holo = global::royalmail.trail.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_pressed_holo_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_pressed_holo_light = global::royalmail.trail.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::royalmail.trail.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_selector_disabled_holo_light = global::royalmail.trail.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_selector_holo_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_list_selector_holo_light = global::royalmail.trail.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::royalmail.trail.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Reactive.Bindings.Resource.Drawable.abc_popup_background_mtrl_mult = global::royalmail.trail.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Reactive.Bindings.Resource.Drawable.abc_ratingbar_indicator_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ratingbar_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_ratingbar_small_material = global::royalmail.trail.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::royalmail.trail.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Reactive.Bindings.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::royalmail.trail.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Reactive.Bindings.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_seekbar_thumb_material = global::royalmail.trail.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_seekbar_tick_mark_material = global::royalmail.trail.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_seekbar_track_material = global::royalmail.trail.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_spinner_textfield_background_material = global::royalmail.trail.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_switch_thumb_material = global::royalmail.trail.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_switch_track_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_tab_indicator_material = global::royalmail.trail.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::royalmail.trail.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Reactive.Bindings.Resource.Drawable.abc_textfield_search_material = global::royalmail.trail.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_text_cursor_material = global::royalmail.trail.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Reactive.Bindings.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::royalmail.trail.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::royalmail.trail.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::royalmail.trail.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Reactive.Bindings.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::royalmail.trail.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Reactive.Bindings.Resource.Drawable.abc_vector_test = global::royalmail.trail.Droid.Resource.Drawable.abc_vector_test;
+			global::Reactive.Bindings.Resource.Drawable.notification_action_background = global::royalmail.trail.Droid.Resource.Drawable.notification_action_background;
+			global::Reactive.Bindings.Resource.Drawable.notification_bg = global::royalmail.trail.Droid.Resource.Drawable.notification_bg;
+			global::Reactive.Bindings.Resource.Drawable.notification_bg_low = global::royalmail.trail.Droid.Resource.Drawable.notification_bg_low;
+			global::Reactive.Bindings.Resource.Drawable.notification_bg_low_normal = global::royalmail.trail.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Reactive.Bindings.Resource.Drawable.notification_bg_low_pressed = global::royalmail.trail.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Reactive.Bindings.Resource.Drawable.notification_bg_normal = global::royalmail.trail.Droid.Resource.Drawable.notification_bg_normal;
+			global::Reactive.Bindings.Resource.Drawable.notification_bg_normal_pressed = global::royalmail.trail.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Reactive.Bindings.Resource.Drawable.notification_icon_background = global::royalmail.trail.Droid.Resource.Drawable.notification_icon_background;
+			global::Reactive.Bindings.Resource.Drawable.notification_template_icon_bg = global::royalmail.trail.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Reactive.Bindings.Resource.Drawable.notification_template_icon_low_bg = global::royalmail.trail.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Reactive.Bindings.Resource.Drawable.notification_tile_bg = global::royalmail.trail.Droid.Resource.Drawable.notification_tile_bg;
+			global::Reactive.Bindings.Resource.Drawable.notify_panel_notification_icon_bg = global::royalmail.trail.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Reactive.Bindings.Resource.Drawable.tooltip_frame_dark = global::royalmail.trail.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Reactive.Bindings.Resource.Drawable.tooltip_frame_light = global::royalmail.trail.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Reactive.Bindings.Resource.Id.action0 = global::royalmail.trail.Droid.Resource.Id.action0;
+			global::Reactive.Bindings.Resource.Id.actions = global::royalmail.trail.Droid.Resource.Id.actions;
+			global::Reactive.Bindings.Resource.Id.action_bar = global::royalmail.trail.Droid.Resource.Id.action_bar;
+			global::Reactive.Bindings.Resource.Id.action_bar_activity_content = global::royalmail.trail.Droid.Resource.Id.action_bar_activity_content;
+			global::Reactive.Bindings.Resource.Id.action_bar_container = global::royalmail.trail.Droid.Resource.Id.action_bar_container;
+			global::Reactive.Bindings.Resource.Id.action_bar_root = global::royalmail.trail.Droid.Resource.Id.action_bar_root;
+			global::Reactive.Bindings.Resource.Id.action_bar_spinner = global::royalmail.trail.Droid.Resource.Id.action_bar_spinner;
+			global::Reactive.Bindings.Resource.Id.action_bar_subtitle = global::royalmail.trail.Droid.Resource.Id.action_bar_subtitle;
+			global::Reactive.Bindings.Resource.Id.action_bar_title = global::royalmail.trail.Droid.Resource.Id.action_bar_title;
+			global::Reactive.Bindings.Resource.Id.action_container = global::royalmail.trail.Droid.Resource.Id.action_container;
+			global::Reactive.Bindings.Resource.Id.action_context_bar = global::royalmail.trail.Droid.Resource.Id.action_context_bar;
+			global::Reactive.Bindings.Resource.Id.action_divider = global::royalmail.trail.Droid.Resource.Id.action_divider;
+			global::Reactive.Bindings.Resource.Id.action_image = global::royalmail.trail.Droid.Resource.Id.action_image;
+			global::Reactive.Bindings.Resource.Id.action_menu_divider = global::royalmail.trail.Droid.Resource.Id.action_menu_divider;
+			global::Reactive.Bindings.Resource.Id.action_menu_presenter = global::royalmail.trail.Droid.Resource.Id.action_menu_presenter;
+			global::Reactive.Bindings.Resource.Id.action_mode_bar = global::royalmail.trail.Droid.Resource.Id.action_mode_bar;
+			global::Reactive.Bindings.Resource.Id.action_mode_bar_stub = global::royalmail.trail.Droid.Resource.Id.action_mode_bar_stub;
+			global::Reactive.Bindings.Resource.Id.action_mode_close_button = global::royalmail.trail.Droid.Resource.Id.action_mode_close_button;
+			global::Reactive.Bindings.Resource.Id.action_text = global::royalmail.trail.Droid.Resource.Id.action_text;
+			global::Reactive.Bindings.Resource.Id.activity_chooser_view_content = global::royalmail.trail.Droid.Resource.Id.activity_chooser_view_content;
+			global::Reactive.Bindings.Resource.Id.add = global::royalmail.trail.Droid.Resource.Id.add;
+			global::Reactive.Bindings.Resource.Id.alertTitle = global::royalmail.trail.Droid.Resource.Id.alertTitle;
+			global::Reactive.Bindings.Resource.Id.ALT = global::royalmail.trail.Droid.Resource.Id.ALT;
+			global::Reactive.Bindings.Resource.Id.always = global::royalmail.trail.Droid.Resource.Id.always;
+			global::Reactive.Bindings.Resource.Id.async = global::royalmail.trail.Droid.Resource.Id.async;
+			global::Reactive.Bindings.Resource.Id.beginning = global::royalmail.trail.Droid.Resource.Id.beginning;
+			global::Reactive.Bindings.Resource.Id.blocking = global::royalmail.trail.Droid.Resource.Id.blocking;
+			global::Reactive.Bindings.Resource.Id.bottom = global::royalmail.trail.Droid.Resource.Id.bottom;
+			global::Reactive.Bindings.Resource.Id.buttonPanel = global::royalmail.trail.Droid.Resource.Id.buttonPanel;
+			global::Reactive.Bindings.Resource.Id.cancel_action = global::royalmail.trail.Droid.Resource.Id.cancel_action;
+			global::Reactive.Bindings.Resource.Id.checkbox = global::royalmail.trail.Droid.Resource.Id.checkbox;
+			global::Reactive.Bindings.Resource.Id.chronometer = global::royalmail.trail.Droid.Resource.Id.chronometer;
+			global::Reactive.Bindings.Resource.Id.collapseActionView = global::royalmail.trail.Droid.Resource.Id.collapseActionView;
+			global::Reactive.Bindings.Resource.Id.contentPanel = global::royalmail.trail.Droid.Resource.Id.contentPanel;
+			global::Reactive.Bindings.Resource.Id.CTRL = global::royalmail.trail.Droid.Resource.Id.CTRL;
+			global::Reactive.Bindings.Resource.Id.custom = global::royalmail.trail.Droid.Resource.Id.custom;
+			global::Reactive.Bindings.Resource.Id.customPanel = global::royalmail.trail.Droid.Resource.Id.customPanel;
+			global::Reactive.Bindings.Resource.Id.decor_content_parent = global::royalmail.trail.Droid.Resource.Id.decor_content_parent;
+			global::Reactive.Bindings.Resource.Id.default_activity_button = global::royalmail.trail.Droid.Resource.Id.default_activity_button;
+			global::Reactive.Bindings.Resource.Id.disableHome = global::royalmail.trail.Droid.Resource.Id.disableHome;
+			global::Reactive.Bindings.Resource.Id.edit_query = global::royalmail.trail.Droid.Resource.Id.edit_query;
+			global::Reactive.Bindings.Resource.Id.end = global::royalmail.trail.Droid.Resource.Id.end;
+			global::Reactive.Bindings.Resource.Id.end_padder = global::royalmail.trail.Droid.Resource.Id.end_padder;
+			global::Reactive.Bindings.Resource.Id.expanded_menu = global::royalmail.trail.Droid.Resource.Id.expanded_menu;
+			global::Reactive.Bindings.Resource.Id.expand_activities_button = global::royalmail.trail.Droid.Resource.Id.expand_activities_button;
+			global::Reactive.Bindings.Resource.Id.forever = global::royalmail.trail.Droid.Resource.Id.forever;
+			global::Reactive.Bindings.Resource.Id.FUNCTION = global::royalmail.trail.Droid.Resource.Id.FUNCTION;
+			global::Reactive.Bindings.Resource.Id.home = global::royalmail.trail.Droid.Resource.Id.home;
+			global::Reactive.Bindings.Resource.Id.homeAsUp = global::royalmail.trail.Droid.Resource.Id.homeAsUp;
+			global::Reactive.Bindings.Resource.Id.icon = global::royalmail.trail.Droid.Resource.Id.icon;
+			global::Reactive.Bindings.Resource.Id.icon_group = global::royalmail.trail.Droid.Resource.Id.icon_group;
+			global::Reactive.Bindings.Resource.Id.ifRoom = global::royalmail.trail.Droid.Resource.Id.ifRoom;
+			global::Reactive.Bindings.Resource.Id.image = global::royalmail.trail.Droid.Resource.Id.image;
+			global::Reactive.Bindings.Resource.Id.info = global::royalmail.trail.Droid.Resource.Id.info;
+			global::Reactive.Bindings.Resource.Id.italic = global::royalmail.trail.Droid.Resource.Id.italic;
+			global::Reactive.Bindings.Resource.Id.line1 = global::royalmail.trail.Droid.Resource.Id.line1;
+			global::Reactive.Bindings.Resource.Id.line3 = global::royalmail.trail.Droid.Resource.Id.line3;
+			global::Reactive.Bindings.Resource.Id.listMode = global::royalmail.trail.Droid.Resource.Id.listMode;
+			global::Reactive.Bindings.Resource.Id.list_item = global::royalmail.trail.Droid.Resource.Id.list_item;
+			global::Reactive.Bindings.Resource.Id.media_actions = global::royalmail.trail.Droid.Resource.Id.media_actions;
+			global::Reactive.Bindings.Resource.Id.message = global::royalmail.trail.Droid.Resource.Id.message;
+			global::Reactive.Bindings.Resource.Id.META = global::royalmail.trail.Droid.Resource.Id.META;
+			global::Reactive.Bindings.Resource.Id.middle = global::royalmail.trail.Droid.Resource.Id.middle;
+			global::Reactive.Bindings.Resource.Id.multiply = global::royalmail.trail.Droid.Resource.Id.multiply;
+			global::Reactive.Bindings.Resource.Id.never = global::royalmail.trail.Droid.Resource.Id.never;
+			global::Reactive.Bindings.Resource.Id.none = global::royalmail.trail.Droid.Resource.Id.none;
+			global::Reactive.Bindings.Resource.Id.normal = global::royalmail.trail.Droid.Resource.Id.normal;
+			global::Reactive.Bindings.Resource.Id.notification_background = global::royalmail.trail.Droid.Resource.Id.notification_background;
+			global::Reactive.Bindings.Resource.Id.notification_main_column = global::royalmail.trail.Droid.Resource.Id.notification_main_column;
+			global::Reactive.Bindings.Resource.Id.notification_main_column_container = global::royalmail.trail.Droid.Resource.Id.notification_main_column_container;
+			global::Reactive.Bindings.Resource.Id.parentPanel = global::royalmail.trail.Droid.Resource.Id.parentPanel;
+			global::Reactive.Bindings.Resource.Id.progress_circular = global::royalmail.trail.Droid.Resource.Id.progress_circular;
+			global::Reactive.Bindings.Resource.Id.progress_horizontal = global::royalmail.trail.Droid.Resource.Id.progress_horizontal;
+			global::Reactive.Bindings.Resource.Id.radio = global::royalmail.trail.Droid.Resource.Id.radio;
+			global::Reactive.Bindings.Resource.Id.right_icon = global::royalmail.trail.Droid.Resource.Id.right_icon;
+			global::Reactive.Bindings.Resource.Id.right_side = global::royalmail.trail.Droid.Resource.Id.right_side;
+			global::Reactive.Bindings.Resource.Id.screen = global::royalmail.trail.Droid.Resource.Id.screen;
+			global::Reactive.Bindings.Resource.Id.scrollIndicatorDown = global::royalmail.trail.Droid.Resource.Id.scrollIndicatorDown;
+			global::Reactive.Bindings.Resource.Id.scrollIndicatorUp = global::royalmail.trail.Droid.Resource.Id.scrollIndicatorUp;
+			global::Reactive.Bindings.Resource.Id.scrollView = global::royalmail.trail.Droid.Resource.Id.scrollView;
+			global::Reactive.Bindings.Resource.Id.search_badge = global::royalmail.trail.Droid.Resource.Id.search_badge;
+			global::Reactive.Bindings.Resource.Id.search_bar = global::royalmail.trail.Droid.Resource.Id.search_bar;
+			global::Reactive.Bindings.Resource.Id.search_button = global::royalmail.trail.Droid.Resource.Id.search_button;
+			global::Reactive.Bindings.Resource.Id.search_close_btn = global::royalmail.trail.Droid.Resource.Id.search_close_btn;
+			global::Reactive.Bindings.Resource.Id.search_edit_frame = global::royalmail.trail.Droid.Resource.Id.search_edit_frame;
+			global::Reactive.Bindings.Resource.Id.search_go_btn = global::royalmail.trail.Droid.Resource.Id.search_go_btn;
+			global::Reactive.Bindings.Resource.Id.search_mag_icon = global::royalmail.trail.Droid.Resource.Id.search_mag_icon;
+			global::Reactive.Bindings.Resource.Id.search_plate = global::royalmail.trail.Droid.Resource.Id.search_plate;
+			global::Reactive.Bindings.Resource.Id.search_src_text = global::royalmail.trail.Droid.Resource.Id.search_src_text;
+			global::Reactive.Bindings.Resource.Id.search_voice_btn = global::royalmail.trail.Droid.Resource.Id.search_voice_btn;
+			global::Reactive.Bindings.Resource.Id.select_dialog_listview = global::royalmail.trail.Droid.Resource.Id.select_dialog_listview;
+			global::Reactive.Bindings.Resource.Id.SHIFT = global::royalmail.trail.Droid.Resource.Id.SHIFT;
+			global::Reactive.Bindings.Resource.Id.shortcut = global::royalmail.trail.Droid.Resource.Id.shortcut;
+			global::Reactive.Bindings.Resource.Id.showCustom = global::royalmail.trail.Droid.Resource.Id.showCustom;
+			global::Reactive.Bindings.Resource.Id.showHome = global::royalmail.trail.Droid.Resource.Id.showHome;
+			global::Reactive.Bindings.Resource.Id.showTitle = global::royalmail.trail.Droid.Resource.Id.showTitle;
+			global::Reactive.Bindings.Resource.Id.spacer = global::royalmail.trail.Droid.Resource.Id.spacer;
+			global::Reactive.Bindings.Resource.Id.split_action_bar = global::royalmail.trail.Droid.Resource.Id.split_action_bar;
+			global::Reactive.Bindings.Resource.Id.src_atop = global::royalmail.trail.Droid.Resource.Id.src_atop;
+			global::Reactive.Bindings.Resource.Id.src_in = global::royalmail.trail.Droid.Resource.Id.src_in;
+			global::Reactive.Bindings.Resource.Id.src_over = global::royalmail.trail.Droid.Resource.Id.src_over;
+			global::Reactive.Bindings.Resource.Id.status_bar_latest_event_content = global::royalmail.trail.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Reactive.Bindings.Resource.Id.submenuarrow = global::royalmail.trail.Droid.Resource.Id.submenuarrow;
+			global::Reactive.Bindings.Resource.Id.submit_area = global::royalmail.trail.Droid.Resource.Id.submit_area;
+			global::Reactive.Bindings.Resource.Id.SYM = global::royalmail.trail.Droid.Resource.Id.SYM;
+			global::Reactive.Bindings.Resource.Id.tabMode = global::royalmail.trail.Droid.Resource.Id.tabMode;
+			global::Reactive.Bindings.Resource.Id.tag_transition_group = global::royalmail.trail.Droid.Resource.Id.tag_transition_group;
+			global::Reactive.Bindings.Resource.Id.text = global::royalmail.trail.Droid.Resource.Id.text;
+			global::Reactive.Bindings.Resource.Id.text2 = global::royalmail.trail.Droid.Resource.Id.text2;
+			global::Reactive.Bindings.Resource.Id.textSpacerNoButtons = global::royalmail.trail.Droid.Resource.Id.textSpacerNoButtons;
+			global::Reactive.Bindings.Resource.Id.textSpacerNoTitle = global::royalmail.trail.Droid.Resource.Id.textSpacerNoTitle;
+			global::Reactive.Bindings.Resource.Id.time = global::royalmail.trail.Droid.Resource.Id.time;
+			global::Reactive.Bindings.Resource.Id.title = global::royalmail.trail.Droid.Resource.Id.title;
+			global::Reactive.Bindings.Resource.Id.titleDividerNoCustom = global::royalmail.trail.Droid.Resource.Id.titleDividerNoCustom;
+			global::Reactive.Bindings.Resource.Id.title_template = global::royalmail.trail.Droid.Resource.Id.title_template;
+			global::Reactive.Bindings.Resource.Id.top = global::royalmail.trail.Droid.Resource.Id.top;
+			global::Reactive.Bindings.Resource.Id.topPanel = global::royalmail.trail.Droid.Resource.Id.topPanel;
+			global::Reactive.Bindings.Resource.Id.uniform = global::royalmail.trail.Droid.Resource.Id.uniform;
+			global::Reactive.Bindings.Resource.Id.up = global::royalmail.trail.Droid.Resource.Id.up;
+			global::Reactive.Bindings.Resource.Id.useLogo = global::royalmail.trail.Droid.Resource.Id.useLogo;
+			global::Reactive.Bindings.Resource.Id.withText = global::royalmail.trail.Droid.Resource.Id.withText;
+			global::Reactive.Bindings.Resource.Id.wrap_content = global::royalmail.trail.Droid.Resource.Id.wrap_content;
+			global::Reactive.Bindings.Resource.Integer.abc_config_activityDefaultDur = global::royalmail.trail.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Reactive.Bindings.Resource.Integer.abc_config_activityShortDur = global::royalmail.trail.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Reactive.Bindings.Resource.Integer.cancel_button_image_alpha = global::royalmail.trail.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Reactive.Bindings.Resource.Integer.config_tooltipAnimTime = global::royalmail.trail.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Reactive.Bindings.Resource.Integer.status_bar_notification_info_maxnum = global::royalmail.trail.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Reactive.Bindings.Resource.Layout.abc_action_bar_title_item = global::royalmail.trail.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Reactive.Bindings.Resource.Layout.abc_action_bar_up_container = global::royalmail.trail.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Reactive.Bindings.Resource.Layout.abc_action_menu_item_layout = global::royalmail.trail.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Reactive.Bindings.Resource.Layout.abc_action_menu_layout = global::royalmail.trail.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Reactive.Bindings.Resource.Layout.abc_action_mode_bar = global::royalmail.trail.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Reactive.Bindings.Resource.Layout.abc_action_mode_close_item_material = global::royalmail.trail.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Reactive.Bindings.Resource.Layout.abc_activity_chooser_view = global::royalmail.trail.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Reactive.Bindings.Resource.Layout.abc_activity_chooser_view_list_item = global::royalmail.trail.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Reactive.Bindings.Resource.Layout.abc_alert_dialog_button_bar_material = global::royalmail.trail.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Reactive.Bindings.Resource.Layout.abc_alert_dialog_material = global::royalmail.trail.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Reactive.Bindings.Resource.Layout.abc_alert_dialog_title_material = global::royalmail.trail.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Reactive.Bindings.Resource.Layout.abc_dialog_title_material = global::royalmail.trail.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Reactive.Bindings.Resource.Layout.abc_expanded_menu_layout = global::royalmail.trail.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Reactive.Bindings.Resource.Layout.abc_list_menu_item_checkbox = global::royalmail.trail.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Reactive.Bindings.Resource.Layout.abc_list_menu_item_icon = global::royalmail.trail.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Reactive.Bindings.Resource.Layout.abc_list_menu_item_layout = global::royalmail.trail.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Reactive.Bindings.Resource.Layout.abc_list_menu_item_radio = global::royalmail.trail.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Reactive.Bindings.Resource.Layout.abc_popup_menu_header_item_layout = global::royalmail.trail.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Reactive.Bindings.Resource.Layout.abc_popup_menu_item_layout = global::royalmail.trail.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Reactive.Bindings.Resource.Layout.abc_screen_content_include = global::royalmail.trail.Droid.Resource.Layout.abc_screen_content_include;
+			global::Reactive.Bindings.Resource.Layout.abc_screen_simple = global::royalmail.trail.Droid.Resource.Layout.abc_screen_simple;
+			global::Reactive.Bindings.Resource.Layout.abc_screen_simple_overlay_action_mode = global::royalmail.trail.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Reactive.Bindings.Resource.Layout.abc_screen_toolbar = global::royalmail.trail.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Reactive.Bindings.Resource.Layout.abc_search_dropdown_item_icons_2line = global::royalmail.trail.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Reactive.Bindings.Resource.Layout.abc_search_view = global::royalmail.trail.Droid.Resource.Layout.abc_search_view;
+			global::Reactive.Bindings.Resource.Layout.abc_select_dialog_material = global::royalmail.trail.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Reactive.Bindings.Resource.Layout.notification_action = global::royalmail.trail.Droid.Resource.Layout.notification_action;
+			global::Reactive.Bindings.Resource.Layout.notification_action_tombstone = global::royalmail.trail.Droid.Resource.Layout.notification_action_tombstone;
+			global::Reactive.Bindings.Resource.Layout.notification_media_action = global::royalmail.trail.Droid.Resource.Layout.notification_media_action;
+			global::Reactive.Bindings.Resource.Layout.notification_media_cancel_action = global::royalmail.trail.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Reactive.Bindings.Resource.Layout.notification_template_big_media = global::royalmail.trail.Droid.Resource.Layout.notification_template_big_media;
+			global::Reactive.Bindings.Resource.Layout.notification_template_big_media_custom = global::royalmail.trail.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Reactive.Bindings.Resource.Layout.notification_template_big_media_narrow = global::royalmail.trail.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Reactive.Bindings.Resource.Layout.notification_template_big_media_narrow_custom = global::royalmail.trail.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Reactive.Bindings.Resource.Layout.notification_template_custom_big = global::royalmail.trail.Droid.Resource.Layout.notification_template_custom_big;
+			global::Reactive.Bindings.Resource.Layout.notification_template_icon_group = global::royalmail.trail.Droid.Resource.Layout.notification_template_icon_group;
+			global::Reactive.Bindings.Resource.Layout.notification_template_lines_media = global::royalmail.trail.Droid.Resource.Layout.notification_template_lines_media;
+			global::Reactive.Bindings.Resource.Layout.notification_template_media = global::royalmail.trail.Droid.Resource.Layout.notification_template_media;
+			global::Reactive.Bindings.Resource.Layout.notification_template_media_custom = global::royalmail.trail.Droid.Resource.Layout.notification_template_media_custom;
+			global::Reactive.Bindings.Resource.Layout.notification_template_part_chronometer = global::royalmail.trail.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Reactive.Bindings.Resource.Layout.notification_template_part_time = global::royalmail.trail.Droid.Resource.Layout.notification_template_part_time;
+			global::Reactive.Bindings.Resource.Layout.select_dialog_item_material = global::royalmail.trail.Droid.Resource.Layout.select_dialog_item_material;
+			global::Reactive.Bindings.Resource.Layout.select_dialog_multichoice_material = global::royalmail.trail.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Reactive.Bindings.Resource.Layout.select_dialog_singlechoice_material = global::royalmail.trail.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Reactive.Bindings.Resource.Layout.support_simple_spinner_dropdown_item = global::royalmail.trail.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Reactive.Bindings.Resource.String.abc_action_bar_home_description = global::royalmail.trail.Droid.Resource.String.abc_action_bar_home_description;
+			global::Reactive.Bindings.Resource.String.abc_action_bar_up_description = global::royalmail.trail.Droid.Resource.String.abc_action_bar_up_description;
+			global::Reactive.Bindings.Resource.String.abc_action_menu_overflow_description = global::royalmail.trail.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Reactive.Bindings.Resource.String.abc_action_mode_done = global::royalmail.trail.Droid.Resource.String.abc_action_mode_done;
+			global::Reactive.Bindings.Resource.String.abc_activitychooserview_choose_application = global::royalmail.trail.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Reactive.Bindings.Resource.String.abc_activity_chooser_view_see_all = global::royalmail.trail.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Reactive.Bindings.Resource.String.abc_capital_off = global::royalmail.trail.Droid.Resource.String.abc_capital_off;
+			global::Reactive.Bindings.Resource.String.abc_capital_on = global::royalmail.trail.Droid.Resource.String.abc_capital_on;
+			global::Reactive.Bindings.Resource.String.abc_font_family_body_1_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_body_1_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_body_2_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_body_2_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_button_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_button_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_caption_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_caption_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_display_1_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_display_1_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_display_2_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_display_2_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_display_3_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_display_3_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_display_4_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_display_4_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_headline_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_headline_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_menu_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_menu_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_subhead_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_subhead_material;
+			global::Reactive.Bindings.Resource.String.abc_font_family_title_material = global::royalmail.trail.Droid.Resource.String.abc_font_family_title_material;
+			global::Reactive.Bindings.Resource.String.abc_searchview_description_clear = global::royalmail.trail.Droid.Resource.String.abc_searchview_description_clear;
+			global::Reactive.Bindings.Resource.String.abc_searchview_description_query = global::royalmail.trail.Droid.Resource.String.abc_searchview_description_query;
+			global::Reactive.Bindings.Resource.String.abc_searchview_description_search = global::royalmail.trail.Droid.Resource.String.abc_searchview_description_search;
+			global::Reactive.Bindings.Resource.String.abc_searchview_description_submit = global::royalmail.trail.Droid.Resource.String.abc_searchview_description_submit;
+			global::Reactive.Bindings.Resource.String.abc_searchview_description_voice = global::royalmail.trail.Droid.Resource.String.abc_searchview_description_voice;
+			global::Reactive.Bindings.Resource.String.abc_search_hint = global::royalmail.trail.Droid.Resource.String.abc_search_hint;
+			global::Reactive.Bindings.Resource.String.abc_shareactionprovider_share_with = global::royalmail.trail.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Reactive.Bindings.Resource.String.abc_shareactionprovider_share_with_application = global::royalmail.trail.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Reactive.Bindings.Resource.String.abc_toolbar_collapse_description = global::royalmail.trail.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Reactive.Bindings.Resource.String.app_name = global::royalmail.trail.Droid.Resource.String.app_name;
+			global::Reactive.Bindings.Resource.String.hello = global::royalmail.trail.Droid.Resource.String.hello;
+			global::Reactive.Bindings.Resource.String.search_menu_title = global::royalmail.trail.Droid.Resource.String.search_menu_title;
+			global::Reactive.Bindings.Resource.String.status_bar_notification_info_overflow = global::royalmail.trail.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Reactive.Bindings.Resource.Style.AlertDialog_AppCompat = global::royalmail.trail.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Reactive.Bindings.Resource.Style.AlertDialog_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Animation_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Animation_AppCompat_DropDownUp = global::royalmail.trail.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Reactive.Bindings.Resource.Style.Animation_AppCompat_Tooltip = global::royalmail.trail.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Reactive.Bindings.Resource.Style.Base_AlertDialog_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_AlertDialog_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_Animation_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::royalmail.trail.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Reactive.Bindings.Resource.Style.Base_Animation_AppCompat_Tooltip = global::royalmail.trail.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Reactive.Bindings.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_DialogWindowTitle_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Button = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Large = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Small = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Title = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Reactive.Bindings.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::royalmail.trail.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Reactive.Bindings.Resource.Style.Base_ThemeOverlay_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::royalmail.trail.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::royalmail.trail.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Reactive.Bindings.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::royalmail.trail.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::royalmail.trail.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Reactive.Bindings.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Reactive.Bindings.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::royalmail.trail.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Reactive.Bindings.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_V21_Theme_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_V21_Theme_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_V22_Theme_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_V22_Theme_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_V23_Theme_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_V23_Theme_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_V26_Theme_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_V26_Theme_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::royalmail.trail.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Reactive.Bindings.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_V7_Theme_AppCompat = global::royalmail.trail.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_V7_Theme_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::royalmail.trail.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Reactive.Bindings.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::royalmail.trail.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Reactive.Bindings.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::royalmail.trail.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Reactive.Bindings.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::royalmail.trail.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionButton = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActionMode = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Button = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Button_Small = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_EditText = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ImageButton = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ListView = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_RatingBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_SearchView = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_SeekBar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Spinner = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Toolbar = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Reactive.Bindings.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::royalmail.trail.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Reactive.Bindings.Resource.Style.Platform_AppCompat = global::royalmail.trail.Droid.Resource.Style.Platform_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Platform_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Platform_ThemeOverlay_AppCompat = global::royalmail.trail.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::royalmail.trail.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Reactive.Bindings.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Platform_V21_AppCompat = global::royalmail.trail.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Platform_V21_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Platform_V25_AppCompat = global::royalmail.trail.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Platform_V25_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Platform_Widget_AppCompat_Spinner = global::royalmail.trail.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Reactive.Bindings.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::royalmail.trail.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Reactive.Bindings.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::royalmail.trail.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Reactive.Bindings.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::royalmail.trail.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Body1 = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Body2 = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Button = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Caption = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Display1 = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Display2 = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Display3 = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Display4 = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Headline = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Large = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Medium = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Menu = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Small = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Subhead = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Title = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Tooltip = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::royalmail.trail.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Info = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Media = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Time = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Title = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Reactive.Bindings.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::royalmail.trail.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Reactive.Bindings.Resource.Style.ThemeOverlay_AppCompat = global::royalmail.trail.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Reactive.Bindings.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::royalmail.trail.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Reactive.Bindings.Resource.Style.ThemeOverlay_AppCompat_Dark = global::royalmail.trail.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Reactive.Bindings.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::royalmail.trail.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Reactive.Bindings.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::royalmail.trail.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Reactive.Bindings.Resource.Style.ThemeOverlay_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_CompactMenu = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DayNight = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Dialog = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Dialog_Alert = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Light = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Light_Dialog = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Reactive.Bindings.Resource.Style.Theme_AppCompat_NoActionBar = global::royalmail.trail.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionButton = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActionMode = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ActivityChooserView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Button = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ButtonBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Button_Borderless = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Button_Colored = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Button_Small = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_EditText = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ImageButton = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionButton = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_SearchView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ListMenuView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ListPopupWindow = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ListView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ListView_DropDown = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ListView_Menu = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_PopupMenu = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_PopupWindow = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ProgressBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_RatingBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_RatingBar_Small = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_SearchView = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_SeekBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Spinner = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Toolbar = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Reactive.Bindings.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::royalmail.trail.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Reactive.Bindings.Resource.Style.Widget_Compat_NotificationActionContainer = global::royalmail.trail.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Reactive.Bindings.Resource.Style.Widget_Compat_NotificationActionText = global::royalmail.trail.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar = global::royalmail.trail.Droid.Resource.Styleable.ActionBar;
+			global::Reactive.Bindings.Resource.Styleable.ActionBarLayout = global::royalmail.trail.Droid.Resource.Styleable.ActionBarLayout;
+			global::Reactive.Bindings.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::royalmail.trail.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_background = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_background;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_backgroundSplit = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_backgroundStacked = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_contentInsetEnd = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_contentInsetLeft = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_contentInsetRight = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_contentInsetStart = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_customNavigationLayout = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_displayOptions = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_divider = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_divider;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_elevation = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_height = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_height;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_hideOnContentScroll = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_homeAsUpIndicator = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_homeLayout = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_icon = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_icon;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_itemPadding = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_logo = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_logo;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_navigationMode = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_popupTheme = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_progressBarPadding = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_progressBarStyle = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_subtitle = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_subtitleTextStyle = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_title = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_title;
+			global::Reactive.Bindings.Resource.Styleable.ActionBar_titleTextStyle = global::royalmail.trail.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Reactive.Bindings.Resource.Styleable.ActionMenuItemView = global::royalmail.trail.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Reactive.Bindings.Resource.Styleable.ActionMenuItemView_android_minWidth = global::royalmail.trail.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Reactive.Bindings.Resource.Styleable.ActionMenuView = global::royalmail.trail.Droid.Resource.Styleable.ActionMenuView;
+			global::Reactive.Bindings.Resource.Styleable.ActionMode = global::royalmail.trail.Droid.Resource.Styleable.ActionMode;
+			global::Reactive.Bindings.Resource.Styleable.ActionMode_background = global::royalmail.trail.Droid.Resource.Styleable.ActionMode_background;
+			global::Reactive.Bindings.Resource.Styleable.ActionMode_backgroundSplit = global::royalmail.trail.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Reactive.Bindings.Resource.Styleable.ActionMode_closeItemLayout = global::royalmail.trail.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Reactive.Bindings.Resource.Styleable.ActionMode_height = global::royalmail.trail.Droid.Resource.Styleable.ActionMode_height;
+			global::Reactive.Bindings.Resource.Styleable.ActionMode_subtitleTextStyle = global::royalmail.trail.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Reactive.Bindings.Resource.Styleable.ActionMode_titleTextStyle = global::royalmail.trail.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Reactive.Bindings.Resource.Styleable.ActivityChooserView = global::royalmail.trail.Droid.Resource.Styleable.ActivityChooserView;
+			global::Reactive.Bindings.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::royalmail.trail.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Reactive.Bindings.Resource.Styleable.ActivityChooserView_initialActivityCount = global::royalmail.trail.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog_android_layout = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog_listItemLayout = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog_listLayout = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog_showTitle = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Reactive.Bindings.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::royalmail.trail.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatImageView = global::royalmail.trail.Droid.Resource.Styleable.AppCompatImageView;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatImageView_android_src = global::royalmail.trail.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatImageView_srcCompat = global::royalmail.trail.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatImageView_tint = global::royalmail.trail.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatImageView_tintMode = global::royalmail.trail.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatSeekBar = global::royalmail.trail.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatSeekBar_android_thumb = global::royalmail.trail.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatSeekBar_tickMark = global::royalmail.trail.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::royalmail.trail.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::royalmail.trail.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_android_textAppearance = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_fontFamily = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTextView_textAllCaps = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarDivider = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarSize = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarTheme = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_buttonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_checkboxStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorAccent = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorControlActivated = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorControlNormal = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorError = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorPrimary = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_controlBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_dialogTheme = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_dividerVertical = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_editTextBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_editTextColor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_editTextStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_panelBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_searchViewStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_seekBarStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_spinnerStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_switchStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_toolbarStyle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowActionBar = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Reactive.Bindings.Resource.Styleable.AppCompatTheme_windowNoTitle = global::royalmail.trail.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Reactive.Bindings.Resource.Styleable.ButtonBarLayout = global::royalmail.trail.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Reactive.Bindings.Resource.Styleable.ButtonBarLayout_allowStacking = global::royalmail.trail.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Reactive.Bindings.Resource.Styleable.ColorStateListItem = global::royalmail.trail.Droid.Resource.Styleable.ColorStateListItem;
+			global::Reactive.Bindings.Resource.Styleable.ColorStateListItem_alpha = global::royalmail.trail.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Reactive.Bindings.Resource.Styleable.ColorStateListItem_android_alpha = global::royalmail.trail.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Reactive.Bindings.Resource.Styleable.ColorStateListItem_android_color = global::royalmail.trail.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Reactive.Bindings.Resource.Styleable.CompoundButton = global::royalmail.trail.Droid.Resource.Styleable.CompoundButton;
+			global::Reactive.Bindings.Resource.Styleable.CompoundButton_android_button = global::royalmail.trail.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Reactive.Bindings.Resource.Styleable.CompoundButton_buttonTint = global::royalmail.trail.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Reactive.Bindings.Resource.Styleable.CompoundButton_buttonTintMode = global::royalmail.trail.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_barLength = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_color = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_drawableSize = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_spinBars = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Reactive.Bindings.Resource.Styleable.DrawerArrowToggle_thickness = global::royalmail.trail.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Reactive.Bindings.Resource.Styleable.FontFamily = global::royalmail.trail.Droid.Resource.Styleable.FontFamily;
+			global::Reactive.Bindings.Resource.Styleable.FontFamilyFont = global::royalmail.trail.Droid.Resource.Styleable.FontFamilyFont;
+			global::Reactive.Bindings.Resource.Styleable.FontFamilyFont_android_font = global::royalmail.trail.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Reactive.Bindings.Resource.Styleable.FontFamilyFont_android_fontStyle = global::royalmail.trail.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Reactive.Bindings.Resource.Styleable.FontFamilyFont_android_fontWeight = global::royalmail.trail.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Reactive.Bindings.Resource.Styleable.FontFamilyFont_font = global::royalmail.trail.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Reactive.Bindings.Resource.Styleable.FontFamilyFont_fontStyle = global::royalmail.trail.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Reactive.Bindings.Resource.Styleable.FontFamilyFont_fontWeight = global::royalmail.trail.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Reactive.Bindings.Resource.Styleable.FontFamily_fontProviderAuthority = global::royalmail.trail.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Reactive.Bindings.Resource.Styleable.FontFamily_fontProviderCerts = global::royalmail.trail.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Reactive.Bindings.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::royalmail.trail.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Reactive.Bindings.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::royalmail.trail.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Reactive.Bindings.Resource.Styleable.FontFamily_fontProviderPackage = global::royalmail.trail.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Reactive.Bindings.Resource.Styleable.FontFamily_fontProviderQuery = global::royalmail.trail.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_android_gravity = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_android_orientation = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_divider = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_Layout = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Reactive.Bindings.Resource.Styleable.LinearLayoutCompat_showDividers = global::royalmail.trail.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Reactive.Bindings.Resource.Styleable.ListPopupWindow = global::royalmail.trail.Droid.Resource.Styleable.ListPopupWindow;
+			global::Reactive.Bindings.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::royalmail.trail.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Reactive.Bindings.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::royalmail.trail.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Reactive.Bindings.Resource.Styleable.MenuGroup = global::royalmail.trail.Droid.Resource.Styleable.MenuGroup;
+			global::Reactive.Bindings.Resource.Styleable.MenuGroup_android_checkableBehavior = global::royalmail.trail.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Reactive.Bindings.Resource.Styleable.MenuGroup_android_enabled = global::royalmail.trail.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Reactive.Bindings.Resource.Styleable.MenuGroup_android_id = global::royalmail.trail.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Reactive.Bindings.Resource.Styleable.MenuGroup_android_menuCategory = global::royalmail.trail.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Reactive.Bindings.Resource.Styleable.MenuGroup_android_orderInCategory = global::royalmail.trail.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Reactive.Bindings.Resource.Styleable.MenuGroup_android_visible = global::royalmail.trail.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem = global::royalmail.trail.Droid.Resource.Styleable.MenuItem;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_actionLayout = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_actionProviderClass = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_actionViewClass = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_alphabeticModifiers = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_checkable = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_checked = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_enabled = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_icon = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_id = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_menuCategory = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_numericShortcut = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_onClick = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_orderInCategory = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_title = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_titleCondensed = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_android_visible = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_contentDescription = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_iconTint = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_iconTintMode = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_numericModifiers = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_showAsAction = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Reactive.Bindings.Resource.Styleable.MenuItem_tooltipText = global::royalmail.trail.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Reactive.Bindings.Resource.Styleable.MenuView = global::royalmail.trail.Droid.Resource.Styleable.MenuView;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_android_headerBackground = global::royalmail.trail.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_android_horizontalDivider = global::royalmail.trail.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_android_itemBackground = global::royalmail.trail.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::royalmail.trail.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_android_itemTextAppearance = global::royalmail.trail.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_android_verticalDivider = global::royalmail.trail.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_android_windowAnimationStyle = global::royalmail.trail.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_preserveIconSpacing = global::royalmail.trail.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Reactive.Bindings.Resource.Styleable.MenuView_subMenuArrow = global::royalmail.trail.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Reactive.Bindings.Resource.Styleable.PopupWindow = global::royalmail.trail.Droid.Resource.Styleable.PopupWindow;
+			global::Reactive.Bindings.Resource.Styleable.PopupWindowBackgroundState = global::royalmail.trail.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Reactive.Bindings.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::royalmail.trail.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Reactive.Bindings.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::royalmail.trail.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Reactive.Bindings.Resource.Styleable.PopupWindow_android_popupBackground = global::royalmail.trail.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Reactive.Bindings.Resource.Styleable.PopupWindow_overlapAnchor = global::royalmail.trail.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Reactive.Bindings.Resource.Styleable.RecycleListView = global::royalmail.trail.Droid.Resource.Styleable.RecycleListView;
+			global::Reactive.Bindings.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::royalmail.trail.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Reactive.Bindings.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::royalmail.trail.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Reactive.Bindings.Resource.Styleable.SearchView = global::royalmail.trail.Droid.Resource.Styleable.SearchView;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_android_focusable = global::royalmail.trail.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_android_imeOptions = global::royalmail.trail.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_android_inputType = global::royalmail.trail.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_android_maxWidth = global::royalmail.trail.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_closeIcon = global::royalmail.trail.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_commitIcon = global::royalmail.trail.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_defaultQueryHint = global::royalmail.trail.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_goIcon = global::royalmail.trail.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_iconifiedByDefault = global::royalmail.trail.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_layout = global::royalmail.trail.Droid.Resource.Styleable.SearchView_layout;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_queryBackground = global::royalmail.trail.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_queryHint = global::royalmail.trail.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_searchHintIcon = global::royalmail.trail.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_searchIcon = global::royalmail.trail.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_submitBackground = global::royalmail.trail.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_suggestionRowLayout = global::royalmail.trail.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Reactive.Bindings.Resource.Styleable.SearchView_voiceIcon = global::royalmail.trail.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Reactive.Bindings.Resource.Styleable.Spinner = global::royalmail.trail.Droid.Resource.Styleable.Spinner;
+			global::Reactive.Bindings.Resource.Styleable.Spinner_android_dropDownWidth = global::royalmail.trail.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Reactive.Bindings.Resource.Styleable.Spinner_android_entries = global::royalmail.trail.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Reactive.Bindings.Resource.Styleable.Spinner_android_popupBackground = global::royalmail.trail.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Reactive.Bindings.Resource.Styleable.Spinner_android_prompt = global::royalmail.trail.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Reactive.Bindings.Resource.Styleable.Spinner_popupTheme = global::royalmail.trail.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_android_textOff = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_android_textOn = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_android_thumb = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_showText = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_splitTrack = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_switchMinWidth = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_switchPadding = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_switchTextAppearance = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_thumbTextPadding = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_thumbTint = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_thumbTintMode = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_track = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_trackTint = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Reactive.Bindings.Resource.Styleable.SwitchCompat_trackTintMode = global::royalmail.trail.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_fontFamily = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_shadowColor = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_shadowDx = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_shadowDy = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_shadowRadius = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_textColor = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_textColorHint = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_textColorLink = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_textSize = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_textStyle = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_android_typeface = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_fontFamily = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Reactive.Bindings.Resource.Styleable.TextAppearance_textAllCaps = global::royalmail.trail.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar = global::royalmail.trail.Droid.Resource.Styleable.Toolbar;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_android_gravity = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_android_minHeight = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_buttonGravity = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_collapseContentDescription = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_collapseIcon = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_contentInsetEnd = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_contentInsetLeft = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_contentInsetRight = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_contentInsetStart = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_logo = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_logo;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_logoDescription = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_maxButtonHeight = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_navigationContentDescription = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_navigationIcon = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_popupTheme = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_subtitle = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_subtitleTextAppearance = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_subtitleTextColor = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_title = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_title;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleMargin = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleMarginBottom = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleMarginEnd = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleMargins = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleMarginStart = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleMarginTop = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleTextAppearance = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Reactive.Bindings.Resource.Styleable.Toolbar_titleTextColor = global::royalmail.trail.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Reactive.Bindings.Resource.Styleable.View = global::royalmail.trail.Droid.Resource.Styleable.View;
+			global::Reactive.Bindings.Resource.Styleable.ViewBackgroundHelper = global::royalmail.trail.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Reactive.Bindings.Resource.Styleable.ViewBackgroundHelper_android_background = global::royalmail.trail.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Reactive.Bindings.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::royalmail.trail.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Reactive.Bindings.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::royalmail.trail.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Reactive.Bindings.Resource.Styleable.ViewStubCompat = global::royalmail.trail.Droid.Resource.Styleable.ViewStubCompat;
+			global::Reactive.Bindings.Resource.Styleable.ViewStubCompat_android_id = global::royalmail.trail.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Reactive.Bindings.Resource.Styleable.ViewStubCompat_android_inflatedId = global::royalmail.trail.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Reactive.Bindings.Resource.Styleable.ViewStubCompat_android_layout = global::royalmail.trail.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Reactive.Bindings.Resource.Styleable.View_android_focusable = global::royalmail.trail.Droid.Resource.Styleable.View_android_focusable;
+			global::Reactive.Bindings.Resource.Styleable.View_android_theme = global::royalmail.trail.Droid.Resource.Styleable.View_android_theme;
+			global::Reactive.Bindings.Resource.Styleable.View_paddingEnd = global::royalmail.trail.Droid.Resource.Styleable.View_paddingEnd;
+			global::Reactive.Bindings.Resource.Styleable.View_paddingStart = global::royalmail.trail.Droid.Resource.Styleable.View_paddingStart;
+			global::Reactive.Bindings.Resource.Styleable.View_theme = global::royalmail.trail.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::royalmail.trail.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::royalmail.trail.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::royalmail.trail.Droid.Resource.Attribute.font;
@@ -7743,122 +9249,128 @@ namespace royalmail.trail.Droid
 			// aapt resource value: 0x7F0D0026
 			public const int abc_toolbar_collapse_description = 2131558438;
 			
-			// aapt resource value: 0x7F0D0027
-			public const int appbar_scrolling_view_behavior = 2131558439;
-			
 			// aapt resource value: 0x7F0D0028
-			public const int bottom_sheet_behavior = 2131558440;
+			public const int appbar_scrolling_view_behavior = 2131558440;
+			
+			// aapt resource value: 0x7F0D0027
+			public const int app_name = 2131558439;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int character_counter_content_description = 2131558441;
+			public const int bottom_sheet_behavior = 2131558441;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int character_counter_pattern = 2131558442;
+			public const int character_counter_content_description = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int fab_transformation_scrim_behavior = 2131558443;
+			public const int character_counter_pattern = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int fab_transformation_sheet_behavior = 2131558444;
+			public const int fab_transformation_scrim_behavior = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int hide_bottom_view_on_scroll_behavior = 2131558445;
+			public const int fab_transformation_sheet_behavior = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int mr_button_content_description = 2131558446;
+			public const int hello = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int mr_cast_button_connected = 2131558447;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int mr_cast_button_connecting = 2131558448;
+			public const int mr_button_content_description = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int mr_cast_button_disconnected = 2131558449;
+			public const int mr_cast_button_connected = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int mr_cast_dialog_title_view_placeholder = 2131558450;
+			public const int mr_cast_button_connecting = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int mr_chooser_searching = 2131558451;
+			public const int mr_cast_button_disconnected = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int mr_chooser_title = 2131558452;
+			public const int mr_cast_dialog_title_view_placeholder = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int mr_controller_album_art = 2131558453;
+			public const int mr_chooser_searching = 2131558453;
 			
 			// aapt resource value: 0x7F0D0036
-			public const int mr_controller_casting_screen = 2131558454;
+			public const int mr_chooser_title = 2131558454;
 			
 			// aapt resource value: 0x7F0D0037
-			public const int mr_controller_close_description = 2131558455;
+			public const int mr_controller_album_art = 2131558455;
 			
 			// aapt resource value: 0x7F0D0038
-			public const int mr_controller_collapse_group = 2131558456;
+			public const int mr_controller_casting_screen = 2131558456;
 			
 			// aapt resource value: 0x7F0D0039
-			public const int mr_controller_disconnect = 2131558457;
+			public const int mr_controller_close_description = 2131558457;
 			
 			// aapt resource value: 0x7F0D003A
-			public const int mr_controller_expand_group = 2131558458;
+			public const int mr_controller_collapse_group = 2131558458;
 			
 			// aapt resource value: 0x7F0D003B
-			public const int mr_controller_no_info_available = 2131558459;
+			public const int mr_controller_disconnect = 2131558459;
 			
 			// aapt resource value: 0x7F0D003C
-			public const int mr_controller_no_media_selected = 2131558460;
+			public const int mr_controller_expand_group = 2131558460;
 			
 			// aapt resource value: 0x7F0D003D
-			public const int mr_controller_pause = 2131558461;
+			public const int mr_controller_no_info_available = 2131558461;
 			
 			// aapt resource value: 0x7F0D003E
-			public const int mr_controller_play = 2131558462;
+			public const int mr_controller_no_media_selected = 2131558462;
 			
 			// aapt resource value: 0x7F0D003F
-			public const int mr_controller_stop = 2131558463;
+			public const int mr_controller_pause = 2131558463;
 			
 			// aapt resource value: 0x7F0D0040
-			public const int mr_controller_stop_casting = 2131558464;
+			public const int mr_controller_play = 2131558464;
 			
 			// aapt resource value: 0x7F0D0041
-			public const int mr_controller_volume_slider = 2131558465;
+			public const int mr_controller_stop = 2131558465;
 			
 			// aapt resource value: 0x7F0D0042
-			public const int mr_dialog_device_header = 2131558466;
+			public const int mr_controller_stop_casting = 2131558466;
 			
 			// aapt resource value: 0x7F0D0043
-			public const int mr_dialog_route_header = 2131558467;
+			public const int mr_controller_volume_slider = 2131558467;
 			
 			// aapt resource value: 0x7F0D0044
-			public const int mr_system_route_name = 2131558468;
+			public const int mr_dialog_device_header = 2131558468;
 			
 			// aapt resource value: 0x7F0D0045
-			public const int mr_user_route_category_name = 2131558469;
+			public const int mr_dialog_route_header = 2131558469;
 			
 			// aapt resource value: 0x7F0D0046
-			public const int mtrl_chip_close_icon_content_description = 2131558470;
+			public const int mr_system_route_name = 2131558470;
 			
 			// aapt resource value: 0x7F0D0047
-			public const int password_toggle_content_description = 2131558471;
+			public const int mr_user_route_category_name = 2131558471;
 			
 			// aapt resource value: 0x7F0D0048
-			public const int path_password_eye = 2131558472;
+			public const int mtrl_chip_close_icon_content_description = 2131558472;
 			
 			// aapt resource value: 0x7F0D0049
-			public const int path_password_eye_mask_strike_through = 2131558473;
+			public const int password_toggle_content_description = 2131558473;
 			
 			// aapt resource value: 0x7F0D004A
-			public const int path_password_eye_mask_visible = 2131558474;
+			public const int path_password_eye = 2131558474;
 			
 			// aapt resource value: 0x7F0D004B
-			public const int path_password_strike_through = 2131558475;
+			public const int path_password_eye_mask_strike_through = 2131558475;
 			
 			// aapt resource value: 0x7F0D004C
-			public const int search_menu_title = 2131558476;
+			public const int path_password_eye_mask_visible = 2131558476;
 			
 			// aapt resource value: 0x7F0D004D
-			public const int status_bar_notification_info_overflow = 2131558477;
+			public const int path_password_strike_through = 2131558477;
+			
+			// aapt resource value: 0x7F0D004E
+			public const int search_menu_title = 2131558478;
+			
+			// aapt resource value: 0x7F0D004F
+			public const int status_bar_notification_info_overflow = 2131558479;
 			
 			static String()
 			{
@@ -9464,101 +10976,101 @@ namespace royalmail.trail.Droid
 			public static int[] ActionBarLayout = new int[] {
 					16842931};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ActionBarLayout_android_layout_gravity = 0;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ActionBar_background = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ActionBar_backgroundSplit = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ActionBar_backgroundStacked = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int ActionBar_contentInsetEnd = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int ActionBar_contentInsetEndWithActions = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int ActionBar_contentInsetLeft = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int ActionBar_contentInsetRight = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int ActionBar_contentInsetStart = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int ActionBar_contentInsetStartWithNavigation = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int ActionBar_customNavigationLayout = 9;
 			
-			// aapt resource value: 0x10
-			public const int ActionBar_displayOptions = 16;
+			// aapt resource value: 10
+			public const int ActionBar_displayOptions = 10;
 			
-			// aapt resource value: 0x11
-			public const int ActionBar_divider = 17;
+			// aapt resource value: 11
+			public const int ActionBar_divider = 11;
 			
-			// aapt resource value: 0x12
-			public const int ActionBar_elevation = 18;
+			// aapt resource value: 12
+			public const int ActionBar_elevation = 12;
 			
-			// aapt resource value: 0x13
-			public const int ActionBar_height = 19;
+			// aapt resource value: 13
+			public const int ActionBar_height = 13;
 			
-			// aapt resource value: 0x14
-			public const int ActionBar_hideOnContentScroll = 20;
+			// aapt resource value: 14
+			public const int ActionBar_hideOnContentScroll = 14;
 			
-			// aapt resource value: 0x15
-			public const int ActionBar_homeAsUpIndicator = 21;
+			// aapt resource value: 15
+			public const int ActionBar_homeAsUpIndicator = 15;
 			
-			// aapt resource value: 0x16
-			public const int ActionBar_homeLayout = 22;
+			// aapt resource value: 16
+			public const int ActionBar_homeLayout = 16;
 			
-			// aapt resource value: 0x17
-			public const int ActionBar_icon = 23;
+			// aapt resource value: 17
+			public const int ActionBar_icon = 17;
 			
-			// aapt resource value: 0x18
-			public const int ActionBar_indeterminateProgressStyle = 24;
+			// aapt resource value: 18
+			public const int ActionBar_indeterminateProgressStyle = 18;
 			
-			// aapt resource value: 0x19
-			public const int ActionBar_itemPadding = 25;
+			// aapt resource value: 19
+			public const int ActionBar_itemPadding = 19;
 			
-			// aapt resource value: 0x20
-			public const int ActionBar_logo = 32;
+			// aapt resource value: 20
+			public const int ActionBar_logo = 20;
 			
-			// aapt resource value: 0x21
-			public const int ActionBar_navigationMode = 33;
+			// aapt resource value: 21
+			public const int ActionBar_navigationMode = 21;
 			
-			// aapt resource value: 0x22
-			public const int ActionBar_popupTheme = 34;
+			// aapt resource value: 22
+			public const int ActionBar_popupTheme = 22;
 			
-			// aapt resource value: 0x23
-			public const int ActionBar_progressBarPadding = 35;
+			// aapt resource value: 23
+			public const int ActionBar_progressBarPadding = 23;
 			
-			// aapt resource value: 0x24
-			public const int ActionBar_progressBarStyle = 36;
+			// aapt resource value: 24
+			public const int ActionBar_progressBarStyle = 24;
 			
-			// aapt resource value: 0x25
-			public const int ActionBar_subtitle = 37;
+			// aapt resource value: 25
+			public const int ActionBar_subtitle = 25;
 			
-			// aapt resource value: 0x26
-			public const int ActionBar_subtitleTextStyle = 38;
+			// aapt resource value: 26
+			public const int ActionBar_subtitleTextStyle = 26;
 			
-			// aapt resource value: 0x27
-			public const int ActionBar_title = 39;
+			// aapt resource value: 27
+			public const int ActionBar_title = 27;
 			
-			// aapt resource value: 0x28
-			public const int ActionBar_titleTextStyle = 40;
+			// aapt resource value: 28
+			public const int ActionBar_titleTextStyle = 28;
 			
 			// aapt resource value: { 0x101013F }
 			public static int[] ActionMenuItemView = new int[] {
 					16843071};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ActionMenuItemView_android_minWidth = 0;
 			
 			// aapt resource value: { 0xFFFFFFFF }
@@ -9574,22 +11086,22 @@ namespace royalmail.trail.Droid
 					2130903428,
 					2130903507};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ActionMode_background = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ActionMode_backgroundSplit = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ActionMode_closeItemLayout = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int ActionMode_height = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int ActionMode_subtitleTextStyle = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int ActionMode_titleTextStyle = 5;
 			
 			// aapt resource value: { 0x7F0300BA,0x7F0300F8 }
@@ -9597,10 +11109,10 @@ namespace royalmail.trail.Droid
 					2130903226,
 					2130903288};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
 			// aapt resource value: { 0x10100F2,0x7F030052,0x7F030053,0x7F03011B,0x7F03011C,0x7F03013A,0x7F030169,0x7F03016A }
@@ -9614,28 +11126,28 @@ namespace royalmail.trail.Droid
 					2130903401,
 					2130903402};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AlertDialog_android_layout = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AlertDialog_buttonIconDimen = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AlertDialog_buttonPanelSideLayout = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AlertDialog_listItemLayout = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int AlertDialog_listLayout = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int AlertDialog_multiChoiceItemLayout = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int AlertDialog_showTitle = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int AlertDialog_singleChoiceItemLayout = 7;
 			
 			// aapt resource value: { 0x101011C,0x1010194,0x1010195,0x1010196,0x101030C,0x101030D }
@@ -9647,22 +11159,22 @@ namespace royalmail.trail.Droid
 					16843532,
 					16843533};
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AnimatedStateListDrawableCompat_android_constantSize = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AnimatedStateListDrawableCompat_android_dither = 0;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int AnimatedStateListDrawableCompat_android_enterFadeDuration = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int AnimatedStateListDrawableCompat_android_exitFadeDuration = 5;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AnimatedStateListDrawableCompat_android_variablePadding = 2;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AnimatedStateListDrawableCompat_android_visible = 1;
 			
 			// aapt resource value: { 0x10100D0,0x1010199 }
@@ -9670,10 +11182,10 @@ namespace royalmail.trail.Droid
 					16842960,
 					16843161};
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AnimatedStateListDrawableItem_android_drawable = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AnimatedStateListDrawableItem_android_id = 0;
 			
 			// aapt resource value: { 0x1010199,0x1010449,0x101044A,0x101044B }
@@ -9683,16 +11195,16 @@ namespace royalmail.trail.Droid
 					16843850,
 					16843851};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AnimatedStateListDrawableTransition_android_drawable = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AnimatedStateListDrawableTransition_android_fromId = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AnimatedStateListDrawableTransition_android_reversible = 3;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AnimatedStateListDrawableTransition_android_toId = 1;
 			
 			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0300B5,0x7F0300BB,0x7F030116 }
@@ -9711,31 +11223,31 @@ namespace royalmail.trail.Droid
 					2130903417,
 					2130903418};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppBarLayoutStates_state_collapsed = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppBarLayoutStates_state_collapsible = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AppBarLayoutStates_state_liftable = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AppBarLayoutStates_state_lifted = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppBarLayout_android_background = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AppBarLayout_android_keyboardNavigationCluster = 2;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppBarLayout_android_touchscreenBlocksFocus = 1;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AppBarLayout_elevation = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int AppBarLayout_expanded = 4;
 			
 			// aapt resource value: { 0x7F030114,0x7F030115 }
@@ -9743,13 +11255,13 @@ namespace royalmail.trail.Droid
 					2130903316,
 					2130903317};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppBarLayout_Layout_layout_scrollFlags = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppBarLayout_Layout_layout_scrollInterpolator = 1;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int AppBarLayout_liftOnScroll = 5;
 			
 			// aapt resource value: { 0x1010119,0x7F030174,0x7F0301C7,0x7F0301C8 }
@@ -9759,16 +11271,16 @@ namespace royalmail.trail.Droid
 					2130903495,
 					2130903496};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppCompatImageView_android_src = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppCompatImageView_srcCompat = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AppCompatImageView_tint = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AppCompatImageView_tintMode = 3;
 			
 			// aapt resource value: { 0x1010142,0x7F0301C4,0x7F0301C5,0x7F0301C6 }
@@ -9778,16 +11290,16 @@ namespace royalmail.trail.Droid
 					2130903493,
 					2130903494};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppCompatSeekBar_android_thumb = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppCompatSeekBar_tickMark = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AppCompatSeekBar_tickMarkTint = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AppCompatSeekBar_tickMarkTintMode = 3;
 			
 			// aapt resource value: { 0x1010034,0x101016D,0x101016E,0x101016F,0x1010170,0x1010392,0x1010393 }
@@ -9800,25 +11312,25 @@ namespace royalmail.trail.Droid
 					16843666,
 					16843667};
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AppCompatTextHelper_android_drawableBottom = 2;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int AppCompatTextHelper_android_drawableEnd = 6;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AppCompatTextHelper_android_drawableLeft = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int AppCompatTextHelper_android_drawableRight = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int AppCompatTextHelper_android_drawableStart = 5;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppCompatTextHelper_android_drawableTop = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppCompatTextHelper_android_textAppearance = 0;
 			
 			// aapt resource value: { 0x1010034,0x7F03002C,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030030,0x7F0300CF,0x7F0300D2,0x7F030109,0x7F030117,0x7F0301A4 }
@@ -9835,38 +11347,38 @@ namespace royalmail.trail.Droid
 					2130903319,
 					2130903460};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppCompatTextView_android_textAppearance = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppCompatTextView_autoSizeMaxTextSize = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AppCompatTextView_autoSizeMinTextSize = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AppCompatTextView_autoSizePresetSizes = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int AppCompatTextView_autoSizeStepGranularity = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int AppCompatTextView_autoSizeTextType = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int AppCompatTextView_firstBaselineToTopHeight = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int AppCompatTextView_fontFamily = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int AppCompatTextView_lastBaselineToBottomHeight = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int AppCompatTextView_lineHeight = 9;
 			
-			// aapt resource value: 0x10
-			public const int AppCompatTextView_textAllCaps = 16;
+			// aapt resource value: 10
+			public const int AppCompatTextView_textAllCaps = 10;
 			
 			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F03002B,0x7F03003E,0x7F03004C,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030054,0x7F030055,0x7F03005F,0x7F030064,0x7F030084,0x7F030085,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F03008B,0x7F03008C,0x7F03008E,0x7F03009D,0x7F0300A6,0x7F0300A7,0x7F0300A8,0x7F0300AB,0x7F0300AD,0x7F0300B0,0x7F0300B1,0x7F0300B2,0x7F0300B3,0x7F0300B4,0x7F0300EA,0x7F0300F6,0x7F030119,0x7F03011A,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030120,0x7F030121,0x7F030122,0x7F030123,0x7F030145,0x7F030146,0x7F030147,0x7F03014D,0x7F03014F,0x7F030156,0x7F030157,0x7F030158,0x7F030159,0x7F030161,0x7F030162,0x7F030163,0x7F030164,0x7F030171,0x7F030172,0x7F030188,0x7F0301AF,0x7F0301B0,0x7F0301B1,0x7F0301B2,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F0301B7,0x7F0301BA,0x7F0301BB,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301DF,0x7F0301E1,0x7F0301E2,0x7F0301E3,0x7F0301E4,0x7F0301E5,0x7F0301E6,0x7F0301E7,0x7F0301E8,0x7F0301E9,0x7F0301EA }
 			public static int[] AppCompatTheme = new int[] {
@@ -9992,368 +11504,368 @@ namespace royalmail.trail.Droid
 					2130903529,
 					2130903530};
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int AppCompatTheme_actionBarDivider = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int AppCompatTheme_actionBarItemBackground = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int AppCompatTheme_actionBarPopupTheme = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int AppCompatTheme_actionBarSize = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int AppCompatTheme_actionBarSplitStyle = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int AppCompatTheme_actionBarStyle = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int AppCompatTheme_actionBarTabBarStyle = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int AppCompatTheme_actionBarTabStyle = 9;
 			
-			// aapt resource value: 0x10
-			public const int AppCompatTheme_actionBarTabTextStyle = 16;
+			// aapt resource value: 10
+			public const int AppCompatTheme_actionBarTabTextStyle = 10;
 			
-			// aapt resource value: 0x11
-			public const int AppCompatTheme_actionBarTheme = 17;
+			// aapt resource value: 11
+			public const int AppCompatTheme_actionBarTheme = 11;
 			
-			// aapt resource value: 0x12
-			public const int AppCompatTheme_actionBarWidgetTheme = 18;
+			// aapt resource value: 12
+			public const int AppCompatTheme_actionBarWidgetTheme = 12;
 			
-			// aapt resource value: 0x13
-			public const int AppCompatTheme_actionButtonStyle = 19;
+			// aapt resource value: 13
+			public const int AppCompatTheme_actionButtonStyle = 13;
 			
-			// aapt resource value: 0x14
-			public const int AppCompatTheme_actionDropDownStyle = 20;
+			// aapt resource value: 14
+			public const int AppCompatTheme_actionDropDownStyle = 14;
 			
-			// aapt resource value: 0x15
-			public const int AppCompatTheme_actionMenuTextAppearance = 21;
+			// aapt resource value: 15
+			public const int AppCompatTheme_actionMenuTextAppearance = 15;
 			
-			// aapt resource value: 0x16
-			public const int AppCompatTheme_actionMenuTextColor = 22;
+			// aapt resource value: 16
+			public const int AppCompatTheme_actionMenuTextColor = 16;
 			
-			// aapt resource value: 0x17
-			public const int AppCompatTheme_actionModeBackground = 23;
+			// aapt resource value: 17
+			public const int AppCompatTheme_actionModeBackground = 17;
 			
-			// aapt resource value: 0x18
-			public const int AppCompatTheme_actionModeCloseButtonStyle = 24;
+			// aapt resource value: 18
+			public const int AppCompatTheme_actionModeCloseButtonStyle = 18;
 			
-			// aapt resource value: 0x19
-			public const int AppCompatTheme_actionModeCloseDrawable = 25;
+			// aapt resource value: 19
+			public const int AppCompatTheme_actionModeCloseDrawable = 19;
 			
-			// aapt resource value: 0x20
-			public const int AppCompatTheme_actionModeCopyDrawable = 32;
+			// aapt resource value: 20
+			public const int AppCompatTheme_actionModeCopyDrawable = 20;
 			
-			// aapt resource value: 0x21
-			public const int AppCompatTheme_actionModeCutDrawable = 33;
+			// aapt resource value: 21
+			public const int AppCompatTheme_actionModeCutDrawable = 21;
 			
-			// aapt resource value: 0x22
-			public const int AppCompatTheme_actionModeFindDrawable = 34;
+			// aapt resource value: 22
+			public const int AppCompatTheme_actionModeFindDrawable = 22;
 			
-			// aapt resource value: 0x23
-			public const int AppCompatTheme_actionModePasteDrawable = 35;
+			// aapt resource value: 23
+			public const int AppCompatTheme_actionModePasteDrawable = 23;
 			
-			// aapt resource value: 0x24
-			public const int AppCompatTheme_actionModePopupWindowStyle = 36;
+			// aapt resource value: 24
+			public const int AppCompatTheme_actionModePopupWindowStyle = 24;
 			
-			// aapt resource value: 0x25
-			public const int AppCompatTheme_actionModeSelectAllDrawable = 37;
+			// aapt resource value: 25
+			public const int AppCompatTheme_actionModeSelectAllDrawable = 25;
 			
-			// aapt resource value: 0x26
-			public const int AppCompatTheme_actionModeShareDrawable = 38;
+			// aapt resource value: 26
+			public const int AppCompatTheme_actionModeShareDrawable = 26;
 			
-			// aapt resource value: 0x27
-			public const int AppCompatTheme_actionModeSplitBackground = 39;
+			// aapt resource value: 27
+			public const int AppCompatTheme_actionModeSplitBackground = 27;
 			
-			// aapt resource value: 0x28
-			public const int AppCompatTheme_actionModeStyle = 40;
+			// aapt resource value: 28
+			public const int AppCompatTheme_actionModeStyle = 28;
 			
-			// aapt resource value: 0x29
-			public const int AppCompatTheme_actionModeWebSearchDrawable = 41;
+			// aapt resource value: 29
+			public const int AppCompatTheme_actionModeWebSearchDrawable = 29;
 			
-			// aapt resource value: 0x30
-			public const int AppCompatTheme_actionOverflowButtonStyle = 48;
+			// aapt resource value: 30
+			public const int AppCompatTheme_actionOverflowButtonStyle = 30;
 			
-			// aapt resource value: 0x31
-			public const int AppCompatTheme_actionOverflowMenuStyle = 49;
+			// aapt resource value: 31
+			public const int AppCompatTheme_actionOverflowMenuStyle = 31;
 			
-			// aapt resource value: 0x32
-			public const int AppCompatTheme_activityChooserViewStyle = 50;
+			// aapt resource value: 32
+			public const int AppCompatTheme_activityChooserViewStyle = 32;
 			
-			// aapt resource value: 0x33
-			public const int AppCompatTheme_alertDialogButtonGroupStyle = 51;
+			// aapt resource value: 33
+			public const int AppCompatTheme_alertDialogButtonGroupStyle = 33;
 			
-			// aapt resource value: 0x34
-			public const int AppCompatTheme_alertDialogCenterButtons = 52;
+			// aapt resource value: 34
+			public const int AppCompatTheme_alertDialogCenterButtons = 34;
 			
-			// aapt resource value: 0x35
-			public const int AppCompatTheme_alertDialogStyle = 53;
+			// aapt resource value: 35
+			public const int AppCompatTheme_alertDialogStyle = 35;
 			
-			// aapt resource value: 0x36
-			public const int AppCompatTheme_alertDialogTheme = 54;
+			// aapt resource value: 36
+			public const int AppCompatTheme_alertDialogTheme = 36;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int AppCompatTheme_android_windowAnimationStyle = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int AppCompatTheme_android_windowIsFloating = 0;
 			
-			// aapt resource value: 0x37
-			public const int AppCompatTheme_autoCompleteTextViewStyle = 55;
+			// aapt resource value: 37
+			public const int AppCompatTheme_autoCompleteTextViewStyle = 37;
 			
-			// aapt resource value: 0x38
-			public const int AppCompatTheme_borderlessButtonStyle = 56;
+			// aapt resource value: 38
+			public const int AppCompatTheme_borderlessButtonStyle = 38;
 			
-			// aapt resource value: 0x39
-			public const int AppCompatTheme_buttonBarButtonStyle = 57;
+			// aapt resource value: 39
+			public const int AppCompatTheme_buttonBarButtonStyle = 39;
 			
-			// aapt resource value: 0x40
-			public const int AppCompatTheme_buttonBarNegativeButtonStyle = 64;
+			// aapt resource value: 40
+			public const int AppCompatTheme_buttonBarNegativeButtonStyle = 40;
 			
-			// aapt resource value: 0x41
-			public const int AppCompatTheme_buttonBarNeutralButtonStyle = 65;
+			// aapt resource value: 41
+			public const int AppCompatTheme_buttonBarNeutralButtonStyle = 41;
 			
-			// aapt resource value: 0x42
-			public const int AppCompatTheme_buttonBarPositiveButtonStyle = 66;
+			// aapt resource value: 42
+			public const int AppCompatTheme_buttonBarPositiveButtonStyle = 42;
 			
-			// aapt resource value: 0x43
-			public const int AppCompatTheme_buttonBarStyle = 67;
+			// aapt resource value: 43
+			public const int AppCompatTheme_buttonBarStyle = 43;
 			
-			// aapt resource value: 0x44
-			public const int AppCompatTheme_buttonStyle = 68;
+			// aapt resource value: 44
+			public const int AppCompatTheme_buttonStyle = 44;
 			
-			// aapt resource value: 0x45
-			public const int AppCompatTheme_buttonStyleSmall = 69;
+			// aapt resource value: 45
+			public const int AppCompatTheme_buttonStyleSmall = 45;
 			
-			// aapt resource value: 0x46
-			public const int AppCompatTheme_checkboxStyle = 70;
+			// aapt resource value: 46
+			public const int AppCompatTheme_checkboxStyle = 46;
 			
-			// aapt resource value: 0x47
-			public const int AppCompatTheme_checkedTextViewStyle = 71;
+			// aapt resource value: 47
+			public const int AppCompatTheme_checkedTextViewStyle = 47;
 			
-			// aapt resource value: 0x48
-			public const int AppCompatTheme_colorAccent = 72;
+			// aapt resource value: 48
+			public const int AppCompatTheme_colorAccent = 48;
 			
-			// aapt resource value: 0x49
-			public const int AppCompatTheme_colorBackgroundFloating = 73;
+			// aapt resource value: 49
+			public const int AppCompatTheme_colorBackgroundFloating = 49;
 			
-			// aapt resource value: 0x50
-			public const int AppCompatTheme_colorButtonNormal = 80;
+			// aapt resource value: 50
+			public const int AppCompatTheme_colorButtonNormal = 50;
 			
-			// aapt resource value: 0x51
-			public const int AppCompatTheme_colorControlActivated = 81;
+			// aapt resource value: 51
+			public const int AppCompatTheme_colorControlActivated = 51;
 			
-			// aapt resource value: 0x52
-			public const int AppCompatTheme_colorControlHighlight = 82;
+			// aapt resource value: 52
+			public const int AppCompatTheme_colorControlHighlight = 52;
 			
-			// aapt resource value: 0x53
-			public const int AppCompatTheme_colorControlNormal = 83;
+			// aapt resource value: 53
+			public const int AppCompatTheme_colorControlNormal = 53;
 			
-			// aapt resource value: 0x54
-			public const int AppCompatTheme_colorError = 84;
+			// aapt resource value: 54
+			public const int AppCompatTheme_colorError = 54;
 			
-			// aapt resource value: 0x55
-			public const int AppCompatTheme_colorPrimary = 85;
+			// aapt resource value: 55
+			public const int AppCompatTheme_colorPrimary = 55;
 			
-			// aapt resource value: 0x56
-			public const int AppCompatTheme_colorPrimaryDark = 86;
+			// aapt resource value: 56
+			public const int AppCompatTheme_colorPrimaryDark = 56;
 			
-			// aapt resource value: 0x57
-			public const int AppCompatTheme_colorSwitchThumbNormal = 87;
+			// aapt resource value: 57
+			public const int AppCompatTheme_colorSwitchThumbNormal = 57;
 			
-			// aapt resource value: 0x58
-			public const int AppCompatTheme_controlBackground = 88;
+			// aapt resource value: 58
+			public const int AppCompatTheme_controlBackground = 58;
 			
-			// aapt resource value: 0x59
-			public const int AppCompatTheme_dialogCornerRadius = 89;
+			// aapt resource value: 59
+			public const int AppCompatTheme_dialogCornerRadius = 59;
 			
-			// aapt resource value: 0x60
-			public const int AppCompatTheme_dialogPreferredPadding = 96;
+			// aapt resource value: 60
+			public const int AppCompatTheme_dialogPreferredPadding = 60;
 			
-			// aapt resource value: 0x61
-			public const int AppCompatTheme_dialogTheme = 97;
+			// aapt resource value: 61
+			public const int AppCompatTheme_dialogTheme = 61;
 			
-			// aapt resource value: 0x62
-			public const int AppCompatTheme_dividerHorizontal = 98;
+			// aapt resource value: 62
+			public const int AppCompatTheme_dividerHorizontal = 62;
 			
-			// aapt resource value: 0x63
-			public const int AppCompatTheme_dividerVertical = 99;
+			// aapt resource value: 63
+			public const int AppCompatTheme_dividerVertical = 63;
 			
-			// aapt resource value: 0x65
-			public const int AppCompatTheme_dropdownListPreferredItemHeight = 101;
+			// aapt resource value: 65
+			public const int AppCompatTheme_dropdownListPreferredItemHeight = 65;
 			
-			// aapt resource value: 0x64
-			public const int AppCompatTheme_dropDownListViewStyle = 100;
+			// aapt resource value: 64
+			public const int AppCompatTheme_dropDownListViewStyle = 64;
 			
-			// aapt resource value: 0x66
-			public const int AppCompatTheme_editTextBackground = 102;
+			// aapt resource value: 66
+			public const int AppCompatTheme_editTextBackground = 66;
 			
-			// aapt resource value: 0x67
-			public const int AppCompatTheme_editTextColor = 103;
+			// aapt resource value: 67
+			public const int AppCompatTheme_editTextColor = 67;
 			
-			// aapt resource value: 0x68
-			public const int AppCompatTheme_editTextStyle = 104;
+			// aapt resource value: 68
+			public const int AppCompatTheme_editTextStyle = 68;
 			
-			// aapt resource value: 0x69
-			public const int AppCompatTheme_homeAsUpIndicator = 105;
+			// aapt resource value: 69
+			public const int AppCompatTheme_homeAsUpIndicator = 69;
 			
-			// aapt resource value: 0x70
-			public const int AppCompatTheme_imageButtonStyle = 112;
+			// aapt resource value: 70
+			public const int AppCompatTheme_imageButtonStyle = 70;
 			
-			// aapt resource value: 0x71
-			public const int AppCompatTheme_listChoiceBackgroundIndicator = 113;
+			// aapt resource value: 71
+			public const int AppCompatTheme_listChoiceBackgroundIndicator = 71;
 			
-			// aapt resource value: 0x72
-			public const int AppCompatTheme_listDividerAlertDialog = 114;
+			// aapt resource value: 72
+			public const int AppCompatTheme_listDividerAlertDialog = 72;
 			
-			// aapt resource value: 0x73
-			public const int AppCompatTheme_listMenuViewStyle = 115;
+			// aapt resource value: 73
+			public const int AppCompatTheme_listMenuViewStyle = 73;
 			
-			// aapt resource value: 0x74
-			public const int AppCompatTheme_listPopupWindowStyle = 116;
+			// aapt resource value: 74
+			public const int AppCompatTheme_listPopupWindowStyle = 74;
 			
-			// aapt resource value: 0x75
-			public const int AppCompatTheme_listPreferredItemHeight = 117;
+			// aapt resource value: 75
+			public const int AppCompatTheme_listPreferredItemHeight = 75;
 			
-			// aapt resource value: 0x76
-			public const int AppCompatTheme_listPreferredItemHeightLarge = 118;
+			// aapt resource value: 76
+			public const int AppCompatTheme_listPreferredItemHeightLarge = 76;
 			
-			// aapt resource value: 0x77
-			public const int AppCompatTheme_listPreferredItemHeightSmall = 119;
+			// aapt resource value: 77
+			public const int AppCompatTheme_listPreferredItemHeightSmall = 77;
 			
-			// aapt resource value: 0x78
-			public const int AppCompatTheme_listPreferredItemPaddingLeft = 120;
+			// aapt resource value: 78
+			public const int AppCompatTheme_listPreferredItemPaddingLeft = 78;
 			
-			// aapt resource value: 0x79
-			public const int AppCompatTheme_listPreferredItemPaddingRight = 121;
+			// aapt resource value: 79
+			public const int AppCompatTheme_listPreferredItemPaddingRight = 79;
 			
-			// aapt resource value: 0x80
-			public const int AppCompatTheme_panelBackground = 128;
+			// aapt resource value: 80
+			public const int AppCompatTheme_panelBackground = 80;
 			
-			// aapt resource value: 0x81
-			public const int AppCompatTheme_panelMenuListTheme = 129;
+			// aapt resource value: 81
+			public const int AppCompatTheme_panelMenuListTheme = 81;
 			
-			// aapt resource value: 0x82
-			public const int AppCompatTheme_panelMenuListWidth = 130;
+			// aapt resource value: 82
+			public const int AppCompatTheme_panelMenuListWidth = 82;
 			
-			// aapt resource value: 0x83
-			public const int AppCompatTheme_popupMenuStyle = 131;
+			// aapt resource value: 83
+			public const int AppCompatTheme_popupMenuStyle = 83;
 			
-			// aapt resource value: 0x84
-			public const int AppCompatTheme_popupWindowStyle = 132;
+			// aapt resource value: 84
+			public const int AppCompatTheme_popupWindowStyle = 84;
 			
-			// aapt resource value: 0x85
-			public const int AppCompatTheme_radioButtonStyle = 133;
+			// aapt resource value: 85
+			public const int AppCompatTheme_radioButtonStyle = 85;
 			
-			// aapt resource value: 0x86
-			public const int AppCompatTheme_ratingBarStyle = 134;
+			// aapt resource value: 86
+			public const int AppCompatTheme_ratingBarStyle = 86;
 			
-			// aapt resource value: 0x87
-			public const int AppCompatTheme_ratingBarStyleIndicator = 135;
+			// aapt resource value: 87
+			public const int AppCompatTheme_ratingBarStyleIndicator = 87;
 			
-			// aapt resource value: 0x88
-			public const int AppCompatTheme_ratingBarStyleSmall = 136;
+			// aapt resource value: 88
+			public const int AppCompatTheme_ratingBarStyleSmall = 88;
 			
-			// aapt resource value: 0x89
-			public const int AppCompatTheme_searchViewStyle = 137;
+			// aapt resource value: 89
+			public const int AppCompatTheme_searchViewStyle = 89;
 			
-			// aapt resource value: 0x90
-			public const int AppCompatTheme_seekBarStyle = 144;
+			// aapt resource value: 90
+			public const int AppCompatTheme_seekBarStyle = 90;
 			
-			// aapt resource value: 0x91
-			public const int AppCompatTheme_selectableItemBackground = 145;
+			// aapt resource value: 91
+			public const int AppCompatTheme_selectableItemBackground = 91;
 			
-			// aapt resource value: 0x92
-			public const int AppCompatTheme_selectableItemBackgroundBorderless = 146;
+			// aapt resource value: 92
+			public const int AppCompatTheme_selectableItemBackgroundBorderless = 92;
 			
-			// aapt resource value: 0x93
-			public const int AppCompatTheme_spinnerDropDownItemStyle = 147;
+			// aapt resource value: 93
+			public const int AppCompatTheme_spinnerDropDownItemStyle = 93;
 			
-			// aapt resource value: 0x94
-			public const int AppCompatTheme_spinnerStyle = 148;
+			// aapt resource value: 94
+			public const int AppCompatTheme_spinnerStyle = 94;
 			
-			// aapt resource value: 0x95
-			public const int AppCompatTheme_switchStyle = 149;
+			// aapt resource value: 95
+			public const int AppCompatTheme_switchStyle = 95;
 			
-			// aapt resource value: 0x96
-			public const int AppCompatTheme_textAppearanceLargePopupMenu = 150;
+			// aapt resource value: 96
+			public const int AppCompatTheme_textAppearanceLargePopupMenu = 96;
 			
-			// aapt resource value: 0x97
-			public const int AppCompatTheme_textAppearanceListItem = 151;
+			// aapt resource value: 97
+			public const int AppCompatTheme_textAppearanceListItem = 97;
 			
-			// aapt resource value: 0x98
-			public const int AppCompatTheme_textAppearanceListItemSecondary = 152;
+			// aapt resource value: 98
+			public const int AppCompatTheme_textAppearanceListItemSecondary = 98;
 			
-			// aapt resource value: 0x99
-			public const int AppCompatTheme_textAppearanceListItemSmall = 153;
+			// aapt resource value: 99
+			public const int AppCompatTheme_textAppearanceListItemSmall = 99;
 			
-			// aapt resource value: 0x100
-			public const int AppCompatTheme_textAppearancePopupMenuHeader = 256;
+			// aapt resource value: 100
+			public const int AppCompatTheme_textAppearancePopupMenuHeader = 100;
 			
-			// aapt resource value: 0x101
-			public const int AppCompatTheme_textAppearanceSearchResultSubtitle = 257;
+			// aapt resource value: 101
+			public const int AppCompatTheme_textAppearanceSearchResultSubtitle = 101;
 			
-			// aapt resource value: 0x102
-			public const int AppCompatTheme_textAppearanceSearchResultTitle = 258;
+			// aapt resource value: 102
+			public const int AppCompatTheme_textAppearanceSearchResultTitle = 102;
 			
-			// aapt resource value: 0x103
-			public const int AppCompatTheme_textAppearanceSmallPopupMenu = 259;
+			// aapt resource value: 103
+			public const int AppCompatTheme_textAppearanceSmallPopupMenu = 103;
 			
-			// aapt resource value: 0x104
-			public const int AppCompatTheme_textColorAlertDialogListItem = 260;
+			// aapt resource value: 104
+			public const int AppCompatTheme_textColorAlertDialogListItem = 104;
 			
-			// aapt resource value: 0x105
-			public const int AppCompatTheme_textColorSearchUrl = 261;
+			// aapt resource value: 105
+			public const int AppCompatTheme_textColorSearchUrl = 105;
 			
-			// aapt resource value: 0x106
-			public const int AppCompatTheme_toolbarNavigationButtonStyle = 262;
+			// aapt resource value: 106
+			public const int AppCompatTheme_toolbarNavigationButtonStyle = 106;
 			
-			// aapt resource value: 0x107
-			public const int AppCompatTheme_toolbarStyle = 263;
+			// aapt resource value: 107
+			public const int AppCompatTheme_toolbarStyle = 107;
 			
-			// aapt resource value: 0x108
-			public const int AppCompatTheme_tooltipForegroundColor = 264;
+			// aapt resource value: 108
+			public const int AppCompatTheme_tooltipForegroundColor = 108;
 			
-			// aapt resource value: 0x109
-			public const int AppCompatTheme_tooltipFrameBackground = 265;
+			// aapt resource value: 109
+			public const int AppCompatTheme_tooltipFrameBackground = 109;
 			
-			// aapt resource value: 0x110
-			public const int AppCompatTheme_viewInflaterClass = 272;
+			// aapt resource value: 110
+			public const int AppCompatTheme_viewInflaterClass = 110;
 			
-			// aapt resource value: 0x111
-			public const int AppCompatTheme_windowActionBar = 273;
+			// aapt resource value: 111
+			public const int AppCompatTheme_windowActionBar = 111;
 			
-			// aapt resource value: 0x112
-			public const int AppCompatTheme_windowActionBarOverlay = 274;
+			// aapt resource value: 112
+			public const int AppCompatTheme_windowActionBarOverlay = 112;
 			
-			// aapt resource value: 0x113
-			public const int AppCompatTheme_windowActionModeOverlay = 275;
+			// aapt resource value: 113
+			public const int AppCompatTheme_windowActionModeOverlay = 113;
 			
-			// aapt resource value: 0x114
-			public const int AppCompatTheme_windowFixedHeightMajor = 276;
+			// aapt resource value: 114
+			public const int AppCompatTheme_windowFixedHeightMajor = 114;
 			
-			// aapt resource value: 0x115
-			public const int AppCompatTheme_windowFixedHeightMinor = 277;
+			// aapt resource value: 115
+			public const int AppCompatTheme_windowFixedHeightMinor = 115;
 			
-			// aapt resource value: 0x116
-			public const int AppCompatTheme_windowFixedWidthMajor = 278;
+			// aapt resource value: 116
+			public const int AppCompatTheme_windowFixedWidthMajor = 116;
 			
-			// aapt resource value: 0x117
-			public const int AppCompatTheme_windowFixedWidthMinor = 279;
+			// aapt resource value: 117
+			public const int AppCompatTheme_windowFixedWidthMinor = 117;
 			
-			// aapt resource value: 0x118
-			public const int AppCompatTheme_windowMinWidthMajor = 280;
+			// aapt resource value: 118
+			public const int AppCompatTheme_windowMinWidthMajor = 118;
 			
-			// aapt resource value: 0x119
-			public const int AppCompatTheme_windowMinWidthMinor = 281;
+			// aapt resource value: 119
+			public const int AppCompatTheme_windowMinWidthMinor = 119;
 			
-			// aapt resource value: 0x120
-			public const int AppCompatTheme_windowNoTitle = 288;
+			// aapt resource value: 120
+			public const int AppCompatTheme_windowNoTitle = 120;
 			
 			// aapt resource value: { 0x7F030034,0x7F0300C4,0x7F0300C5,0x7F0300C6,0x7F0300C7,0x7F0300E6 }
 			public static int[] BottomAppBar = new int[] {
@@ -10364,22 +11876,22 @@ namespace royalmail.trail.Droid
 					2130903239,
 					2130903270};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int BottomAppBar_backgroundTint = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int BottomAppBar_fabAlignmentMode = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int BottomAppBar_fabCradleMargin = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int BottomAppBar_fabCradleRoundedCornerRadius = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int BottomAppBar_fabCradleVerticalOffset = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int BottomAppBar_hideOnScroll = 5;
 			
 			// aapt resource value: { 0x7F0300B5,0x7F0300FB,0x7F0300FD,0x7F0300FF,0x7F030100,0x7F030104,0x7F030105,0x7F030106,0x7F030108,0x7F030139 }
@@ -10395,34 +11907,34 @@ namespace royalmail.trail.Droid
 					2130903304,
 					2130903353};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int BottomNavigationView_elevation = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int BottomNavigationView_itemBackground = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int BottomNavigationView_itemHorizontalTranslationEnabled = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int BottomNavigationView_itemIconSize = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int BottomNavigationView_itemIconTint = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int BottomNavigationView_itemTextAppearanceActive = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int BottomNavigationView_itemTextAppearanceInactive = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int BottomNavigationView_itemTextColor = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int BottomNavigationView_labelVisibilityMode = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int BottomNavigationView_menu = 9;
 			
 			// aapt resource value: { 0x7F030038,0x7F030039,0x7F03003B,0x7F03003C }
@@ -10432,23 +11944,23 @@ namespace royalmail.trail.Droid
 					2130903099,
 					2130903100};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int BottomSheetBehavior_Layout_behavior_hideable = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int BottomSheetBehavior_Layout_behavior_peekHeight = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int BottomSheetBehavior_Layout_behavior_skipCollapsed = 3;
 			
 			// aapt resource value: { 0x7F030026 }
 			public static int[] ButtonBarLayout = new int[] {
 					2130903078};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ButtonBarLayout_allowStacking = 0;
 			
 			// aapt resource value: { 0x101013F,0x1010140,0x7F030058,0x7F030059,0x7F03005A,0x7F03005B,0x7F03005C,0x7F03005D,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B }
@@ -10467,44 +11979,44 @@ namespace royalmail.trail.Droid
 					2130903194,
 					2130903195};
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int CardView_android_minHeight = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int CardView_android_minWidth = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int CardView_cardBackgroundColor = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int CardView_cardCornerRadius = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int CardView_cardElevation = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int CardView_cardMaxElevation = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int CardView_cardPreventCornerOverlap = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int CardView_cardUseCompatPadding = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int CardView_contentPadding = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int CardView_contentPaddingBottom = 9;
 			
-			// aapt resource value: 0x10
-			public const int CardView_contentPaddingLeft = 16;
+			// aapt resource value: 10
+			public const int CardView_contentPaddingLeft = 10;
 			
-			// aapt resource value: 0x11
-			public const int CardView_contentPaddingRight = 17;
+			// aapt resource value: 11
+			public const int CardView_contentPaddingRight = 11;
 			
-			// aapt resource value: 0x12
-			public const int CardView_contentPaddingTop = 18;
+			// aapt resource value: 12
+			public const int CardView_contentPaddingTop = 12;
 			
 			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F030061,0x7F030062,0x7F030063,0x7F030065,0x7F030066,0x7F030067,0x7F030069,0x7F03006A,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006E,0x7F030073,0x7F030074,0x7F030075,0x7F030077,0x7F030078,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007C,0x7F03007D,0x7F0300E4,0x7F0300EE,0x7F0300F2,0x7F03015B,0x7F030167,0x7F0301BC,0x7F0301BE }
 			public static int[] Chip = new int[] {
@@ -10552,125 +12064,125 @@ namespace royalmail.trail.Droid
 					2130903403,
 					2130903404};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ChipGroup_checkedChip = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ChipGroup_chipSpacing = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ChipGroup_chipSpacingHorizontal = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int ChipGroup_chipSpacingVertical = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int ChipGroup_singleLine = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int ChipGroup_singleSelection = 5;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int Chip_android_checkable = 4;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int Chip_android_ellipsize = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int Chip_android_maxWidth = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int Chip_android_text = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int Chip_android_textAppearance = 0;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int Chip_checkedIcon = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int Chip_checkedIconEnabled = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int Chip_checkedIconVisible = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int Chip_chipBackgroundColor = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int Chip_chipCornerRadius = 9;
 			
-			// aapt resource value: 0x10
-			public const int Chip_chipEndPadding = 16;
+			// aapt resource value: 10
+			public const int Chip_chipEndPadding = 10;
 			
-			// aapt resource value: 0x11
-			public const int Chip_chipIcon = 17;
+			// aapt resource value: 11
+			public const int Chip_chipIcon = 11;
 			
-			// aapt resource value: 0x12
-			public const int Chip_chipIconEnabled = 18;
+			// aapt resource value: 12
+			public const int Chip_chipIconEnabled = 12;
 			
-			// aapt resource value: 0x13
-			public const int Chip_chipIconSize = 19;
+			// aapt resource value: 13
+			public const int Chip_chipIconSize = 13;
 			
-			// aapt resource value: 0x14
-			public const int Chip_chipIconTint = 20;
+			// aapt resource value: 14
+			public const int Chip_chipIconTint = 14;
 			
-			// aapt resource value: 0x15
-			public const int Chip_chipIconVisible = 21;
+			// aapt resource value: 15
+			public const int Chip_chipIconVisible = 15;
 			
-			// aapt resource value: 0x16
-			public const int Chip_chipMinHeight = 22;
+			// aapt resource value: 16
+			public const int Chip_chipMinHeight = 16;
 			
-			// aapt resource value: 0x17
-			public const int Chip_chipStartPadding = 23;
+			// aapt resource value: 17
+			public const int Chip_chipStartPadding = 17;
 			
-			// aapt resource value: 0x18
-			public const int Chip_chipStrokeColor = 24;
+			// aapt resource value: 18
+			public const int Chip_chipStrokeColor = 18;
 			
-			// aapt resource value: 0x19
-			public const int Chip_chipStrokeWidth = 25;
+			// aapt resource value: 19
+			public const int Chip_chipStrokeWidth = 19;
 			
-			// aapt resource value: 0x20
-			public const int Chip_closeIcon = 32;
+			// aapt resource value: 20
+			public const int Chip_closeIcon = 20;
 			
-			// aapt resource value: 0x21
-			public const int Chip_closeIconEnabled = 33;
+			// aapt resource value: 21
+			public const int Chip_closeIconEnabled = 21;
 			
-			// aapt resource value: 0x22
-			public const int Chip_closeIconEndPadding = 34;
+			// aapt resource value: 22
+			public const int Chip_closeIconEndPadding = 22;
 			
-			// aapt resource value: 0x23
-			public const int Chip_closeIconSize = 35;
+			// aapt resource value: 23
+			public const int Chip_closeIconSize = 23;
 			
-			// aapt resource value: 0x24
-			public const int Chip_closeIconStartPadding = 36;
+			// aapt resource value: 24
+			public const int Chip_closeIconStartPadding = 24;
 			
-			// aapt resource value: 0x25
-			public const int Chip_closeIconTint = 37;
+			// aapt resource value: 25
+			public const int Chip_closeIconTint = 25;
 			
-			// aapt resource value: 0x26
-			public const int Chip_closeIconVisible = 38;
+			// aapt resource value: 26
+			public const int Chip_closeIconVisible = 26;
 			
-			// aapt resource value: 0x27
-			public const int Chip_hideMotionSpec = 39;
+			// aapt resource value: 27
+			public const int Chip_hideMotionSpec = 27;
 			
-			// aapt resource value: 0x28
-			public const int Chip_iconEndPadding = 40;
+			// aapt resource value: 28
+			public const int Chip_iconEndPadding = 28;
 			
-			// aapt resource value: 0x29
-			public const int Chip_iconStartPadding = 41;
+			// aapt resource value: 29
+			public const int Chip_iconStartPadding = 29;
 			
-			// aapt resource value: 0x30
-			public const int Chip_rippleColor = 48;
+			// aapt resource value: 30
+			public const int Chip_rippleColor = 30;
 			
-			// aapt resource value: 0x31
-			public const int Chip_showMotionSpec = 49;
+			// aapt resource value: 31
+			public const int Chip_showMotionSpec = 31;
 			
-			// aapt resource value: 0x32
-			public const int Chip_textEndPadding = 50;
+			// aapt resource value: 32
+			public const int Chip_textEndPadding = 32;
 			
-			// aapt resource value: 0x33
-			public const int Chip_textStartPadding = 51;
+			// aapt resource value: 33
+			public const int Chip_textStartPadding = 33;
 			
 			// aapt resource value: { 0x7F030081,0x7F030082,0x7F03009C,0x7F0300BC,0x7F0300BD,0x7F0300BE,0x7F0300BF,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F03015C,0x7F03015E,0x7F03017C,0x7F0301C9,0x7F0301CA,0x7F0301D4 }
 			public static int[] CollapsingToolbarLayout = new int[] {
@@ -10691,34 +12203,34 @@ namespace royalmail.trail.Droid
 					2130903498,
 					2130903508};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_collapsedTitleGravity = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int CollapsingToolbarLayout_collapsedTitleTextAppearance = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int CollapsingToolbarLayout_contentScrim = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int CollapsingToolbarLayout_expandedTitleGravity = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int CollapsingToolbarLayout_expandedTitleMargin = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int CollapsingToolbarLayout_expandedTitleMarginEnd = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int CollapsingToolbarLayout_expandedTitleMarginStart = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int CollapsingToolbarLayout_expandedTitleMarginTop = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int CollapsingToolbarLayout_expandedTitleTextAppearance = 9;
 			
 			// aapt resource value: { 0x7F03010F,0x7F030110 }
@@ -10726,29 +12238,29 @@ namespace royalmail.trail.Droid
 					2130903311,
 					2130903312};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
 			
-			// aapt resource value: 0x10
-			public const int CollapsingToolbarLayout_scrimAnimationDuration = 16;
+			// aapt resource value: 10
+			public const int CollapsingToolbarLayout_scrimAnimationDuration = 10;
 			
-			// aapt resource value: 0x11
-			public const int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 17;
+			// aapt resource value: 11
+			public const int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
 			
-			// aapt resource value: 0x12
-			public const int CollapsingToolbarLayout_statusBarScrim = 18;
+			// aapt resource value: 12
+			public const int CollapsingToolbarLayout_statusBarScrim = 12;
 			
-			// aapt resource value: 0x13
-			public const int CollapsingToolbarLayout_title = 19;
+			// aapt resource value: 13
+			public const int CollapsingToolbarLayout_title = 13;
 			
-			// aapt resource value: 0x14
-			public const int CollapsingToolbarLayout_titleEnabled = 20;
+			// aapt resource value: 14
+			public const int CollapsingToolbarLayout_titleEnabled = 14;
 			
-			// aapt resource value: 0x15
-			public const int CollapsingToolbarLayout_toolbarId = 21;
+			// aapt resource value: 15
+			public const int CollapsingToolbarLayout_toolbarId = 15;
 			
 			// aapt resource value: { 0x10101A5,0x101031F,0x7F030027 }
 			public static int[] ColorStateListItem = new int[] {
@@ -10756,13 +12268,13 @@ namespace royalmail.trail.Droid
 					16843551,
 					2130903079};
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ColorStateListItem_alpha = 2;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ColorStateListItem_android_alpha = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ColorStateListItem_android_color = 0;
 			
 			// aapt resource value: { 0x1010107,0x7F030056,0x7F030057 }
@@ -10771,13 +12283,13 @@ namespace royalmail.trail.Droid
 					2130903126,
 					2130903127};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int CompoundButton_android_button = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int CompoundButton_buttonTint = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int CompoundButton_buttonTintMode = 2;
 			
 			// aapt resource value: { 0x7F030107,0x7F03017B }
@@ -10785,7 +12297,7 @@ namespace royalmail.trail.Droid
 					2130903303,
 					2130903419};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int CoordinatorLayout_keylines = 0;
 			
 			// aapt resource value: { 0x10100B3,0x7F03010C,0x7F03010D,0x7F03010E,0x7F030111,0x7F030112,0x7F030113 }
@@ -10798,28 +12310,28 @@ namespace royalmail.trail.Droid
 					2130903314,
 					2130903315};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int CoordinatorLayout_Layout_android_layout_gravity = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int CoordinatorLayout_Layout_layout_anchor = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int CoordinatorLayout_Layout_layout_anchorGravity = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int CoordinatorLayout_Layout_layout_behavior = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int CoordinatorLayout_Layout_layout_insetEdge = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int CoordinatorLayout_Layout_layout_keyline = 6;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int CoordinatorLayout_statusBarBackground = 1;
 			
 			// aapt resource value: { 0x7F030041,0x7F030042 }
@@ -10827,10 +12339,10 @@ namespace royalmail.trail.Droid
 					2130903105,
 					2130903106};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int DesignTheme_bottomSheetDialogTheme = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int DesignTheme_bottomSheetStyle = 1;
 			
 			// aapt resource value: { 0x7F030029,0x7F03002A,0x7F030036,0x7F030083,0x7F0300AE,0x7F0300DD,0x7F030170,0x7F0301C0 }
@@ -10844,28 +12356,28 @@ namespace royalmail.trail.Droid
 					2130903408,
 					2130903488};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int DrawerArrowToggle_arrowHeadLength = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int DrawerArrowToggle_arrowShaftLength = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int DrawerArrowToggle_barLength = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int DrawerArrowToggle_color = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int DrawerArrowToggle_drawableSize = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int DrawerArrowToggle_gapBetweenBars = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int DrawerArrowToggle_spinBars = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int DrawerArrowToggle_thickness = 7;
 			
 			// aapt resource value: { 0x7F030034,0x7F030035,0x7F03003D,0x7F0300B5,0x7F0300C8,0x7F0300C9,0x7F0300E4,0x7F0300EC,0x7F03012A,0x7F030151,0x7F03015B,0x7F030167,0x7F0301DE }
@@ -10884,61 +12396,61 @@ namespace royalmail.trail.Droid
 					2130903399,
 					2130903518};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int FloatingActionButton_backgroundTint = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int FloatingActionButton_backgroundTintMode = 1;
 			
 			// aapt resource value: { 0x7F030037 }
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
 					2130903095};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int FloatingActionButton_borderWidth = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int FloatingActionButton_elevation = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int FloatingActionButton_fabCustomSize = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int FloatingActionButton_fabSize = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int FloatingActionButton_hideMotionSpec = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int FloatingActionButton_hoveredFocusedTranslationZ = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int FloatingActionButton_maxImageSize = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int FloatingActionButton_pressedTranslationZ = 9;
 			
-			// aapt resource value: 0x10
-			public const int FloatingActionButton_rippleColor = 16;
+			// aapt resource value: 10
+			public const int FloatingActionButton_rippleColor = 10;
 			
-			// aapt resource value: 0x11
-			public const int FloatingActionButton_showMotionSpec = 17;
+			// aapt resource value: 11
+			public const int FloatingActionButton_showMotionSpec = 11;
 			
-			// aapt resource value: 0x12
-			public const int FloatingActionButton_useCompatPadding = 18;
+			// aapt resource value: 12
+			public const int FloatingActionButton_useCompatPadding = 12;
 			
 			// aapt resource value: { 0x7F030102,0x7F030118 }
 			public static int[] FlowLayout = new int[] {
 					2130903298,
 					2130903320};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int FlowLayout_itemSpacing = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int FlowLayout_lineSpacing = 1;
 			
 			// aapt resource value: { 0x7F0300D3,0x7F0300D4,0x7F0300D5,0x7F0300D6,0x7F0300D7,0x7F0300D8 }
@@ -10963,52 +12475,52 @@ namespace royalmail.trail.Droid
 					2130903259,
 					2130903517};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int FontFamilyFont_android_font = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int FontFamilyFont_android_fontStyle = 2;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int FontFamilyFont_android_fontVariationSettings = 4;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int FontFamilyFont_android_fontWeight = 1;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int FontFamilyFont_android_ttcIndex = 3;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int FontFamilyFont_font = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int FontFamilyFont_fontStyle = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int FontFamilyFont_fontVariationSettings = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int FontFamilyFont_fontWeight = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int FontFamilyFont_ttcIndex = 9;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int FontFamily_fontProviderAuthority = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int FontFamily_fontProviderCerts = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int FontFamily_fontProviderFetchStrategy = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int FontFamily_fontProviderFetchTimeout = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int FontFamily_fontProviderPackage = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int FontFamily_fontProviderQuery = 5;
 			
 			// aapt resource value: { 0x1010109,0x1010200,0x7F0300DC }
@@ -11017,13 +12529,13 @@ namespace royalmail.trail.Droid
 					16843264,
 					2130903260};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ForegroundLinearLayout_android_foreground = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ForegroundLinearLayout_android_foregroundGravity = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ForegroundLinearLayout_foregroundInsidePadding = 2;
 			
 			// aapt resource value: { 0x101019D,0x101019E,0x10101A1,0x10101A2,0x10101A3,0x10101A4,0x1010201,0x101020B,0x1010510,0x1010511,0x1010512,0x1010513 }
@@ -11046,46 +12558,46 @@ namespace royalmail.trail.Droid
 					16843173,
 					16844052};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int GradientColorItem_android_color = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int GradientColorItem_android_offset = 1;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int GradientColor_android_centerColor = 7;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int GradientColor_android_centerX = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int GradientColor_android_centerY = 4;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int GradientColor_android_endColor = 1;
 			
-			// aapt resource value: 0x10
-			public const int GradientColor_android_endX = 16;
+			// aapt resource value: 10
+			public const int GradientColor_android_endX = 10;
 			
-			// aapt resource value: 0x11
-			public const int GradientColor_android_endY = 17;
+			// aapt resource value: 11
+			public const int GradientColor_android_endY = 11;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int GradientColor_android_gradientRadius = 5;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int GradientColor_android_startColor = 0;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int GradientColor_android_startX = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int GradientColor_android_startY = 9;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int GradientColor_android_tileMode = 6;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int GradientColor_android_type = 2;
 			
 			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300AA,0x7F0300AC,0x7F03012B,0x7F030166 }
@@ -11100,25 +12612,25 @@ namespace royalmail.trail.Droid
 					2130903339,
 					2130903398};
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int LinearLayoutCompat_android_baselineAligned = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int LinearLayoutCompat_android_baselineAlignedChildIndex = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int LinearLayoutCompat_android_gravity = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int LinearLayoutCompat_android_orientation = 1;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int LinearLayoutCompat_android_weightSum = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int LinearLayoutCompat_divider = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int LinearLayoutCompat_dividerPadding = 6;
 			
 			// aapt resource value: { 0x10100B3,0x10100F4,0x10100F5,0x1010181 }
@@ -11128,22 +12640,22 @@ namespace royalmail.trail.Droid
 					16842997,
 					16843137};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int LinearLayoutCompat_Layout_android_layout_gravity = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int LinearLayoutCompat_Layout_android_layout_height = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int LinearLayoutCompat_Layout_android_layout_weight = 3;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int LinearLayoutCompat_Layout_android_layout_width = 1;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int LinearLayoutCompat_measureWithLargestChild = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int LinearLayoutCompat_showDividers = 8;
 			
 			// aapt resource value: { 0x10102AC,0x10102AD }
@@ -11151,10 +12663,10 @@ namespace royalmail.trail.Droid
 					16843436,
 					16843437};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ListPopupWindow_android_dropDownHorizontalOffset = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
 			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030034,0x7F030035,0x7F03009F,0x7F0300ED,0x7F0300EF,0x7F0300F0,0x7F0300F1,0x7F0300F3,0x7F0300F4,0x7F03015B,0x7F03017D,0x7F03017E }
@@ -11176,63 +12688,63 @@ namespace royalmail.trail.Droid
 					2130903421,
 					2130903422};
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int MaterialButton_android_insetBottom = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int MaterialButton_android_insetLeft = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int MaterialButton_android_insetRight = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int MaterialButton_android_insetTop = 2;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int MaterialButton_backgroundTint = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int MaterialButton_backgroundTintMode = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int MaterialButton_cornerRadius = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int MaterialButton_icon = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int MaterialButton_iconGravity = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int MaterialButton_iconPadding = 9;
 			
-			// aapt resource value: 0x10
-			public const int MaterialButton_iconSize = 16;
+			// aapt resource value: 10
+			public const int MaterialButton_iconSize = 10;
 			
-			// aapt resource value: 0x11
-			public const int MaterialButton_iconTint = 17;
+			// aapt resource value: 11
+			public const int MaterialButton_iconTint = 11;
 			
-			// aapt resource value: 0x12
-			public const int MaterialButton_iconTintMode = 18;
+			// aapt resource value: 12
+			public const int MaterialButton_iconTintMode = 12;
 			
-			// aapt resource value: 0x13
-			public const int MaterialButton_rippleColor = 19;
+			// aapt resource value: 13
+			public const int MaterialButton_rippleColor = 13;
 			
-			// aapt resource value: 0x14
-			public const int MaterialButton_strokeColor = 20;
+			// aapt resource value: 14
+			public const int MaterialButton_strokeColor = 14;
 			
-			// aapt resource value: 0x15
-			public const int MaterialButton_strokeWidth = 21;
+			// aapt resource value: 15
+			public const int MaterialButton_strokeWidth = 15;
 			
 			// aapt resource value: { 0x7F03017D,0x7F03017E }
 			public static int[] MaterialCardView = new int[] {
 					2130903421,
 					2130903422};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int MaterialCardView_strokeColor = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int MaterialCardView_strokeWidth = 1;
 			
 			// aapt resource value: { 0x7F030041,0x7F030042,0x7F030068,0x7F030072,0x7F030076,0x7F030084,0x7F030085,0x7F03008B,0x7F03008C,0x7F03008D,0x7F0300B4,0x7F0300D0,0x7F030126,0x7F030127,0x7F03013E,0x7F03015D,0x7F03016D,0x7F0301A0,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301B3,0x7F0301B8,0x7F0301B9,0x7F0301BD }
@@ -11270,101 +12782,101 @@ namespace royalmail.trail.Droid
 					2130903481,
 					2130903485};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int MaterialComponentsTheme_bottomSheetStyle = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int MaterialComponentsTheme_chipGroupStyle = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int MaterialComponentsTheme_chipStandaloneStyle = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int MaterialComponentsTheme_chipStyle = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int MaterialComponentsTheme_colorAccent = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int MaterialComponentsTheme_colorBackgroundFloating = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int MaterialComponentsTheme_colorPrimary = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int MaterialComponentsTheme_colorPrimaryDark = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int MaterialComponentsTheme_colorSecondary = 9;
 			
-			// aapt resource value: 0x10
-			public const int MaterialComponentsTheme_editTextStyle = 16;
+			// aapt resource value: 10
+			public const int MaterialComponentsTheme_editTextStyle = 10;
 			
-			// aapt resource value: 0x11
-			public const int MaterialComponentsTheme_floatingActionButtonStyle = 17;
+			// aapt resource value: 11
+			public const int MaterialComponentsTheme_floatingActionButtonStyle = 11;
 			
-			// aapt resource value: 0x12
-			public const int MaterialComponentsTheme_materialButtonStyle = 18;
+			// aapt resource value: 12
+			public const int MaterialComponentsTheme_materialButtonStyle = 12;
 			
-			// aapt resource value: 0x13
-			public const int MaterialComponentsTheme_materialCardViewStyle = 19;
+			// aapt resource value: 13
+			public const int MaterialComponentsTheme_materialCardViewStyle = 13;
 			
-			// aapt resource value: 0x14
-			public const int MaterialComponentsTheme_navigationViewStyle = 20;
+			// aapt resource value: 14
+			public const int MaterialComponentsTheme_navigationViewStyle = 14;
 			
-			// aapt resource value: 0x15
-			public const int MaterialComponentsTheme_scrimBackground = 21;
+			// aapt resource value: 15
+			public const int MaterialComponentsTheme_scrimBackground = 15;
 			
-			// aapt resource value: 0x16
-			public const int MaterialComponentsTheme_snackbarButtonStyle = 22;
+			// aapt resource value: 16
+			public const int MaterialComponentsTheme_snackbarButtonStyle = 16;
 			
-			// aapt resource value: 0x17
-			public const int MaterialComponentsTheme_tabStyle = 23;
+			// aapt resource value: 17
+			public const int MaterialComponentsTheme_tabStyle = 17;
 			
-			// aapt resource value: 0x18
-			public const int MaterialComponentsTheme_textAppearanceBody1 = 24;
+			// aapt resource value: 18
+			public const int MaterialComponentsTheme_textAppearanceBody1 = 18;
 			
-			// aapt resource value: 0x19
-			public const int MaterialComponentsTheme_textAppearanceBody2 = 25;
+			// aapt resource value: 19
+			public const int MaterialComponentsTheme_textAppearanceBody2 = 19;
 			
-			// aapt resource value: 0x20
-			public const int MaterialComponentsTheme_textAppearanceButton = 32;
+			// aapt resource value: 20
+			public const int MaterialComponentsTheme_textAppearanceButton = 20;
 			
-			// aapt resource value: 0x21
-			public const int MaterialComponentsTheme_textAppearanceCaption = 33;
+			// aapt resource value: 21
+			public const int MaterialComponentsTheme_textAppearanceCaption = 21;
 			
-			// aapt resource value: 0x22
-			public const int MaterialComponentsTheme_textAppearanceHeadline1 = 34;
+			// aapt resource value: 22
+			public const int MaterialComponentsTheme_textAppearanceHeadline1 = 22;
 			
-			// aapt resource value: 0x23
-			public const int MaterialComponentsTheme_textAppearanceHeadline2 = 35;
+			// aapt resource value: 23
+			public const int MaterialComponentsTheme_textAppearanceHeadline2 = 23;
 			
-			// aapt resource value: 0x24
-			public const int MaterialComponentsTheme_textAppearanceHeadline3 = 36;
+			// aapt resource value: 24
+			public const int MaterialComponentsTheme_textAppearanceHeadline3 = 24;
 			
-			// aapt resource value: 0x25
-			public const int MaterialComponentsTheme_textAppearanceHeadline4 = 37;
+			// aapt resource value: 25
+			public const int MaterialComponentsTheme_textAppearanceHeadline4 = 25;
 			
-			// aapt resource value: 0x26
-			public const int MaterialComponentsTheme_textAppearanceHeadline5 = 38;
+			// aapt resource value: 26
+			public const int MaterialComponentsTheme_textAppearanceHeadline5 = 26;
 			
-			// aapt resource value: 0x27
-			public const int MaterialComponentsTheme_textAppearanceHeadline6 = 39;
+			// aapt resource value: 27
+			public const int MaterialComponentsTheme_textAppearanceHeadline6 = 27;
 			
-			// aapt resource value: 0x28
-			public const int MaterialComponentsTheme_textAppearanceOverline = 40;
+			// aapt resource value: 28
+			public const int MaterialComponentsTheme_textAppearanceOverline = 28;
 			
-			// aapt resource value: 0x29
-			public const int MaterialComponentsTheme_textAppearanceSubtitle1 = 41;
+			// aapt resource value: 29
+			public const int MaterialComponentsTheme_textAppearanceSubtitle1 = 29;
 			
-			// aapt resource value: 0x30
-			public const int MaterialComponentsTheme_textAppearanceSubtitle2 = 48;
+			// aapt resource value: 30
+			public const int MaterialComponentsTheme_textAppearanceSubtitle2 = 30;
 			
-			// aapt resource value: 0x31
-			public const int MaterialComponentsTheme_textInputStyle = 49;
+			// aapt resource value: 31
+			public const int MaterialComponentsTheme_textInputStyle = 31;
 			
 			// aapt resource value: { 0x101013F,0x1010140,0x7F0300C3,0x7F03012E }
 			public static int[] MediaRouteButton = new int[] {
@@ -11373,16 +12885,16 @@ namespace royalmail.trail.Droid
 					2130903235,
 					2130903342};
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int MediaRouteButton_android_minHeight = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int MediaRouteButton_android_minWidth = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int MediaRouteButton_externalRouteEnabledDrawable = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int MediaRouteButton_mediaRouteButtonTint = 3;
 			
 			// aapt resource value: { 0x101000E,0x10100D0,0x1010194,0x10101DE,0x10101DF,0x10101E0 }
@@ -11394,22 +12906,22 @@ namespace royalmail.trail.Droid
 					16843231,
 					16843232};
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int MenuGroup_android_checkableBehavior = 5;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int MenuGroup_android_enabled = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int MenuGroup_android_id = 1;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int MenuGroup_android_menuCategory = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int MenuGroup_android_orderInCategory = 4;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int MenuGroup_android_visible = 2;
 			
 			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03000D,0x7F03001F,0x7F030020,0x7F030028,0x7F030090,0x7F0300F3,0x7F0300F4,0x7F03013F,0x7F030165,0x7F0301D9 }
@@ -11438,74 +12950,74 @@ namespace royalmail.trail.Droid
 					2130903397,
 					2130903513};
 			
-			// aapt resource value: 0x13
-			public const int MenuItem_actionLayout = 19;
+			// aapt resource value: 13
+			public const int MenuItem_actionLayout = 13;
 			
-			// aapt resource value: 0x14
-			public const int MenuItem_actionProviderClass = 20;
+			// aapt resource value: 14
+			public const int MenuItem_actionProviderClass = 14;
 			
-			// aapt resource value: 0x15
-			public const int MenuItem_actionViewClass = 21;
+			// aapt resource value: 15
+			public const int MenuItem_actionViewClass = 15;
 			
-			// aapt resource value: 0x16
-			public const int MenuItem_alphabeticModifiers = 22;
+			// aapt resource value: 16
+			public const int MenuItem_alphabeticModifiers = 16;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int MenuItem_android_alphabeticShortcut = 9;
 			
-			// aapt resource value: 0x11
-			public const int MenuItem_android_checkable = 17;
+			// aapt resource value: 11
+			public const int MenuItem_android_checkable = 11;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int MenuItem_android_checked = 3;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int MenuItem_android_enabled = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int MenuItem_android_icon = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int MenuItem_android_id = 2;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int MenuItem_android_menuCategory = 5;
 			
-			// aapt resource value: 0x10
-			public const int MenuItem_android_numericShortcut = 16;
+			// aapt resource value: 10
+			public const int MenuItem_android_numericShortcut = 10;
 			
-			// aapt resource value: 0x12
-			public const int MenuItem_android_onClick = 18;
+			// aapt resource value: 12
+			public const int MenuItem_android_onClick = 12;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int MenuItem_android_orderInCategory = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int MenuItem_android_title = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int MenuItem_android_titleCondensed = 8;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int MenuItem_android_visible = 4;
 			
-			// aapt resource value: 0x17
-			public const int MenuItem_contentDescription = 23;
+			// aapt resource value: 17
+			public const int MenuItem_contentDescription = 17;
 			
-			// aapt resource value: 0x18
-			public const int MenuItem_iconTint = 24;
+			// aapt resource value: 18
+			public const int MenuItem_iconTint = 18;
 			
-			// aapt resource value: 0x19
-			public const int MenuItem_iconTintMode = 25;
+			// aapt resource value: 19
+			public const int MenuItem_iconTintMode = 19;
 			
-			// aapt resource value: 0x20
-			public const int MenuItem_numericModifiers = 32;
+			// aapt resource value: 20
+			public const int MenuItem_numericModifiers = 20;
 			
-			// aapt resource value: 0x21
-			public const int MenuItem_showAsAction = 33;
+			// aapt resource value: 21
+			public const int MenuItem_showAsAction = 21;
 			
-			// aapt resource value: 0x22
-			public const int MenuItem_tooltipText = 34;
+			// aapt resource value: 22
+			public const int MenuItem_tooltipText = 22;
 			
 			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F030150,0x7F03017F }
 			public static int[] MenuView = new int[] {
@@ -11519,31 +13031,31 @@ namespace royalmail.trail.Droid
 					2130903376,
 					2130903423};
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int MenuView_android_headerBackground = 4;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int MenuView_android_horizontalDivider = 2;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int MenuView_android_itemBackground = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int MenuView_android_itemIconDisabledAlpha = 6;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int MenuView_android_itemTextAppearance = 1;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int MenuView_android_verticalDivider = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int MenuView_android_windowAnimationStyle = 0;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int MenuView_preserveIconSpacing = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int MenuView_subMenuArrow = 8;
 			
 			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300B5,0x7F0300DF,0x7F0300FB,0x7F0300FC,0x7F0300FE,0x7F030100,0x7F030103,0x7F030106,0x7F030139 }
@@ -11561,41 +13073,41 @@ namespace royalmail.trail.Droid
 					2130903302,
 					2130903353};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int NavigationView_android_background = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int NavigationView_android_fitsSystemWindows = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int NavigationView_android_maxWidth = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int NavigationView_elevation = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int NavigationView_headerLayout = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int NavigationView_itemBackground = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int NavigationView_itemHorizontalPadding = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int NavigationView_itemIconPadding = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int NavigationView_itemIconTint = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int NavigationView_itemTextAppearance = 9;
 			
-			// aapt resource value: 0x10
-			public const int NavigationView_itemTextColor = 16;
+			// aapt resource value: 10
+			public const int NavigationView_itemTextColor = 10;
 			
-			// aapt resource value: 0x11
-			public const int NavigationView_menu = 17;
+			// aapt resource value: 11
+			public const int NavigationView_menu = 11;
 			
 			// aapt resource value: { 0x1010176,0x10102C9,0x7F030140 }
 			public static int[] PopupWindow = new int[] {
@@ -11607,16 +13119,16 @@ namespace royalmail.trail.Droid
 			public static int[] PopupWindowBackgroundState = new int[] {
 					2130903414};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int PopupWindow_android_popupAnimationStyle = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int PopupWindow_android_popupBackground = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
 			// aapt resource value: { 0x7F030141,0x7F030144 }
@@ -11624,10 +13136,10 @@ namespace royalmail.trail.Droid
 					2130903361,
 					2130903364};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int RecycleListView_paddingBottomNoButtons = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int RecycleListView_paddingTopNoTitle = 1;
 			
 			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0300CA,0x7F0300CB,0x7F0300CC,0x7F0300CD,0x7F0300CE,0x7F03010B,0x7F03015A,0x7F03016F,0x7F030175 }
@@ -11644,51 +13156,51 @@ namespace royalmail.trail.Droid
 					2130903407,
 					2130903413};
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int RecyclerView_android_descendantFocusability = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int RecyclerView_android_orientation = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int RecyclerView_fastScrollEnabled = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int RecyclerView_fastScrollHorizontalThumbDrawable = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int RecyclerView_fastScrollHorizontalTrackDrawable = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int RecyclerView_fastScrollVerticalThumbDrawable = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int RecyclerView_fastScrollVerticalTrackDrawable = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int RecyclerView_layoutManager = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int RecyclerView_reverseLayout = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int RecyclerView_spanCount = 9;
 			
-			// aapt resource value: 0x10
-			public const int RecyclerView_stackFromEnd = 16;
+			// aapt resource value: 10
+			public const int RecyclerView_stackFromEnd = 10;
 			
 			// aapt resource value: { 0x7F0300F9 }
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130903289};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ScrimInsetsFrameLayout_insetForeground = 0;
 			
 			// aapt resource value: { 0x7F03003A }
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
 					2130903098};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
 			
 			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030077,0x7F03008F,0x7F0300A5,0x7F0300DE,0x7F0300F5,0x7F03010A,0x7F030154,0x7F030155,0x7F03015F,0x7F030160,0x7F030180,0x7F030185,0x7F0301E0 }
@@ -11711,56 +13223,56 @@ namespace royalmail.trail.Droid
 					2130903429,
 					2130903520};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int SearchView_android_imeOptions = 3;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int SearchView_android_inputType = 2;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int SearchView_android_maxWidth = 1;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int SearchView_closeIcon = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int SearchView_commitIcon = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int SearchView_defaultQueryHint = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int SearchView_goIcon = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int SearchView_iconifiedByDefault = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int SearchView_layout = 9;
 			
-			// aapt resource value: 0x10
-			public const int SearchView_queryBackground = 16;
+			// aapt resource value: 10
+			public const int SearchView_queryBackground = 10;
 			
-			// aapt resource value: 0x11
-			public const int SearchView_queryHint = 17;
+			// aapt resource value: 11
+			public const int SearchView_queryHint = 11;
 			
-			// aapt resource value: 0x12
-			public const int SearchView_searchHintIcon = 18;
+			// aapt resource value: 12
+			public const int SearchView_searchHintIcon = 12;
 			
-			// aapt resource value: 0x13
-			public const int SearchView_searchIcon = 19;
+			// aapt resource value: 13
+			public const int SearchView_searchIcon = 13;
 			
-			// aapt resource value: 0x14
-			public const int SearchView_submitBackground = 20;
+			// aapt resource value: 14
+			public const int SearchView_submitBackground = 14;
 			
-			// aapt resource value: 0x15
-			public const int SearchView_suggestionRowLayout = 21;
+			// aapt resource value: 15
+			public const int SearchView_suggestionRowLayout = 15;
 			
-			// aapt resource value: 0x16
-			public const int SearchView_voiceIcon = 22;
+			// aapt resource value: 16
+			public const int SearchView_voiceIcon = 16;
 			
 			// aapt resource value: { 0x7F03016D,0x7F03016E }
 			public static int[] Snackbar = new int[] {
@@ -11773,19 +13285,19 @@ namespace royalmail.trail.Droid
 					2130903221,
 					2130903336};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int SnackbarLayout_android_maxWidth = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int SnackbarLayout_elevation = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int SnackbarLayout_maxActionInlineWidth = 2;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int Snackbar_snackbarButtonStyle = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int Snackbar_snackbarStyle = 1;
 			
 			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F03014E }
@@ -11796,19 +13308,19 @@ namespace royalmail.trail.Droid
 					16843362,
 					2130903374};
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int Spinner_android_dropDownWidth = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int Spinner_android_entries = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int Spinner_android_popupBackground = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int Spinner_android_prompt = 2;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int Spinner_popupTheme = 4;
 			
 			// aapt resource value: { 0x101011C,0x1010194,0x1010195,0x1010196,0x101030C,0x101030D }
@@ -11824,25 +13336,25 @@ namespace royalmail.trail.Droid
 			public static int[] StateListDrawableItem = new int[] {
 					16843161};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int StateListDrawableItem_android_drawable = 0;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int StateListDrawable_android_constantSize = 3;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int StateListDrawable_android_dither = 0;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int StateListDrawable_android_enterFadeDuration = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int StateListDrawable_android_exitFadeDuration = 5;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int StateListDrawable_android_variablePadding = 2;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int StateListDrawable_android_visible = 1;
 			
 			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F030168,0x7F030173,0x7F030186,0x7F030187,0x7F030189,0x7F0301C1,0x7F0301C2,0x7F0301C3,0x7F0301DA,0x7F0301DB,0x7F0301DC }
@@ -11862,47 +13374,47 @@ namespace royalmail.trail.Droid
 					2130903515,
 					2130903516};
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int SwitchCompat_android_textOff = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int SwitchCompat_android_textOn = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int SwitchCompat_android_thumb = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int SwitchCompat_showText = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int SwitchCompat_splitTrack = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int SwitchCompat_switchMinWidth = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int SwitchCompat_switchPadding = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int SwitchCompat_switchTextAppearance = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int SwitchCompat_thumbTextPadding = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int SwitchCompat_thumbTint = 9;
 			
-			// aapt resource value: 0x10
-			public const int SwitchCompat_thumbTintMode = 16;
+			// aapt resource value: 10
+			public const int SwitchCompat_thumbTintMode = 10;
 			
-			// aapt resource value: 0x11
-			public const int SwitchCompat_track = 17;
+			// aapt resource value: 11
+			public const int SwitchCompat_track = 11;
 			
-			// aapt resource value: 0x12
-			public const int SwitchCompat_trackTint = 18;
+			// aapt resource value: 12
+			public const int SwitchCompat_trackTint = 12;
 			
-			// aapt resource value: 0x13
-			public const int SwitchCompat_trackTintMode = 19;
+			// aapt resource value: 13
+			public const int SwitchCompat_trackTintMode = 13;
 			
 			// aapt resource value: { 0x1010002,0x10100F2,0x101014F }
 			public static int[] TabItem = new int[] {
@@ -11910,13 +13422,13 @@ namespace royalmail.trail.Droid
 					16842994,
 					16843087};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int TabItem_android_icon = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int TabItem_android_layout = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int TabItem_android_text = 2;
 			
 			// aapt resource value: { 0x7F03018A,0x7F03018B,0x7F03018C,0x7F03018D,0x7F03018E,0x7F03018F,0x7F030190,0x7F030191,0x7F030192,0x7F030193,0x7F030194,0x7F030195,0x7F030196,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A1,0x7F0301A2,0x7F0301A3 }
@@ -11947,80 +13459,80 @@ namespace royalmail.trail.Droid
 					2130903458,
 					2130903459};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int TabLayout_tabBackground = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int TabLayout_tabContentStart = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int TabLayout_tabGravity = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int TabLayout_tabIconTint = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int TabLayout_tabIconTintMode = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int TabLayout_tabIndicator = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int TabLayout_tabIndicatorAnimationDuration = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int TabLayout_tabIndicatorColor = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int TabLayout_tabIndicatorFullWidth = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int TabLayout_tabIndicatorGravity = 9;
 			
-			// aapt resource value: 0x10
-			public const int TabLayout_tabIndicatorHeight = 16;
+			// aapt resource value: 10
+			public const int TabLayout_tabIndicatorHeight = 10;
 			
-			// aapt resource value: 0x11
-			public const int TabLayout_tabInlineLabel = 17;
+			// aapt resource value: 11
+			public const int TabLayout_tabInlineLabel = 11;
 			
-			// aapt resource value: 0x12
-			public const int TabLayout_tabMaxWidth = 18;
+			// aapt resource value: 12
+			public const int TabLayout_tabMaxWidth = 12;
 			
-			// aapt resource value: 0x13
-			public const int TabLayout_tabMinWidth = 19;
+			// aapt resource value: 13
+			public const int TabLayout_tabMinWidth = 13;
 			
-			// aapt resource value: 0x14
-			public const int TabLayout_tabMode = 20;
+			// aapt resource value: 14
+			public const int TabLayout_tabMode = 14;
 			
-			// aapt resource value: 0x15
-			public const int TabLayout_tabPadding = 21;
+			// aapt resource value: 15
+			public const int TabLayout_tabPadding = 15;
 			
-			// aapt resource value: 0x16
-			public const int TabLayout_tabPaddingBottom = 22;
+			// aapt resource value: 16
+			public const int TabLayout_tabPaddingBottom = 16;
 			
-			// aapt resource value: 0x17
-			public const int TabLayout_tabPaddingEnd = 23;
+			// aapt resource value: 17
+			public const int TabLayout_tabPaddingEnd = 17;
 			
-			// aapt resource value: 0x18
-			public const int TabLayout_tabPaddingStart = 24;
+			// aapt resource value: 18
+			public const int TabLayout_tabPaddingStart = 18;
 			
-			// aapt resource value: 0x19
-			public const int TabLayout_tabPaddingTop = 25;
+			// aapt resource value: 19
+			public const int TabLayout_tabPaddingTop = 19;
 			
-			// aapt resource value: 0x20
-			public const int TabLayout_tabRippleColor = 32;
+			// aapt resource value: 20
+			public const int TabLayout_tabRippleColor = 20;
 			
-			// aapt resource value: 0x21
-			public const int TabLayout_tabSelectedTextColor = 33;
+			// aapt resource value: 21
+			public const int TabLayout_tabSelectedTextColor = 21;
 			
-			// aapt resource value: 0x22
-			public const int TabLayout_tabTextAppearance = 34;
+			// aapt resource value: 22
+			public const int TabLayout_tabTextAppearance = 22;
 			
-			// aapt resource value: 0x23
-			public const int TabLayout_tabTextColor = 35;
+			// aapt resource value: 23
+			public const int TabLayout_tabTextColor = 23;
 			
-			// aapt resource value: 0x24
-			public const int TabLayout_tabUnboundedRipple = 36;
+			// aapt resource value: 24
+			public const int TabLayout_tabUnboundedRipple = 24;
 			
 			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F0300D2,0x7F0301A4 }
 			public static int[] TextAppearance = new int[] {
@@ -12038,44 +13550,44 @@ namespace royalmail.trail.Droid
 					2130903250,
 					2130903460};
 			
-			// aapt resource value: 0x10
-			public const int TextAppearance_android_fontFamily = 16;
+			// aapt resource value: 10
+			public const int TextAppearance_android_fontFamily = 10;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int TextAppearance_android_shadowColor = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int TextAppearance_android_shadowDx = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int TextAppearance_android_shadowDy = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int TextAppearance_android_shadowRadius = 9;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int TextAppearance_android_textColor = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int TextAppearance_android_textColorHint = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int TextAppearance_android_textColorLink = 5;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int TextAppearance_android_textSize = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int TextAppearance_android_textStyle = 2;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int TextAppearance_android_typeface = 1;
 			
-			// aapt resource value: 0x11
-			public const int TextAppearance_fontFamily = 17;
+			// aapt resource value: 11
+			public const int TextAppearance_fontFamily = 11;
 			
-			// aapt resource value: 0x12
-			public const int TextAppearance_textAllCaps = 18;
+			// aapt resource value: 12
+			public const int TextAppearance_textAllCaps = 12;
 			
 			// aapt resource value: { 0x101009A,0x1010150,0x7F030043,0x7F030044,0x7F030045,0x7F030046,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F0300A0,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300B8,0x7F0300B9,0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0300E7,0x7F0300E8,0x7F0300E9,0x7F030148,0x7F030149,0x7F03014A,0x7F03014B,0x7F03014C }
 			public static int[] TextInputLayout = new int[] {
@@ -12108,89 +13620,89 @@ namespace royalmail.trail.Droid
 					2130903371,
 					2130903372};
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int TextInputLayout_android_hint = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int TextInputLayout_android_textColorHint = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int TextInputLayout_boxBackgroundColor = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int TextInputLayout_boxBackgroundMode = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int TextInputLayout_boxCollapsedPaddingTop = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int TextInputLayout_boxCornerRadiusBottomEnd = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int TextInputLayout_boxCornerRadiusBottomStart = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int TextInputLayout_boxCornerRadiusTopEnd = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int TextInputLayout_boxCornerRadiusTopStart = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int TextInputLayout_boxStrokeColor = 9;
 			
-			// aapt resource value: 0x10
-			public const int TextInputLayout_boxStrokeWidth = 16;
+			// aapt resource value: 10
+			public const int TextInputLayout_boxStrokeWidth = 10;
 			
-			// aapt resource value: 0x11
-			public const int TextInputLayout_counterEnabled = 17;
+			// aapt resource value: 11
+			public const int TextInputLayout_counterEnabled = 11;
 			
-			// aapt resource value: 0x12
-			public const int TextInputLayout_counterMaxLength = 18;
+			// aapt resource value: 12
+			public const int TextInputLayout_counterMaxLength = 12;
 			
-			// aapt resource value: 0x13
-			public const int TextInputLayout_counterOverflowTextAppearance = 19;
+			// aapt resource value: 13
+			public const int TextInputLayout_counterOverflowTextAppearance = 13;
 			
-			// aapt resource value: 0x14
-			public const int TextInputLayout_counterTextAppearance = 20;
+			// aapt resource value: 14
+			public const int TextInputLayout_counterTextAppearance = 14;
 			
-			// aapt resource value: 0x15
-			public const int TextInputLayout_errorEnabled = 21;
+			// aapt resource value: 15
+			public const int TextInputLayout_errorEnabled = 15;
 			
-			// aapt resource value: 0x16
-			public const int TextInputLayout_errorTextAppearance = 22;
+			// aapt resource value: 16
+			public const int TextInputLayout_errorTextAppearance = 16;
 			
-			// aapt resource value: 0x17
-			public const int TextInputLayout_helperText = 23;
+			// aapt resource value: 17
+			public const int TextInputLayout_helperText = 17;
 			
-			// aapt resource value: 0x18
-			public const int TextInputLayout_helperTextEnabled = 24;
+			// aapt resource value: 18
+			public const int TextInputLayout_helperTextEnabled = 18;
 			
-			// aapt resource value: 0x19
-			public const int TextInputLayout_helperTextTextAppearance = 25;
+			// aapt resource value: 19
+			public const int TextInputLayout_helperTextTextAppearance = 19;
 			
-			// aapt resource value: 0x20
-			public const int TextInputLayout_hintAnimationEnabled = 32;
+			// aapt resource value: 20
+			public const int TextInputLayout_hintAnimationEnabled = 20;
 			
-			// aapt resource value: 0x21
-			public const int TextInputLayout_hintEnabled = 33;
+			// aapt resource value: 21
+			public const int TextInputLayout_hintEnabled = 21;
 			
-			// aapt resource value: 0x22
-			public const int TextInputLayout_hintTextAppearance = 34;
+			// aapt resource value: 22
+			public const int TextInputLayout_hintTextAppearance = 22;
 			
-			// aapt resource value: 0x23
-			public const int TextInputLayout_passwordToggleContentDescription = 35;
+			// aapt resource value: 23
+			public const int TextInputLayout_passwordToggleContentDescription = 23;
 			
-			// aapt resource value: 0x24
-			public const int TextInputLayout_passwordToggleDrawable = 36;
+			// aapt resource value: 24
+			public const int TextInputLayout_passwordToggleDrawable = 24;
 			
-			// aapt resource value: 0x25
-			public const int TextInputLayout_passwordToggleEnabled = 37;
+			// aapt resource value: 25
+			public const int TextInputLayout_passwordToggleEnabled = 25;
 			
-			// aapt resource value: 0x26
-			public const int TextInputLayout_passwordToggleTint = 38;
+			// aapt resource value: 26
+			public const int TextInputLayout_passwordToggleTint = 26;
 			
-			// aapt resource value: 0x27
-			public const int TextInputLayout_passwordToggleTintMode = 39;
+			// aapt resource value: 27
+			public const int TextInputLayout_passwordToggleTintMode = 27;
 			
 			// aapt resource value: { 0x1010034,0x7F0300B6,0x7F0300B7 }
 			public static int[] ThemeEnforcement = new int[] {
@@ -12198,13 +13710,13 @@ namespace royalmail.trail.Droid
 					2130903222,
 					2130903223};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ThemeEnforcement_android_textAppearance = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ThemeEnforcement_enforceMaterialTheme = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ThemeEnforcement_enforceTextAppearance = 2;
 			
 			// aapt resource value: { 0x10100AF,0x1010140,0x7F030051,0x7F03007F,0x7F030080,0x7F030091,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030124,0x7F030125,0x7F030129,0x7F03013B,0x7F03013C,0x7F03014E,0x7F030181,0x7F030182,0x7F030183,0x7F0301C9,0x7F0301CB,0x7F0301CC,0x7F0301CD,0x7F0301CE,0x7F0301CF,0x7F0301D0,0x7F0301D1,0x7F0301D2 }
@@ -12239,92 +13751,92 @@ namespace royalmail.trail.Droid
 					2130903505,
 					2130903506};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int Toolbar_android_gravity = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int Toolbar_android_minHeight = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int Toolbar_buttonGravity = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int Toolbar_collapseContentDescription = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int Toolbar_collapseIcon = 4;
 			
-			// aapt resource value: 0x5
+			// aapt resource value: 5
 			public const int Toolbar_contentInsetEnd = 5;
 			
-			// aapt resource value: 0x6
+			// aapt resource value: 6
 			public const int Toolbar_contentInsetEndWithActions = 6;
 			
-			// aapt resource value: 0x7
+			// aapt resource value: 7
 			public const int Toolbar_contentInsetLeft = 7;
 			
-			// aapt resource value: 0x8
+			// aapt resource value: 8
 			public const int Toolbar_contentInsetRight = 8;
 			
-			// aapt resource value: 0x9
+			// aapt resource value: 9
 			public const int Toolbar_contentInsetStart = 9;
 			
-			// aapt resource value: 0x10
-			public const int Toolbar_contentInsetStartWithNavigation = 16;
+			// aapt resource value: 10
+			public const int Toolbar_contentInsetStartWithNavigation = 10;
 			
-			// aapt resource value: 0x11
-			public const int Toolbar_logo = 17;
+			// aapt resource value: 11
+			public const int Toolbar_logo = 11;
 			
-			// aapt resource value: 0x12
-			public const int Toolbar_logoDescription = 18;
+			// aapt resource value: 12
+			public const int Toolbar_logoDescription = 12;
 			
-			// aapt resource value: 0x13
-			public const int Toolbar_maxButtonHeight = 19;
+			// aapt resource value: 13
+			public const int Toolbar_maxButtonHeight = 13;
 			
-			// aapt resource value: 0x14
-			public const int Toolbar_navigationContentDescription = 20;
+			// aapt resource value: 14
+			public const int Toolbar_navigationContentDescription = 14;
 			
-			// aapt resource value: 0x15
-			public const int Toolbar_navigationIcon = 21;
+			// aapt resource value: 15
+			public const int Toolbar_navigationIcon = 15;
 			
-			// aapt resource value: 0x16
-			public const int Toolbar_popupTheme = 22;
+			// aapt resource value: 16
+			public const int Toolbar_popupTheme = 16;
 			
-			// aapt resource value: 0x17
-			public const int Toolbar_subtitle = 23;
+			// aapt resource value: 17
+			public const int Toolbar_subtitle = 17;
 			
-			// aapt resource value: 0x18
-			public const int Toolbar_subtitleTextAppearance = 24;
+			// aapt resource value: 18
+			public const int Toolbar_subtitleTextAppearance = 18;
 			
-			// aapt resource value: 0x19
-			public const int Toolbar_subtitleTextColor = 25;
+			// aapt resource value: 19
+			public const int Toolbar_subtitleTextColor = 19;
 			
-			// aapt resource value: 0x20
-			public const int Toolbar_title = 32;
+			// aapt resource value: 20
+			public const int Toolbar_title = 20;
 			
-			// aapt resource value: 0x21
-			public const int Toolbar_titleMargin = 33;
+			// aapt resource value: 21
+			public const int Toolbar_titleMargin = 21;
 			
-			// aapt resource value: 0x22
-			public const int Toolbar_titleMarginBottom = 34;
+			// aapt resource value: 22
+			public const int Toolbar_titleMarginBottom = 22;
 			
-			// aapt resource value: 0x23
-			public const int Toolbar_titleMarginEnd = 35;
+			// aapt resource value: 23
+			public const int Toolbar_titleMarginEnd = 23;
 			
-			// aapt resource value: 0x26
-			public const int Toolbar_titleMargins = 38;
+			// aapt resource value: 26
+			public const int Toolbar_titleMargins = 26;
 			
-			// aapt resource value: 0x24
-			public const int Toolbar_titleMarginStart = 36;
+			// aapt resource value: 24
+			public const int Toolbar_titleMarginStart = 24;
 			
-			// aapt resource value: 0x25
-			public const int Toolbar_titleMarginTop = 37;
+			// aapt resource value: 25
+			public const int Toolbar_titleMarginTop = 25;
 			
-			// aapt resource value: 0x27
-			public const int Toolbar_titleTextAppearance = 39;
+			// aapt resource value: 27
+			public const int Toolbar_titleTextAppearance = 27;
 			
-			// aapt resource value: 0x28
-			public const int Toolbar_titleTextColor = 40;
+			// aapt resource value: 28
+			public const int Toolbar_titleTextColor = 28;
 			
 			// aapt resource value: { 0x1010000,0x10100DA,0x7F030142,0x7F030143,0x7F0301BF }
 			public static int[] View = new int[] {
@@ -12340,13 +13852,13 @@ namespace royalmail.trail.Droid
 					2130903092,
 					2130903093};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ViewBackgroundHelper_android_background = 0;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ViewBackgroundHelper_backgroundTint = 1;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ViewBackgroundHelper_backgroundTintMode = 2;
 			
 			// aapt resource value: { 0x10100D0,0x10100F2,0x10100F3 }
@@ -12355,28 +13867,28 @@ namespace royalmail.trail.Droid
 					16842994,
 					16842995};
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int ViewStubCompat_android_id = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int ViewStubCompat_android_inflatedId = 2;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int ViewStubCompat_android_layout = 1;
 			
-			// aapt resource value: 0x1
+			// aapt resource value: 1
 			public const int View_android_focusable = 1;
 			
-			// aapt resource value: 0x0
+			// aapt resource value: 0
 			public const int View_android_theme = 0;
 			
-			// aapt resource value: 0x2
+			// aapt resource value: 2
 			public const int View_paddingEnd = 2;
 			
-			// aapt resource value: 0x3
+			// aapt resource value: 3
 			public const int View_paddingStart = 3;
 			
-			// aapt resource value: 0x4
+			// aapt resource value: 4
 			public const int View_theme = 4;
 			
 			static Styleable()

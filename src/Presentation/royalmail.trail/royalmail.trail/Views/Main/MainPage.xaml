@@ -2,16 +2,51 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:markup="clr-namespace:royalmail.trail.Extensions.Markup;assembly=royalmail.trail"
-             x:Class="royalmail.trail.Views.Main.MainPage"
-             Title="Track you item">
+             xmlns:vms="clr-namespace:royalmail.trail.ViewModels.Main;assembly=royalmail.trail"
+             x:Class="royalmail.trail.Views.Main.MainPage">
+    <ContentPage.BindingContext>
+        <vms:MainViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Title>
+        <OnPlatform x:TypeArguments="x:String">
+            <On Platform="iOS, UWP, WinRT, WinPhone" Value="Track you item" />
+        </OnPlatform>
+    </ContentPage.Title>
+    <ContentPage.Resources>
+        <Style x:Key="HeaderLabelStyle"
+               TargetType="{x:Type Label}">
+            <Setter Property="FontFamily"
+                    Value="{StaticResource MontserratRegular}" />
+            <Setter Property="FontSize"
+                    Value="{StaticResource LittleSize}" />
+            <Setter Property="HorizontalOptions"
+                    Value="Start" />
+        </Style>
+
+    </ContentPage.Resources>
     <ContentPage.Content>
-        <StackLayout Margin="15,50,15,0">
+        <Grid VerticalOptions="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+        <StackLayout Grid.Row="0" Grid.Column="1">
             <Image Source="{markup:ImageResource royalmail.trail.Assets.Images.royalmaillogo.png}" VerticalOptions="Center" HorizontalOptions="Center"/>
             <StackLayout VerticalOptions="Center">
-                <Label Text="ReferenceNumber" />
-                <Entry x:Name="ReferenceNumberEntry" Placeholder="e.g. XH45554533GB" />
-                <Button Text="Search"/>
-            </StackLayout>
+                <Label Text="ReferenceNumber" Style="{StaticResource HeaderLabelStyle}"/>
+                <Entry x:Name="ReferenceNumberEntry" Placeholder="e.g. XH45554533GB" Text="{Binding ReferenceNumber.Value, Mode=TwoWay}"/>
+                    <Label Text="{Binding ReferenceNumberErrorMessage.Value}" Style="{StaticResource ValidationErrorLabelStyle}" IsVisible="{Binding ReferenceNumberFormHasErrors.Value}"/>
+                <Button Text="Search" IsEnabled="{Binding FormHasErrors.Value}" Command="{Binding SearchCommand}"/>
+                <ActivityIndicator 
+                    IsRunning="{Binding IsBusy.Value}"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
         </StackLayout>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
