@@ -19,6 +19,7 @@ namespace royalmail.trail.ViewModels.Main
         public ReactiveProperty<bool> FormHasErrors { get; }
 
 
+        public ReactiveCommand ReferenceNumberUnfocusedCommand { get; }
         public ReactiveCommand SearchCommand { get; }
 
         public MainViewModel()
@@ -64,8 +65,8 @@ namespace royalmail.trail.ViewModels.Main
 
                 });
 
-
-
+            ReferenceNumberUnfocusedCommand = new ReactiveCommand();
+            ReferenceNumberUnfocusedCommand.Subscribe(_ => ReferenceNumber.ForceValidate());
         }
     }
 }

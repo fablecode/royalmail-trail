@@ -13,6 +13,13 @@ namespace royalmail.trail.Views.Main
         {
             InitializeComponent();
         }
+
+        protected override void OnAppearing()
+        {
+            ReferenceNumberEntry.Focus();
+
+            base.OnAppearing();
+        }
     }
 
 

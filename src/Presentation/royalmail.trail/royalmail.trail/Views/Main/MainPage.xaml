@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:markup="clr-namespace:royalmail.trail.Extensions.Markup;assembly=royalmail.trail"
              xmlns:vms="clr-namespace:royalmail.trail.ViewModels.Main;assembly=royalmail.trail"
+             xmlns:bhv="clr-namespace:royalmail.trail.Behaviors.EventToCommandBehavior;assembly=royalmail.trail"
              x:Class="royalmail.trail.Views.Main.MainPage">
     <ContentPage.BindingContext>
         <vms:MainViewModel/>
@@ -38,7 +39,11 @@
             <Image Source="{markup:ImageResource royalmail.trail.Assets.Images.royalmaillogo.png}" VerticalOptions="Center" HorizontalOptions="Center"/>
             <StackLayout VerticalOptions="Center">
                 <Label Text="ReferenceNumber" Style="{StaticResource HeaderLabelStyle}"/>
-                <Entry x:Name="ReferenceNumberEntry" Placeholder="e.g. XH45554533GB" Text="{Binding ReferenceNumber.Value, Mode=TwoWay}"/>
+                    <Entry x:Name="ReferenceNumberEntry" Placeholder="e.g. XH45554533GB" Text="{Binding ReferenceNumber.Value, Mode=TwoWay}">
+                        <Entry.Behaviors>
+                            <bhv:EventToCommandBehavior EventName="Unfocused" Command="{Binding ReferenceNumberUnfocusedCommand}"/>
+                        </Entry.Behaviors>
+                    </Entry>
                     <Label Text="{Binding ReferenceNumberErrorMessage.Value}" Style="{StaticResource ValidationErrorLabelStyle}" IsVisible="{Binding ReferenceNumberFormHasErrors.Value}"/>
                 <Button Text="Search" IsEnabled="{Binding FormHasErrors.Value}" Command="{Binding SearchCommand}"/>
                 <ActivityIndicator 
