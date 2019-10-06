@@ -4,15 +4,17 @@
              xmlns:markup="clr-namespace:royalmail.trail.Extensions.Markup;assembly=royalmail.trail"
              xmlns:vms="clr-namespace:royalmail.trail.ViewModels.Main;assembly=royalmail.trail"
              xmlns:bhv="clr-namespace:royalmail.trail.Behaviors.EventToCommandBehavior;assembly=royalmail.trail"
+             ControlTemplate="{StaticResource IsBusyDefaultTemplate}"
+             NavigationPage.HasNavigationBar="False"
              x:Class="royalmail.trail.Views.Main.MainPage">
     <ContentPage.BindingContext>
         <vms:MainViewModel/>
     </ContentPage.BindingContext>
-    <ContentPage.Title>
+    <!--<ContentPage.Title>
         <OnPlatform x:TypeArguments="x:String">
             <On Platform="iOS, UWP, WinRT, WinPhone" Value="Track you item" />
         </OnPlatform>
-    </ContentPage.Title>
+    </ContentPage.Title>-->
     <ContentPage.Resources>
         <Style x:Key="HeaderLabelStyle"
                TargetType="{x:Type Label}">
@@ -46,11 +48,7 @@
                     </Entry>
                     <Label Text="{Binding ReferenceNumberErrorMessage.Value}" Style="{StaticResource ValidationErrorLabelStyle}" IsVisible="{Binding ReferenceNumberFormHasErrors.Value}"/>
                 <Button Text="Search" IsEnabled="{Binding FormHasErrors.Value}" Command="{Binding SearchCommand}"/>
-                <ActivityIndicator 
-                    IsRunning="{Binding IsBusy.Value}"
-                    VerticalOptions="CenterAndExpand" 
-                    HorizontalOptions="CenterAndExpand"/>
-                </StackLayout>
+            </StackLayout>
         </StackLayout>
         </Grid>
     </ContentPage.Content>

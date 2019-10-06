@@ -16,6 +16,7 @@ namespace royalmail.trail.ViewModels.Main
         public ReactiveProperty<string> ReferenceNumberErrorMessage { get; set; }
         public ReactiveProperty<bool> ReferenceNumberFormHasErrors { get; }
         public ReactiveProperty<bool> IsBusy { get; }
+        public ReactiveProperty<string> BusyText { get; }
         public ReactiveProperty<bool> FormHasErrors { get; }
 
 
@@ -38,7 +39,8 @@ namespace royalmail.trail.ViewModels.Main
                 .CombineLatest(x => x.Any(y => y))
                 .ToReactiveProperty();
 
-            IsBusy = new ReactiveProperty<bool>();
+            IsBusy = new ReactiveProperty<bool>(false);
+            BusyText = new ReactiveProperty<string>("loading..");
 
 
             // You can combine some ObserveHasErrors values.

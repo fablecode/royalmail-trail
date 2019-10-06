@@ -178,6 +178,22 @@
                         Value="{StaticResource LittleSize}" />
             </Style>
 
+            <ControlTemplate x:Key="IsBusyDefaultTemplate">
+                <Grid>
+                    <!-- page content -->
+                    <ContentPresenter />
+                    <!-- overlay -->
+                    <BoxView BackgroundColor="Black" Opacity="0.5" 
+                             IsVisible="{TemplateBinding BindingContext.IsBusy.Value}"/>
+                    <!-- busy indicator with text -->
+                    <Frame IsVisible="{TemplateBinding BindingContext.IsBusy.Value}" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" BackgroundColor="White">
+                        <AbsoluteLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
+                            <ActivityIndicator IsRunning="{TemplateBinding BindingContext.IsBusy.Value}" />
+                            <Label Text="{TemplateBinding BindingContext.BusyText.Value}" />
+                        </AbsoluteLayout>
+                    </Frame>
+                </Grid>
+            </ControlTemplate>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
