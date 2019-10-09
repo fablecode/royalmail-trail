@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:contexts="clr-namespace:royalmail.trail.Contexts;assembly=royalmail.trail"
+             xmlns:vms="clr-namespace:royalmail.trail.ViewModels.BarcodeDetails;assembly=royalmail.trail"
+             mc:Ignorable="d"
+             ControlTemplate="{StaticResource IsBusyDefaultTemplate}"
+             x:Class="royalmail.trail.Views.BarcodeDetails.BarcodeDetailsPage"
+             contexts:NavigationContext.Param="{Binding ReferenceNumber.Value}">
+    <ContentPage.BindingContext>
+        <vms:BarcodeDetailsViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Barcode details for"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding ReferenceNumber.Value}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

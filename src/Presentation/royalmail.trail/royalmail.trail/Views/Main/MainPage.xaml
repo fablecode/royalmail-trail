@@ -4,7 +4,6 @@
              xmlns:markup="clr-namespace:royalmail.trail.Extensions.Markup;assembly=royalmail.trail"
              xmlns:vms="clr-namespace:royalmail.trail.ViewModels.Main;assembly=royalmail.trail"
              xmlns:bhv="clr-namespace:royalmail.trail.Behaviors.EventToCommandBehavior;assembly=royalmail.trail"
-             ControlTemplate="{StaticResource IsBusyDefaultTemplate}"
              NavigationPage.HasNavigationBar="False"
              x:Class="royalmail.trail.Views.Main.MainPage">
     <ContentPage.BindingContext>
@@ -21,7 +20,7 @@
             <Setter Property="FontFamily"
                     Value="{StaticResource MontserratRegular}" />
             <Setter Property="FontSize"
-                    Value="{StaticResource LittleSize}" />
+                    Value="{StaticResource MediumSize}" />
             <Setter Property="HorizontalOptions"
                     Value="Start" />
         </Style>
@@ -40,7 +39,7 @@
         <StackLayout Grid.Row="0" Grid.Column="1">
             <Image Source="{markup:ImageResource royalmail.trail.Assets.Images.royalmaillogo.png}" VerticalOptions="Center" HorizontalOptions="Center"/>
             <StackLayout VerticalOptions="Center">
-                <Label Text="ReferenceNumber" Style="{StaticResource HeaderLabelStyle}"/>
+                <Label Text="Barcode or reference number..." Style="{StaticResource HeaderLabelStyle}"/>
                     <Entry x:Name="ReferenceNumberEntry" Placeholder="e.g. XH45554533GB" Text="{Binding ReferenceNumber.Value, Mode=TwoWay}">
                         <Entry.Behaviors>
                             <bhv:EventToCommandBehavior EventName="Unfocused" Command="{Binding ReferenceNumberUnfocusedCommand}"/>
