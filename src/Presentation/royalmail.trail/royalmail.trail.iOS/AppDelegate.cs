@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Xamarin.Forms;
 
 namespace royalmail.trail.iOS
 {
@@ -23,6 +24,7 @@ namespace royalmail.trail.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            global::Xamarin.Forms.FormsMaterial.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

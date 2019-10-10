@@ -8,6 +8,7 @@
              mc:Ignorable="d"
              ControlTemplate="{StaticResource IsBusyDefaultTemplate}"
              x:Class="royalmail.trail.Views.BarcodeDetails.BarcodeDetailsPage"
+             NavigationPage.HasNavigationBar="False"
              contexts:NavigationContext.Param="{Binding ReferenceNumber.Value}">
     <ContentPage.BindingContext>
         <vms:BarcodeDetailsViewModel/>
