@@ -1,4 +1,5 @@
-﻿using royalmail.trail.Services;
+﻿using royalmail.trail.application;
+using royalmail.trail.Services;
 using royalmail.trail.ViewModels.BarcodeDetails;
 using royalmail.trail.ViewModels.Infrastructure.Services;
 using royalmail.trail.ViewModels.Main;
@@ -13,6 +14,8 @@ namespace royalmail.trail.Configuration
         {
             ConfigureNavigation();
             ConfigureServices();
+
+            ServiceLocator.ServiceCollection.AddApplicationServices();
 
             ServiceLocator.BuildContainer(); 
         }

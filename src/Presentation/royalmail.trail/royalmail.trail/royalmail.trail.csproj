@@ -29,6 +29,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Application\royalmail.trail.application\royalmail.trail.application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\BarcodeDetails\BarcodeDetailsPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

@@ -26,5 +26,7 @@ namespace royalmail.trail.Configuration
         {
             return _container.GetService<T>();
         }
+
+        public static ServiceCollection ServiceCollection => BuilderServiceCollection;
     }
 }
